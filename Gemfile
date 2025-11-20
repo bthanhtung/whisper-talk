@@ -9,10 +9,12 @@ ruby RUBY_VERSION
 #
 
 # If you have any plugins, put them here!
-gem 'wdm', '>= 0.1.0' if Gem.win_platform?
+gem 'wdm', '>= 0.1.2' if Gem.win_platform?
 group :jekyll_plugins do
     gem 'jekyll-feed'
     gem 'jekyll-sitemap'
-    gem 'jekyll-paginate'
+    gem "jekyll-paginate-v2", "2.0.0"
     gem 'jekyll-seo-tag'
+    gem "kramdown-parser-gfm"
 end
+gem "webrick", "~> 1.8"
