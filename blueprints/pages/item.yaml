@@ -1,0 +1,68 @@
+extends@: default
+
+form:
+  fields:
+    tabs:
+
+      fields:
+        content:
+          type: tab
+          fields:
+            _Headings:
+              type: columns
+              fields:
+                _Title:
+                  type: column
+                  fields:
+                    header.show_title:
+                      unset@: true
+        blog:
+          type: tab
+          title: MUNDANA.ADMIN.ITEM.TAB
+
+          fields:
+            _summaryConfig:
+              type: section
+              title: MUNDANA.ADMIN.ITEM.CONTENT.SUMMARY.LABEL
+            header.show_summary:
+              type: toggle
+              toggleable: true
+              label: MUNDANA.ADMIN.ITEM.CONTENT.SUMMARY.SHOW
+              help: MUNDANA.ADMIN.ITEM.CONTENT.SUMMARY.SHOW_HELP
+              highlight: 1
+              options:
+                1: PLUGIN_ADMIN.ENABLED
+                0: PLUGIN_ADMIN.DISABLED
+            header.summary.enabled:
+              type: toggle
+              toggleable: true
+              label: MUNDANA.ADMIN.ITEM.CONTENT.SUMMARY.ENABLED
+              highlight: 1
+              options:
+                1: PLUGIN_ADMIN.ENABLED
+                0: PLUGIN_ADMIN.DISABLED
+            header.summary.format:
+              type: select
+              toggleable: true
+              label: MUNDANA.ADMIN.ITEM.CONTENT.SUMMARY.FORMAT.LABEL
+              classes: fancy
+              options:
+                'short': MUNDANA.ADMIN.ITEM.CONTENT.SUMMARY.FORMAT.SHORT
+                'long': MUNDANA.ADMIN.ITEM.CONTENT.SUMMARY.FORMAT.LONG
+            header.summary.size:
+              type: text
+              toggleable: true
+              label: MUNDANA.ADMIN.ITEM.CONTENT.SUMMARY.SIZE
+              classes: large
+              placeholder: 300
+              validate:
+                type: int
+                min: 1
+            header.summary.delimiter:
+              type: text
+              toggleable: true
+              label: MUNDANA.ADMIN.ITEM.CONTENT.SUMMARY.DELIMITER
+              classes: large
+              placeholder: ===
+          import@:
+            type: partials/item-bits

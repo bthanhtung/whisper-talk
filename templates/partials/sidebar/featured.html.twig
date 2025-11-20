@@ -1,0 +1,31 @@
+{# FEATURED SECTION - SIDEBAR #}
+
+{% set featured_posts = page.evaluate({'@taxonomy.tag': featuredposts_tag}).order('date', 'desc').slice(0, featuredposts_number) %}
+
+{% if featured_posts.count() > 0 %}
+<div class="sidebar-content my-5">
+    <h3 class="h4 font-weight-bold spanborder">
+        <span>{{ block_title }}</span>
+    </h3>
+    <ol class="list-featured">
+        {% for p in featured_posts %}
+            <li class="mb-4">
+                <span>
+                    <span class="font-weight-bold h6">
+                        <a href="{{ p.url }}" class="text-dark">{{ p.title|e }}</a>
+                    </span>
+                    <span class="d-block text-muted">
+                        {{ 'MUNDANA.MISC.IN'|t }}
+                        <span class="catlist">
+                            {% for category in p.taxonomy.category %}
+                                <a class="text-capitalize text-{{ color_style }} smoothscroll" href="{{ blog.url|rtrim('/') }}/category{{ config.system.param_sep }}{{ category|e('url') }}">{{ category|e }}</a>
+                                <span class="sep">,    </span>
+                            {% endfor %}
+                        </span>
+                    </span>
+                </span>
+            </li>
+        {% endfor %}
+    </ol>
+</div>
+{% endif %}
