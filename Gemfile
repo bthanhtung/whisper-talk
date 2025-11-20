@@ -1,21 +1,20 @@
 source "https://rubygems.org"
-
 ruby RUBY_VERSION
 
-# Core Jekyll
-gem "jekyll", "~> 4.3"
+# Hello! This is where you manage which Jekyll version is used to run.
+# When you want to use a different version, change it below, save the
+# file and run `bundle install`. Run Jekyll with `bundle exec`, like so:
+#
+#     bundle exec jekyll serve
+#
 
-# Windows dependency (Vercel sẽ ignore)
-gem "wdm", ">= 0.1.0", platforms: [:mingw, :mswin, :x64_mingw]
-
-# Plugins
-gem "jekyll-feed"
-gem "jekyll-sitemap"
-gem "jekyll-paginate"
-gem "jekyll-seo-tag"
-
-# Mundana theme gem
-gem "mundana-jekyll", "~> 2.0"
-
-# Local server in Ruby 3+
-gem "webrick"
+# If you have any plugins, put them here!
+gem 'wdm', '>= 0.1.2' if Gem.win_platform?
+group :jekyll_plugins do
+    gem 'jekyll-feed'
+    gem 'jekyll-sitemap'
+    gem "jekyll-paginate-v2", "2.0.0"
+    gem 'jekyll-seo-tag'
+    gem "kramdown-parser-gfm"
+end
+gem "webrick", "~> 1.8"
