@@ -6,8 +6,7 @@ categories: [doi-song, cam-xuc, mua-he]
 image: assets/images/1.jpg
 tags: [featured]
 ---
-# **Tất cả chúng ta đều chờ đợi mùa hè**  
-*— Một tuỳ bút dài theo phong vị Nguyễn Tuân, Nam Cao, đầy trăn trở và thi vị của lòng người Việt*
+# **Tất cả chúng ta đều chờ đợi mùa hè**
 
 Có một điều thật lạ lùng: dù tuổi trẻ vừa trôi đi hay đang nở rộ, dù lòng người còn vương vít những vệt buồn xám xịt của tháng Ba hay vẩn vơ giữa những chiều tháng Tư chưa kịp tỏa nắng, **mùa hè** vẫn là cái gì đó khiến người ta chờ đợi, háo hức như đứa trẻ mong mẹ về chợ với chiếc chong chóng sặc sỡ.  
 

@@ -1,13 +1,12 @@
 ---
 layout: post
 title:  "Những đứa trẻ hồn nhiên nơi đồng quê"
-author: sal
+author: Vincent
 categories: [tuoi-tho, dong-que, tuy-but]
 image: assets/images/3.jpg
 ---
 
-# **Những đứa trẻ hồn nhiên nơi đồng quê**  
-*— Một tuỳ bút đượm phong vị Nguyễn Tuân – Nam Cao, chan chứa nắng, gió và tình quê*
+# **Những đứa trẻ hồn nhiên nơi đồng quê**
 
 Có những hình ảnh chỉ cần nghĩ đến thôi cũng đủ làm lòng người mềm lại: **những đứa trẻ nơi đồng quê** — tóc cháy nắng, chân lấm bùn, ánh mắt trong veo như giọt sương sớm nằm trên đầu ngọn lúa.  
 

@@ -1,14 +1,13 @@
 ---
 layout: post
 title:  "Sức mạnh của nghèo khó"
-author: sal
+author: Vincent
 categories: [doi-song, tuy-but, tri-ly]
 image: assets/images/4.jpg
 tags: [featured]
 ---
 
-# **Sức mạnh của nghèo khó**  
-*— Một tuỳ bút thấm đẫm hơi thở Nam Cao, Nguyễn Tuân và vẻ đẹp kiêu hãnh trong nỗi cơ cực*
+# **Sức mạnh của nghèo khó**
 
 Có lẽ trên đời này, chẳng ai mong muốn mình nghèo.  
 Nghèo khiến con người ta mệt mỏi, chật vật, dè sẻn từng bữa ăn, từng cái áo, từng niềm vui nhỏ bé.  

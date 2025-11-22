@@ -1,14 +1,13 @@
 ---
 layout: post
 title:  "Nước ép có thực sự tốt?"
-author: sal
+author: Vincent
 categories: [doi-song, suc-khoe, tu-duy]
 image: assets/images/14.jpg
 tags: featured
 ---
 
-# **Nước ép có thực sự tốt?**  
-*— Một tuỳ bút theo phong vị Nguyễn Tuân – Nam Cao, vừa đậm chất suy tư, vừa thấm vị ngọt – chua của đời sống hiện đại*
+# **Nước ép có thực sự tốt?**
 
 Ngày nay, đi đâu ta cũng thấy nước ép: trên mạng xã hội, trong phòng gym, ở các quán cà phê sáng, thậm chí trong túi xách của những cô gái thành phố vẫn luôn có một chai nước ép thanh lọc cơ thể.  
 Người ta tin rằng **nước ép tốt**, rằng nước ép “detox”, rằng uống nước ép mỗi ngày sẽ trẻ hơn, đẹp hơn, khoẻ hơn.

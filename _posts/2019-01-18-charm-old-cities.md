@@ -7,8 +7,7 @@ image: assets/images/home.jpg
 tags: [sticky]
 ---
 
-# **Sự quyến rũ của những thành phố cổ**  
-*— Một tuỳ bút mang phong vị Nguyễn Tuân – Nam Cao, nơi cảm xúc hòa cùng ký ức và lịch sử*
+# **Sự quyến rũ của những thành phố cổ**
 
 Khi đặt chân lên những con đường lát đá cổ, nghe tiếng bước chân vang nhẹ trên nền gạch rêu phong, tôi mới chợt nhận ra:  
 **thời gian là thứ chảy không ngừng, nhưng những thành phố cổ lại giữ được hơi thở bất tử của nó.**  

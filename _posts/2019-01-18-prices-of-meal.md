@@ -1,13 +1,12 @@
 ---
 layout: post
 title:  "Khi thức ăn trở thành câu chuyện của đời sống"
-author: jane
+author: Vincent
 categories: [doi-song, am-thuc, tri-ly]
 image: assets/images/11.jpg
 ---
 
 # **Một buổi ăn đáng giá bao nhiêu?**  
-*— Một tuỳ bút phong cách Nguyễn Tuân – Nam Cao, nơi mỗi món ăn là một lát cắt của đời sống, của tâm hồn và của thời gian*
 
 Chúng ta vẫn thường tính toán buổi ăn bằng tiền bạc, bằng calo, bằng thời gian.  
 Một tô phở 50 nghìn, một suất cơm 30 nghìn, một ly cà phê sữa 20 nghìn.  

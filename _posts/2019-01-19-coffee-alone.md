@@ -7,7 +7,6 @@ image: assets/images/6.jpg
 tags: featured
 ---
 # **Cà phê một mình**  
-*— Một tuỳ bút phong cách Nguyễn Tuân – Nam Cao, nơi khoảng lặng và hương vị cà phê dẫn dắt tâm hồn*
 
 Ngồi một mình trước tách cà phê, nhìn qua cửa kính quán nhỏ, tôi chợt nhận ra: **sự im lặng cũng có mùi vị**.  
 Cà phê một mình không đơn giản là uống để tỉnh táo hay để thưởng thức hương vị.  

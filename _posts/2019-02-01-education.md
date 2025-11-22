@@ -1,11 +1,12 @@
 ---
 layout: post
 title:  "Sức mạnh của giáo dục"
+author: Vincent
 categories: [ Jekyll, tutorial ]
 image: assets/images/3.jpg
 ---
 # **Sức mạnh của giáo dục**  
-*— Một tuỳ bút phong cách Nguyễn Tuân – Nam Cao, nơi tri thức và nhân cách hòa cùng nhau, thổi hồn vào những trang sách và những con người đang lớn lên*
+*— nơi tri thức và nhân cách hòa cùng nhau, thổi hồn vào những trang sách và những con người đang lớn lên*
 
 Giáo dục – một từ nghe giản dị nhưng mang sức nặng của cả một đời người.  
 Người ta thường nhắc đến giáo dục như chìa khoá mở ra cánh cửa thành công, nhưng thực sự, **giáo dục mạnh mẽ hơn, thấm sâu hơn, và vượt khỏi ranh giới vật chất hay nghề nghiệp**.

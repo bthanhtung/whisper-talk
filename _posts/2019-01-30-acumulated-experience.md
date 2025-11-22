@@ -6,8 +6,7 @@ categories: [suc-khoe, doi-song, tu-duy]
 image: assets/images/15.jpg
 ---
 
-# **Tích lũy kinh nghiệm sống xã hội**  
-*— Bài học từ những ngày tháng trưởng thành*
+# **Tích lũy kinh nghiệm sống xã hội**
 
 Đời người không thiếu những ngày đi qua hối hả và vội vã. Và càng lớn lên, người ta càng nhận ra một điều: không phải cứ sống lâu là sẽ hiểu nhiều, mà là **biết cách sống**, biết cách đối mặt và học hỏi từ mọi khoảnh khắc trong cuộc đời. Trong xã hội hiện đại, mỗi chúng ta đều như những cây non trên một cánh đồng rộng lớn, phải vươn mình lên để thích nghi, để nở hoa và sinh trái. 
 

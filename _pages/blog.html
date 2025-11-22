@@ -6,10 +6,11 @@ permalink: /blog/index.html
 
 <div class="container pt-5 pb-5">
     <h1 class="mb-4">Blog</h1>
-    <p class="text-muted mb-5">Nơi tui chia sẻ những dòng chữ, câu chuyện và cả mớ kinh nghiệm tech đời thường.</p>
+    <p class="text-muted mb-5">Nơi tui chia sẻ những dòng chữ, câu chuyện và kinh nghiệm tech đời thường.</p>
 
     <div class="row">
-        {% for post in paginator.posts %}
+        {% assign sorted_posts = site.posts | sort: 'date' | reverse %}
+        {% for post in sorted_posts %}
         <div class="col-md-6 mb-4">
             <div class="card border-0 shadow-sm h-100">
                 {% if post.image %}
@@ -35,28 +36,5 @@ permalink: /blog/index.html
         </div>
         {% endfor %}
     </div>
-
-    <!-- Pagination -->
-    <nav aria-label="Page navigation">
-        <ul class="pagination justify-content-center">
-            {% if paginator.previous_page %}
-            <li class="page-item">
-                <a class="page-link" href="{{ paginator.previous_page_path | relative_url }}">← Prev</a>
-            </li>
-            {% endif %}
-
-            {% for page in (1..paginator.total_pages) %}
-            <li class="page-item {% if page == paginator.page %}active{% endif %}">
-                <a class="page-link" href="{{ paginator.paginate_path | relative_url | replace: ':num', page }}">{{ page }}</a>
-            </li>
-            {% endfor %}
-
-            {% if paginator.next_page %}
-            <li class="page-item">
-                <a class="page-link" href="{{ paginator.next_page_path | relative_url }}">Next →</a>
-            </li>
-            {% endif %}
-        </ul>
-    </nav>
 
 </div>

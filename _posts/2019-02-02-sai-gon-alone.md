@@ -6,8 +6,7 @@ categories: [doi-song, pho-thi, tam-ly]
 image: assets/images/17.jpg
 tags: [featured]
 ---
-# **Sài Gòn cô đơn – Những mảnh đời giữa phố thị hoa lệ**  
-*— Một tuỳ bút theo hơi thở Nguyễn Tuân – Nam Cao, vừa sắc bén, vừa trĩu nặng tâm tư về thành phố phồn hoa mà lẻ loi*
+# **Sài Gòn cô đơn – Những mảnh đời giữa phố thị hoa lệ**
 
 Sài Gòn – thành phố hoa lệ với những tòa nhà chọc trời, với ánh đèn neon rực rỡ, với những con đường dài bất tận và xe cộ ngược xuôi.  
 Nhưng giữa nhịp sống hối hả ấy, có một cảm giác **cô đơn âm ỉ**, len lỏi trong từng ngóc ngách, từng quán cà phê vắng bóng người, từng con hẻm lặng lẽ sau buổi chiều muộn.

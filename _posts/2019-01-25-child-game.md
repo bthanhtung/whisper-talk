@@ -1,12 +1,11 @@
 ---
 layout: post
 title: "Những trò chơi trẻ thơ miền Tây"
-author: sal
+author: Vincent
 categories: [tuoi-tho, mien-tay, van-hoa]
 image: assets/images/7.jpg
 ---
-# **Những trò chơi trẻ thơ miền Tây**  
-*— Một tuỳ bút chan chứa hương phù sa, hồn quê, và tiếng cười tuổi nhỏ theo phong vị Nam Cao – Nguyễn Tuân*
+# **Những trò chơi trẻ thơ miền Tây**
 
 Miền Tây – vùng đất được trời ưu ái bằng dòng phù sa mặn mà và những con người chân chất như hạt lúa vàng. Và giữa cái bao la của ruộng đồng, cái mênh mang của sông nước, tuổi thơ miền Tây lớn lên **không cần đồ chơi đắt tiền**, không cần những trò điện tử phát sáng, mà chỉ cần **bùn đất, rơm rạ, vài nhành cây, một dòng nước trong veo**.  
 

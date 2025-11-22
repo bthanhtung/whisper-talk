@@ -5,8 +5,7 @@ author: Vincent
 categories: [tri-ly, doi-song, tam-ly]
 image: https://images.unsplash.com/photo-1523740856324-f2ce89135981?ixlib=rb-1.2.1&auto=format&fit=crop&w=798&q=80
 ---
-# **Thông minh thôi đã đủ chưa?**  
-*— Một tuỳ bút đậm hơi thở Nguyễn Tuân – Nam Cao, xoáy vào những khía cạnh mỏng manh của trí tuệ và đời sống con người*
+# **Thông minh thôi đã đủ chưa?**
 
 Người đời vốn có thói quen ngợi ca sự thông minh.  
 Trẻ nhỏ mà học nhanh, hiểu bài sớm thì ai cũng gật gù:  

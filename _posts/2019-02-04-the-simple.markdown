@@ -1,11 +1,11 @@
 ---
 layout: post
 title:  "ỉnh cao của nghệ thuật là sự đơn giản"
+author: Vincent
 categories: [nghe-thuat, tri-ly, doi-song]
 image: assets/images/demo1.jpg
 ---
-# **Đỉnh cao của nghệ thuật là sự đơn giản**  
-*— Một tuỳ bút phong cách Nguyễn Tuân – Nam Cao, nơi tinh thần giản dị trở thành đỉnh cao của cái đẹp và sự thấu hiểu*
+# **Đỉnh cao của nghệ thuật là sự đơn giản**
 
 Nhiều người nhìn nghệ thuật bằng con mắt cầu kỳ: họ tìm đến những bức tranh rực rỡ, những bản nhạc phức tạp, những trang sách dày đặc tri thức.  
 Nhưng, **đỉnh cao thật sự của nghệ thuật lại nằm ở sự giản dị**, nơi mỗi chi tiết vừa đủ, vừa tinh tế, và không thừa bất kỳ một nét nào.

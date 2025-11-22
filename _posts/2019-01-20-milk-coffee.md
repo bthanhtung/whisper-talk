@@ -1,13 +1,12 @@
 ---
 layout: post
 title: "Cà phê sữa – Hương vị giản dị nhưng thấm đẫm đời sống"
-author: sal
+author: Vincent
 categories: [doi-song, am-thuc, van-hoa]
 image: assets/images/12.jpg
 ---
 
-# **Cà phê sữa – Hương vị giản dị nhưng thấm đẫm đời sống**  
-*— Một tuỳ bút mang phong vị Nguyễn Tuân – Nam Cao, nơi hơi thở phố thị giao thoa với câu chuyện đời thường*
+# **Cà phê sữa – Hương vị giản dị nhưng thấm đẫm đời sống**
 
 Người Sài Gòn nói riêng, miền Nam nói chung, lớn lên cùng **cà phê sữa đá** như cách cây lúa lớn lên cùng nắng gió đồng quê.  
 Chỉ cần một ly nhỏ, đá râm ran trong cốc, sữa hoà quyện vào vị đắng, là cả buổi sáng bỗng trở nên trọn vẹn.  

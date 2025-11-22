@@ -6,8 +6,7 @@ categories: [suc-khoe, am-thuc, doi-song]
 image: assets/images/2.jpg
 ---
 
-# **Ăn uống và những vấn đề về sức khoẻ**  
-*— một tuỳ bút theo hơi thở văn học Việt Nam cận đại*
+# **Ăn uống và những vấn đề về sức khoẻ**
 
 Ẩm thực vốn là chuyện thường ngày giữa cõi đời rộng lớn, tưởng chừng giản đơn như bữa cơm mẹ nấu mỗi chiều, như chút mắm muối vẫn còn lại trên mâm sau những buổi nước lũ chưa kịp rút. Thế nhưng, càng sống lâu trong nhịp đời hối hả, tôi càng nhận ra rằng: **ăn uống không chỉ để sống**, mà đôi khi còn là **cái cớ để người ta sống cho tử tế**, sống đúng với nhịp đập của thân xác lẫn tâm hồn.  
 

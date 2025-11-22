@@ -1,13 +1,12 @@
 ---
 layout: post
 title: "Một lời thú nhận giữa lòng phố thị"
-author: sal
+author: Vincent
 categories: [am-thuc, doi-song, sai-gon]
 image: assets/images/2.jpg
 ---
 
-# **Tôi không thích các món xa hoa cầu kỳ của Sài Thành**  
-*— Một tuỳ bút mang dư vị Nam Cao – Nguyễn Tuân, mộc mạc mà thấm thía*
+# **Tôi không thích các món xa hoa cầu kỳ của Sài Thành** 
 
 Có một điều mà tôi vẫn thường băn khoăn khi lang thang giữa lòng Sài Gòn rộng lớn: **tại sao người ta lại thích những món ăn thật xa hoa, thật sang trọng, thật cầu kỳ**, trong khi lòng mình đôi khi chỉ ao ước một cái gì đó giản đơn, như một gánh bún riêu ven đường, một chén chè đậu xanh nóng bốc khói, hay một dĩa cơm tấm sườn nướng thơm lừng giữa buổi trưa nắng?
 
