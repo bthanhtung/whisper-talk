@@ -1,7 +1,12 @@
-jekyll:
+version: '3.8'
+
+services:
+  jekyll:
     image: jekyll/jekyll:latest
-    command: jekyll serve --force_polling
+    command: bundle exec jekyll serve --watch --force_polling --host 0.0.0.0
     ports:
-        - 4000:4000
+      - "4000:4000"
     volumes:
-        - .:/srv/jekyll
+      - .:/srv/jekyll
+    environment:
+      JEKYLL_ENV: development
