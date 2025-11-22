@@ -91,6 +91,16 @@
         </div>
     </footer>
 
+      <!-- Script kiểm tra Disqus -->
+        <script>
+        document.addEventListener("DOMContentLoaded", function() {
+            var disqus = document.getElementById("disqus_thread");
+            if (!disqus || disqus.innerHTML.trim() === "") {
+            disqus.style.display = "none";
+            }
+        });
+        </script>
+
     {% include tracking-footer.html %}
 
 </body>

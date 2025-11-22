@@ -8460,3 +8460,7 @@ html {
     align-self: baseline !important; }
   .align-self-xl-stretch {
     align-self: stretch !important; } }
+
+#disqus_thread:empty {
+    display: none !important;
+}
