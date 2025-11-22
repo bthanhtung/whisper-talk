@@ -2,6 +2,7 @@ version: '3.8'
 
 services:
   jekyll:
+    platform: linux/amd64
     image: jekyll/jekyll:latest
     command: bundle exec jekyll serve --watch --force_polling --host 0.0.0.0
     ports:
