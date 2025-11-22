@@ -1,12 +1,12 @@
 # Site
-name: "Whisper Talk"
-title: "Whisper Talk - Blog to share our stories"
+name: "WhisperTalk"
+title: "WhisperTalk - Blog to share our stories"
 description: "Blog to share our stories"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 url: "https://whisper-talk.vercel.app"   # hoặc domain của bạn
 baseurl: ""    
-google_analytics: 'UA-46278016-1'
+google_analytics: 'UA-46278016-1tungbt'
 disqus: 'demowebsite'
 mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 include: ["_pages"]
@@ -18,7 +18,7 @@ authors:
     name: David
     display_name: David
     gravatar: e56154546cf4be74e393c62d1ae9f9d4
-    email: wowthemesnet@gmail.com
+    email: WhisperTalk@gmail.com
     web: https://whisper-talk.vercel.app/
     twitter: https://whisper-talk.vercel.app/
     description: "Author of Whisper Talks"
@@ -27,7 +27,7 @@ authors:
     display_name: Vincent    
     avatar: 'assets/images/avatar.png'
     gravatar: b1cc14991db7a456fcd761680bbc8f81
-    email: wowthemesnet@gmail.com
+    email: WhisperTalk@gmail.com
     web: https://whisper-talk.vercel.app/
     twitter: https://whisper-talk.vercel.app/
     description: "Author of Whisper Talks"
