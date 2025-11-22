@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "ỉnh cao của nghệ thuật là sự đơn giản"
+title:  "Đỉnh cao của nghệ thuật là sự đơn giản"
 author: Vincent
 categories: [nghe-thuat, tri-ly, doi-song]
 image: assets/images/demo1.jpg
