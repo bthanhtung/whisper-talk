@@ -1,7 +1,7 @@
 # Site
-name: "Mediumish"
-title: "Mediumish"
-description: "Jekyll template, Medium styled, free for bloggers."
+name: "Whisper Talk"
+title: "Whisper Talk - Blog to share our stories"
+description: "Blog to share our stories"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 url: "https://whisper-talk.vercel.app"   # hoặc domain của bạn
