@@ -2,7 +2,7 @@
 layout: post
 title:  "Sức mạnh của giáo dục"
 author: Vincent
-categories: [ Jekyll, tutorial ]
+categories: [ education ]
 image: assets/images/3.jpg
 ---
 # **Sức mạnh của giáo dục**  

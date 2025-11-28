@@ -2,7 +2,7 @@
 layout: post
 title:  "Sự quyến rũ của những thành phố cổ"
 author: Vincent
-categories: [van-hoa, du-lich, lich-su]
+categories: [van-van, du-lich, lich-su]
 image: assets/images/home.jpg
 tags: [sticky]
 ---
