@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Cái áo cà sa và bản chất phàm tục
+title:  "Cái áo cà sa và bản chất phàm tục"
 author: Vincent
 categories: [nghe-thuat, tri-ly, doi-song]
 image: assets/images/ca-sa-pham-tuc.jpg
