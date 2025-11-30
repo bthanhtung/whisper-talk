@@ -6,7 +6,7 @@ categories: [nghe-thuat, tri-ly, doi-song]
 image: assets/images/bang-cap-tri-thuc.jpg
 ---
 
-## Cái Vỏ Hào Hoa và Lõi Sầu Khổ của Kẻ Có Chữ
+## Cái vỏ hào hoa và lõi sầu khổ của kẻ có chữ
 Tháng Chạp, cái rét cứ lừ đừ trườn vào miền đất quen thuộc. Cái rét bám vào từng vạt áo cũ, bám vào cả những tấm bằng đại học ép plastic, sáng choang, mà giờ đây chỉ còn là một thứ đồ trang trí vô duyên trên cái vách nhà tróc lở.
 
 Người ta thường bảo, chữ nghĩa là thứ ánh sáng, là cái cần câu cơm bằng vàng mà đời đã hào phóng trao cho. Nhớ cái buổi người trẻ dắt nhau đi thi, rồi cái ngày xướng danh, tấm bằng đỏ chói như một dấu son trân quý, một thứ vẻ vang mà không tiền bạc nào mua nổi. Đó là sự kiêu hãnh của dòng dõi, của cái đầu được hun đúc bằng tinh hoa sách vở. Ta, kẻ có học, nhìn đời bằng con mắt khác, thấu suốt mạch nguồn kim cổ, thấy mình là người đặc tuyển giữa đám đông lầm lũi. Cái bằng cấp ấy, nó không chỉ là giấy thông hành, nó là thứ mỹ vật kiêu sa, nó xứng đáng được đặt trong tủ kính. Nó là cái để người ta ngẩng mặt lên giữa cái xóm nghèo, là minh chứng cho một sự thanh tao, thoát tục.
@@ -28,6 +28,7 @@ Cái bi kịch không nằm ở công việc tay chân. Công việc nào mà ch
 Cái tri thức mà nó tích lũy, cái tháp ngà mà nó xây dựng bằng bao nhiêu năm đèn sách, bỗng chốc trở thành một chiếc áo chật. Nó không thể cởi bỏ nó, vì nó là cái danh dự cuối cùng của nó. Nhưng nó cũng không thể mặc nó một cách đường hoàng, bởi nó quá khác biệt, quá xa lạ với cái môi trường mưu sinh sần sùi này.
 
 Nó đứng đó, giữa một vùng trời quê nhà mà nó từng khao khát trở về, nhưng giờ lại thấy mình lạc lõng như một con cá bơi ngược dòng nước chảy xiết. Nó cô đơn trong chính cái tri thức của mình. Cái tri thức ấy không giúp nó kiếm tiền, không giúp nó hòa nhập, mà chỉ làm cho nó nhạy cảm hơn với sự thô bạo của cuộc đời, làm cho nó thấy rõ cái sự vô lý đến phát khóc của mình.
+
 
 Cái vẻ vang của bằng cấp, rốt cuộc, nó chỉ là một lớp men tráng bên ngoài. Còn bên trong, là một cái lõi sầu khổ, cái sự cay đắng của người trí thức thất thời. Cái bằng đỏ chói ấy, nó như một mũi kim đâm vào tim, nhắc nhở nó mỗi ngày về cái sự lỡ làng, về cái sự vô dụng của chính mình trên cánh đồng sinh tồn. Nó thành một cái cười mỉa mai mà cuộc đời dành tặng cho những kẻ ôm ấp giấc mơ cao sang bằng con đường sách vở.
 
