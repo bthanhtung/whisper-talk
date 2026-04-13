@@ -1,88 +1,75 @@
 ---
 layout: post
-title: "Một lời thú nhận giữa lòng phố thị"
+title: "Một lời thú nhận mộc mạc giữa lòng Sài Thành hoa lệ"
 author: Vincent
 categories: [am-thuc, doi-song, sai-gon]
 image: assets/images/2.jpg
 ---
 
-# **Tôi không thích các món xa hoa cầu kỳ của Sài Thành** 
+# **Tui sợ cái rườm rà của những đĩa thức ăn kiểu cách**
 
-Có một điều mà tôi vẫn thường băn khoăn khi lang thang giữa lòng Sài Gòn rộng lớn: **tại sao người ta lại thích những món ăn thật xa hoa, thật sang trọng, thật cầu kỳ**, trong khi lòng mình đôi khi chỉ ao ước một cái gì đó giản đơn, như một gánh bún riêu ven đường, một chén chè đậu xanh nóng bốc khói, hay một dĩa cơm tấm sườn nướng thơm lừng giữa buổi trưa nắng?
+Có một bận lang thang qua mấy khúc cua đèn đỏ quạch của đất Sài Gòn, tui lại thừ người ra tự hỏi: **Cớ sao người đời cứ phải nặn cho bằng được cái sự xa hoa vào miếng ăn?** Trong khi cái bao tử còm cõi của kiếp người, nhiều đêm thức trắng rã rời, lại chỉ cồn cào thèm khát một gánh bún riêu cua đồng vỉa hè, quăng quật thêm miếng huyết luộc; hay một dĩa cơm tấm sườn nướng mỡ hành cháy sém sực nức cả một con hẻm nhỏ giữa cái nắng vàng vọt chói chang.
 
-Thế nên, mỗi khi đứng trước những nhà hàng đèn vàng lung linh, món ăn được trang trí như những bức tranh – vừa nhìn đã thấy “đắt”, tôi lại bất giác thở dài. **Tôi không thích các món xa hoa cầu kỳ của Sài Thành.** Không phải vì chúng không ngon, mà vì chúng khiến tôi cảm thấy xa lạ, như thể giữa mình và món ăn ấy có một khoảng cách không thể nào lấp được.
-
----
-
-## **Sài Thành – nơi món ăn đôi khi nhiều hình thức hơn hương vị**
-
-Sài Gòn là nơi không thiếu những điều phô trương. Chỉ cần đi qua trung tâm thành phố một vòng, ta sẽ thấy những nhà hàng lộng lẫy, những quán ăn gắn “fine dining”, những thực đơn dài dằng dặc với các món nghe tên thôi đã thấy *hoa mắt*.
-
-Ấy vậy mà, càng nhìn, tôi càng thấy đó là những món dành cho sự biểu diễn nhiều hơn là dành cho cái bụng đói, như một sàn diễn thu nhỏ mà người ta đặt thức ăn lên làm ánh đèn hào nhoáng.  
-Những chiếc dĩa lớn hơn nhu cầu, những giọt sốt điểm lên như sương mai, mỗi thứ chỉ vài nhát dao nếm thử — **món ăn đôi khi không còn là món ăn nữa**, mà là một thứ dụng cụ để chứng minh người ta *đã sống sang*.
-
-Tôi nghĩ đến **Nguyễn Tuân**. Ông chắc sẽ tán thưởng cái đẹp, cái cầu kỳ, cái công phu của món ăn. Nhưng nếu món ăn chỉ đẹp mà không thật, không mang cái hồn của đất, của người, chắc ông cũng chẳng màng.  
-Còn **Nam Cao**, nếu ngồi trước một món ăn quá cầu kỳ, hẳn sẽ chỉ thấy trong đó cái nghịch lý của đời sống thị dân: cái bụng thì đói, mà sự xa hoa lại làm người ta quên mất cái đói ấy.
+Thiệt tình! Cứ mỗi bận đứng trân mình trước mấy cái nhà hàng đèn chùm vàng chóe, dòm qua khung kính thấy đám thức ăn được chải chuốt như những bức bích họa – nhìn phát biết ngay là "bỏng tay" – tui lại vô thức thở cái sượt. **Tui ứ ưa nổi ba cái món xa hoa bóng bẩy của Sài Thành.** Trớt quớt! Chẳng phải vì chúng dở dang gì cho cam, nhưng đụng đũa vào cứ thấy ngùi ngùi xa lạ sao đâu, cứ như thể giữa mình và nếp sống kẻ chợ ấy có một bờ mương sâu hoắm cắt ngang, nhảy qua không lọt.
 
 ---
 
-## **Tôi thèm cái chân chất, cái bình dân của Sài Gòn xưa**
+## **Sài Gòn – Phố thị của những bàn tiệc làm cao**
 
-Sài Gòn không chỉ có những nơi sang trọng. Nó còn có những góc rất đời, rất thật. Chính những thứ đó tôi trân quý:  
+Sài Gòn ngó vậy chứ bự chảng, và thứ chẳng bao giờ thiếu ở đất này là cái thói phô trương. Phóng xe cái vèo qua khu nhất khu ba, nhà hàng Tây Tàu lộng lẫy mọc lên như nấm, mang cái mác "fine dining" với những thực đơn dài dòng lê thê, đọc cái tên món đủ trẹo cả quai hàm.
 
-- Một tô **hủ tiếu gõ** dưới ánh đèn vàng hiu hắt.  
-- Một ly **cà phê bệt** ngồi ghế nhựa bên vỉa hè, nghe tiếng xe chạy nườm nượp.  
-- Một dĩa **cơm tấm sườn bì chả** ăn vội giữa trưa mà ngon đến ngẩn người.  
-- Một chén **bún bò** mang hơi ấm từ đôi tay run run của bà cụ bán hàng mấy chục năm cặm cụi.
+Ấy thế mà, ngó đi ngó lại, tui cứ ngờ ngợ người ta dọn mấy món đó ra để "làm kiểng" chớ không phải để no cái bụng xẹp lép. Mâm cao cỗ đầy thu lại thành một đĩa sứ to tổ chảng, chấm phá vài giọt nước xốt mỏng dính như sương mai ban sớm, lác đác vài nhát dao cắt gọt tỉ mỉ — **món ăn cởi bỏ cái lớp áo phèn, khoác lên sự trịch thượng đến mệt nhọc**, cốt chỉ để thiên hạ gật gù chứng thực: "À, mình đang sống sang."
 
-Những món bình dân ấy không có sự hào nhoáng, không có những đường nét uốn lượn vô bổ, và cũng chẳng có đầu bếp đứng sau tấm kính đeo khăn trắng cẩn thận như trong phim.  
-Nhưng **chúng có linh hồn**.
-
-Nó là linh hồn của người lao động, của những giọt mồ hôi trên lưng áo bác xe ôm, của những đêm thức trắng của bà bán phở nấu nồi nước lèo, của những buổi sáng Sài Gòn chật chội mà ai cũng cố tìm một chút bản sắc để không bị cuốn trôi.
+Cái sự cầu kỳ ấy, nếu đưa cụ **Nguyễn Tuân** thì chắc cụ cũng mím môi gõ nhịp mà khen cái tài hoa, cái tinh xảo của gã đao phủ làm bếp. Nhưng nếu đẹp mà thiếu chân thật, thiếu cái hơi thở mướt rượt mồ hôi của đất, của người, chắc cụ cũng ném tẹt đi chẳng buồn gắp. Còn như cụ **Nam Cao**, vứt cho cụ một đĩa đồ ăn lõm bõm chút thịt giá bằng cả tạ thóc, hẳn cụ sẽ nhếch mép chua chát mà cười vào sự đời của cái đám thị dân: Bụng thì chực réo mà cứ oằn mình ra nhai vì sĩ diện.
 
 ---
 
-## **Xa hoa khiến món ăn đẹp mắt, nhưng giản dị mới làm lòng người ấm lại**
+## **Chèn đét ơi, tui thèm cái chân chất Sài Gòn xưa**
 
-Có người nói:  
-> “Ăn ngon là phải thưởng thức bằng mắt trước, rồi mới đến miệng.”
+Nhưng Sài Gòn đâu chỉ có những tòa nhà lợp bằng kính. Nó còn gậm nhấm biết bao kiếp người lầm lụi nơi hang cùng ngõ hẻm. Chính mấy cái góc rặt đời ấy mới là thứ làm tui đứt ruột đứt gan:
 
-Tôi không phản đối. Nhưng giữa cả trăm món ăn được bày như tiểu cảnh non bộ, tôi lại thèm một dĩa đồ ăn được bê ra nóng hổi, đầy đặn và ngay thẳng như tấm lòng của người nấu.
+- Một xe **hủ tiếu gõ** lạch cạch dưới ánh đèn vàng héo hắt lúc khuya lơ khuya lắc.
+- Một ly **cà phê bệt** sần sật mẩu đá cuội, nhích rịt mông trên ghế nhựa, kệ thây tiếng còi xe như xé màng nhĩ.
+- Một dĩa **cơm tấm sườn bì chả** rưới đẫm nước mắm keo kẹo, lùa vội giữa trưa mà cái lưỡi tê rần dạ vị ngọt bùi.
+- Cái tô **bún bò** mang hơi ấm ám khói từ đôi tay rạn nứt của bà má ba mươi năm bám trụ một gốc bàng.
 
-**Sự giản dị không bao giờ lỗi thời**, giống như ta không thể thay thế được cái cảm giác ngồi húp tô cháo trắng với trứng bắc thảo trong một quán bình dân ẩm nóng, nghe tiếng quạt quay cọt kẹt mà lòng thấy bình yên lạ thường.
+Mấy cái thứ quê trớt ấy làm gì có ánh sáng hào quang, chẳng có uốn lượn dao thớt tốn hằng giờ, cũng chẳng có ông đầu bếp tây niễng đeo nón trắng to bự chảng đứng cúi chào. Nhưng tin tui đi, **từng gắp đũa đều mọng linh hồn**.
 
-Trong khi đó, những món xa hoa của Sài Thành đôi khi khiến tôi ngờ vực:  
-Liệu mình đang ăn vì muốn thưởng thức thật sự, hay vì muốn chạy theo một điều gì đó không thuộc về mình?
-
----
-
-## **Sài Gòn thật – Sài Gòn giả**
-
-Điều khiến tôi thương Sài Gòn không phải là các tòa nhà kính hay những món có giá vài trăm ngàn một phần.  
-Điều làm tôi thương là sự **thật thà** của những con người mưu sinh:  
-
-- Bà bán chè đếm từng nghìn lẻ để thối lại cho khách.  
-- Chú bán bánh mì gắn bó cái xe gỗ hơn ba mươi năm trời.  
-- Cô bán bún riêu đội nắng đội mưa mà nồi nước đỏ au lúc nào cũng thơm.
-
-**Đó là Sài Gòn mà tôi thích**, không phải những món ăn được tạo dáng, chụp ảnh, rồi được ăn như thể cho xong một nghi thức.
+Đó là hồn vía của đám dân lạt phỏng đường xa, là giọt mồ hôi lấm tấm đằng sau chiếc áo sờn vai của bác xe ôm, là đôi mắt thao thức cả đêm sụp mí mà canh nồi nước lèo sóng sánh mỡ màng. Sài Gòn xô bồ, ai cũng ráng víu lấy miếng ăn quê nhà đặng không bị dòng đời nó dội cho trôi tuột mất.
 
 ---
 
-## **Kết – Không ghét sự xa hoa, chỉ là không cần nó để cảm nhận cuộc sống**
+## **Xa hoa khiến người đời loá mắt, nhưng mộc mạc mới dỗ dành dạ dày**
 
-Tôi không nói rằng các món xa hoa là xấu hay vô giá trị.  
-Tôi chỉ nghĩ, **chúng không phải là Sài Gòn trong tim tôi**.
+Ai đó từng tặc lưỡi:
+> "Ăn ngon thì cặp mắt nó phải nếm trước đã, rồi mới tuột xuống kẽ răng."
 
-Sài Gòn của tôi là nơi món ăn đến tay người ăn không để khoe, mà để no.  
-Không để chụp ảnh, mà để nhớ.  
-Không để thể hiện mình, mà để thấy lòng nhẹ lại giữa cuộc đời đầy khói bụi.
+Nghe cũng lọt tai. Nhưng ngặt nỗi, giữa hằng trăm món phô diễn như tiểu cảnh non bộ, lòng tui chỉ cồn cào thèm một bát canh chua cá lóc nóng hổi sực nức tương tư, đầy đặn và thẳng thớm y hệt cái tình của má ở nhà. 
 
-**Tôi không thích các món xa hoa cầu kỳ của Sài Thành**  
-— vì điều tôi cần từ một món ăn chưa bao giờ là sự sang trọng.  
-— mà là sự chân thành.
-
-Và sự chân thành, kỳ lạ thay, lại thường ẩn trong những điều giản dị nhất.
+**Cái sự tuềnh toàng, thiệt tình chưa bao giờ bị lỗi thời**. Giống như mâm cháo trắng rắc cái tôm khô, vớt miếng trứng muối mằn mặn trong cái quán chập choạng ánh đèn neon, nghe cây quạt trần quay cọt kẹt cọt kẹt mà thấy cõi lòng thanh tĩnh dị thường. Trong khi đó, nhón tay gắp cái món sang chảnh, tui lại nhíu trán ngờ vực: Rốt cuộc mình đang nhai vì thèm, hay đang trệu trạo rượt theo cái phù phiếm chẳng dính líu gì tới gốc gác chăn trâu cắt cỏ của mình?
 
 ---
 
+## **Sài Gòn hông có đồ giả**
+
+Cái thứ làm tui ngẩn ngơ thương Sài Gòn, chèn ơi, đâu phải ba cái tòa nhà pha lê hay dĩa bò bít-tết chém bay nửa tháng lương. Tui thương là thương sự **thật thà đến ứa nước mắt** của những kiếp mưu sinh rơm rạ:
+
+- Bà cụ bán chè vò võ đếm mớ tiền lẻ vuốt cho thẳng tắp đặng thối lại cho tụi nhỏ.
+- Chú Sáu bán bánh mì với cái xe đẩy gỗ kêu kẽo kẹt nứt nẻ mưa nắng bạc phếch.
+- Chị bán bún riêu đội cái nón lá rách bươm mà nồi nước lèo lúc nào cũng hừng hực riêu cua.
+
+**Đó mới là Sài Gòn của tui**, không phải nguyên một bàn cỗ ê hề được đám trẻ đem ra để đưa điện thoại lên gạt phăng mồ hôi của người nấu, bấm tách tách thay vì cúi đầu và cảm tạ.
+
+---
+
+## **Hương vị của sự chân thành**
+
+Tui đâu dám chê món sang là dở. Chỉ là, trong cái xó xỉnh tăm tối của tâm can, **nó hổng phải là Sài Gòn đẫm sương gió mà tui vẫn đeo mang**.
+
+Sài Gòn của tui cho ăn cốt để cái bụng nó được an ủi và cõi lòng bớt chênh vênh.  
+Ăn hông phải để sống ảo làm ngọc thể thái bình, mà để cái gắt gỏng cay mặn nó bện vào miền nhớ.  
+Hông để làm vinh làm oai, mà để thấy đôi vai được vuốt ve giữa một kiếp buôn ba đầy khói xe và mảng bám thành thị.
+
+Tui sợ mấy cái sang trọng xa xôi, vì thứ tui khát khao từ lúc lọt cưa nẻ non rớt xuống trần đời này, rốt cuộc ráo trọi lại, chỉ là sự **chân thành**. Và khốn thay một lẽ thường tình ở đời, cái sự chân thành, nó khoái trốn trong mấy xó xỉnh rách rưới, lấm lem và tuềnh toàng tới rớt nước mắt!
+
+---

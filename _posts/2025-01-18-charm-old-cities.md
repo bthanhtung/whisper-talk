@@ -1,94 +1,68 @@
 ---
 layout: post
-title:  "Sự quyến rũ của những thành phố cổ"
+title:  "Cái Nét Bàng Bạc Ở Mấy Phố Cổ Chiều Tà"
 author: Vincent
 categories: [van-van, du-lich, lich-su]
 image: assets/images/home.jpg
 tags: [sticky]
 ---
 
-# **Sự quyến rũ của những thành phố cổ**
+# **Sự quyến rũ chết người của những bức vách mục nát**
 
-Khi đặt chân lên những con đường lát đá cổ, nghe tiếng bước chân vang nhẹ trên nền gạch rêu phong, tôi mới chợt nhận ra:  
-**thời gian là thứ chảy không ngừng, nhưng những thành phố cổ lại giữ được hơi thở bất tử của nó.**  
+Thử bận nào xách guốc nện trần trên ba cái nẻo đường lát đá chỏi chân sứt sẹo, vảnh tai nghe tiếng lách cách gõ khan vào bóng rêu phong nhẵn thín, tui mới nghẹn ngào rớt xuống một câu thề:  
+**Cái thứ thời gian trôi tuồn tuột tàn sát vạn vật kia, rút cục lại bị chôn vùi cứng ngắc trong mấy cái thành phố rách rưới mà bất tử này.**  
 
-Mỗi bức tường, mỗi mái ngói, mỗi cánh cửa gỗ cũ kỹ không chỉ là vật thể, mà là **chứng nhân của lịch sử**, là **khoảng lặng giữa dòng đời hối hả**.  
+Chèn ơi, từng mặt tường ghẻ lở, từng chỏm ngói âm dương rụng nát, từng bờ liếp gỗ mun sờn rách, thảy đều không phải cục gạch vô tri. Chúng nó là **những con mắt già chát của thế kỷ**, là **chỗ dừng chân chùi mồ hôi giữa cái dòng đời chạy đua mỏi mệt**.  
 
-Quyến rũ của những thành phố cổ không nằm ở sự hào nhoáng, mà ở **sự bình dị, trầm mặc, và sâu sắc**.  
-
----
-
-## **Thời gian in dấu trên từng viên gạch**
-
-Đi qua những con hẻm hẹp ở Hội An, tôi thấy những viên gạch cũ nứt nẻ, rêu phong mọc kín.  
-Chúng kể cho tôi nghe câu chuyện của trăm năm trước:  
-- thương nhân nước ngoài ghé thăm,  
-- xe ngựa rít bánh trên đường đá,  
-- những đứa trẻ chạy nhảy, cười nói bên gánh hàng rong.  
-
-Nguyễn Tuân từng mê mải cái đẹp của vật thể nhỏ, cái tinh xảo trong chi tiết.  
-Ở đây, tôi thấy cái đẹp ấy còn được thấm đẫm bởi **thời gian**, bởi **lịch sử**, bởi **hồn người để lại trong phố xưa**.  
-
-Một viên gạch tưởng chừng vô tri, nhưng khi sờ lên, nghe tiếng rêu mát lạnh, tôi cảm nhận được **trái tim của thành phố cổ** – vẫn đập, vẫn thở, vẫn ru con người vào một nhịp sống khác.
+Cái duyên ngầm của phố cổ hổng phải phô trương son phấn, mà nằm lỳ ở **sự câm lặng cỗi cằn, rơm rớm, và thấu tận xương tủy**.  
 
 ---
 
-## **Quyến rũ từ sự tĩnh lặng**
+## **Sẹo thời gian rạch nát từng viêm gạch**
 
-Thành phố cổ không ồn ào.  
-Không có xe cộ ngược xuôi, không có quảng cáo chói lòa, không có tiếng còi vang dội.  
+Rảo bước chui bờ chui bụi ba cái hẻm nhỏ quéo quắt ở Hội An, mắt dòm đôi ba viên gạch bể lồi lõm rêu trùm kín đặc, tai tui tự dưng rần rần như nghe mớ thanh âm từ thuở nảo thuở nào giội về:  
+- Tiếng rao vặt rát cổ của những chuyến ghe buôn dạt mũi bến bãi,  
+- Gót ngựa nạm sắt gõ côm cốp bể mặt đá đường chiều,  
+- Cả chuỗi cười thé lên của bầy con nít đầu trần đu nheo gánh chè bắp.  
 
-Nhưng tĩnh lặng ấy lại là **thứ quyến rũ khó cưỡng**, khiến con người phải dừng lại, nhìn ngắm, cảm nhận, và **suy tư**.  
+Cụ **Nguyễn Tuân** khoái tỉ mẩn sờ nắn cái vẻ diễm tuyệt của những vành chén mẻ, của cái thú chơi lan tàn tạ; thì ở ngang bực này, tui thấy cái đẹp ấy còn bị dìm ướt sũng trong **thời gian**, bị lên men bởi **lịch sử**, bởi **cái âm khí rợn ngợp của tiền nhân vướng víu vào tơ nhện phố phường**.  
 
-Người đi qua thành phố cổ như lạc vào một thế giới khác, nơi:  
-- thời gian chậm rãi,  
-- tâm hồn dịu lại,  
-- và mọi lo toan thường nhật như lắng xuống theo bước chân.  
-
-Nam Cao từng để nhân vật mình lặng lẽ quan sát đời sống, tôi thấy trong những con phố cổ, **mỗi bước chân là một cuộc đối thoại với quá khứ**, một lần học cách trân trọng hiện tại.
+Đưa tay mót miếng rêu lạnh toát mọc lỏm chỏm lóc ra từ viên ngói, tui chết sững cảm nhận được **nhịp đập thoi thóp của thành cổ** – dẫu đứt quãng nghẹn phế quản, nó vẫn trân mình mà thở, vẫn hừ hừ ru kẻ lữ thứ vào một cơn mơ hoang mang đứt đoạn.
 
 ---
 
-## **Kiến trúc – linh hồn được chạm khắc bằng bàn tay con người**
+## **Mê mụ từ hố sâu tĩnh mịch**
 
-Mái ngói xưa nghiêng nghiêng, cửa gỗ cũ mòn vết sờn, những chiếc đèn lồng treo cao rực rỡ mà không chói mắt…  
-Mỗi chi tiết kiến trúc là **một câu chuyện về con người**, về cách họ sống, yêu, lao động, và gìn giữ những giá trị qua thời gian.  
+Phố cổ đéo thèm ầm ĩ.  
+Không bóp còi láo nháo, không biển hiệu neon đỏ quạch phừng phừng, cũng câm bặt những vội vàng hớt hải.  
 
-Cái đẹp ấy không khoa trương, không tráng lệ, nhưng lại **thấm vào tâm hồn**, khiến người ta phải dừng bước, phải trầm tư, phải thốt lên:  
-> “Thành phố này, tuy cũ, nhưng đầy sức sống.”  
+Cái tĩnh mịch cô hồn ấy hóa ra lại là **thứ bùa mể quyến rũ trân tráo nhất**, nọc người ta đứng sững sờ chôn chân, trố mắt dòm thấu nội tạng, ráng mà **tự vấn cõi trần**.  
 
-Đó chính là **sức quyến rũ của sự tinh tế, của sự bền bỉ, và của ký ức lưu giữ trên vật thể**.
+Bước xộc vào cổ trấn là lọt thỏm mương đào của không gian lấp liếm ma mị:  
+- Thoắt cái thứ hối hả bốc hơi tan tành,  
+- Cõi dạ dại đi, mủn ra mềm xèo,  
+- Và bao nỗi nhức nhức đầu óc bị cạo gột sạch bách giong tuột theo giọt mồ hôi.  
 
----
-
-## **Âm thanh và mùi vị của thành phố cổ**
-
-Quyến rũ của thành phố cổ không chỉ là nhìn thấy mà còn **nghe và cảm nhận bằng tất cả giác quan**.  
-
-- Tiếng sóng vỗ rì rầm nếu thành phố gần sông, gần biển.  
-- Tiếng bước chân trên đá, tiếng chổi quét rêu, tiếng trẻ con cười nói.  
-- Mùi gạch cũ, mùi gỗ, mùi hoa sữa hay hoa giấy nở quanh nhà.  
-
-Những âm thanh và mùi vị ấy gợi lên **ký ức**, **cảm xúc**, và **tình người**.  
-Chúng khiến thành phố cổ **không chỉ là nơi chốn, mà còn là trải nghiệm**, là ký ức sống động trong tâm hồn mỗi người bước qua.
+Y hệt ba cái nhân vật điêu linh của **Nam Cao** lặng câm còm cõi ngồi rình cái góc khuất của sự mục rữa, dạo một vòng phố cổ, **mỗi buớc dò nhịp là một bận chắp tay nói chuyện bằng hồn với lũ ma cũ**, ngậm ngùi vái lạy cái hiện tiền chật hẹp này.
 
 ---
 
-## **Cảm xúc của con người trước quá khứ**
+## **Ám ảnh rui mè – Oan hồn của thứ nghệ thuật rách**
 
-Khi đứng trước một bức tường rêu xanh, tôi tự hỏi:  
-bao nhiêu đời người đã đi qua nơi này?  
-bao nhiêu câu chuyện chưa được kể?  
-bao nhiêu niềm vui và nỗi buồn từng lặng lẽ in dấu trên đá gạch?  
+Chiếc ngói vẩy cá xô dạt nghiêng ngả, khung cửa hẹp sờn bong tróc nhám xịt, mớ lồng đèn nhang muỗi tỏa thứ sáng leo lét lay lắt như mỡ heo sắp kiệt…  
+Từng manh sứt sẹo ấy là **khối mụn nhọt của những kiếp đẻ đau**, vắt kiệt mồ hôi hột ra mà gọt, mà đục, mà níu kéo những ngày tháng bĩ cực cho khỏi tan thành khói.  
 
-Sự quyến rũ của thành phố cổ còn nằm ở **khả năng khơi gợi cảm xúc**, khiến con người **nhìn lại mình, nhìn lại đời sống**, và nhận ra rằng **thời gian trôi qua, nhưng cái đẹp và giá trị vẫn ở lại**.
+Cứ dòm vậy, thô lỗ, quê rặt, sần sùi cùi lở, mà **nó xoáy lủng gan ruột**, khiến anh hai giang hồ quen chen lấn cũng phải phanh đứt bố thắng, bưng mặt than trời:  
+> “Cái xứ quỷ này, rách thì rách thiệt, mà sống dai như đỉa đói!”  
+
+Đấy, nó chính là **cái sự quyến rũ ma quỷ của việc trường kỳ kháng chiến với tạo hóa, của sự bầm dập lưu cữu lại trên cây trên gỗ**.
 
 ---
 
-## **Kết – Thành phố cổ, nơi thời gian và con người giao hòa**
+## **Kết – Giao ban giữa xác người và bóng cổ**
 
-Quyến rũ của thành phố cổ không phải ở sự mới mẻ, mà ở **sự trường tồn**, ở **tinh thần sống của những con người đã đi qua**, ở **khả năng gợi nhớ và khơi dậy cảm xúc**.  
+Cuối tràng, cái sức hút tàn bạo của phố đình cổ hổng nằm ở độ vẹn nguyên tráng lệ, mà nằm ì ở **sức trâu lì lợm**, ở **cái hỏa diệm sơn của vạn linh hồn tá túc**, ở **loại sức mạnh tát thẳng vào mặt sự lãng quên**.  
 
-> **Thành phố cổ – nơi thời gian dừng lại, nơi ký ức sống động, nơi con người tìm thấy sự bình yên giữa dòng đời hối hả.**  
+> **Thành cổ – cái chảo đình chiến của thứ gọi là thanh xuân, nơi mọi ký ức lồm cồm bò dậy, nơi phận người lây lất quơ được mẩu bình yên thúi hoắc nhưng ngọt lịm giữa trò đời nham nhở.**  
 
 ---

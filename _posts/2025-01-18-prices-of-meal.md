@@ -1,94 +1,94 @@
 ---
 layout: post
-title:  "Khi thức ăn trở thành câu chuyện của đời sống"
+title:  "Cái giá của một tô cơm canh rơi nước mắt giữa trần ai"
 author: Vincent
 categories: [doi-song, am-thuc, tri-ly]
 image: assets/images/11.jpg
 ---
 
-# **Một buổi ăn đáng giá bao nhiêu?**  
+# **Miếng ăn giữa cõi đời nhọc nhằn, cõng trên lưng giá bao nhiêu?**  
 
-Chúng ta vẫn thường tính toán buổi ăn bằng tiền bạc, bằng calo, bằng thời gian.  
-Một tô phở 50 nghìn, một suất cơm 30 nghìn, một ly cà phê sữa 20 nghìn.  
-Nhưng thực sự, một buổi ăn **đáng giá bao nhiêu**?  
-Có thể đo đếm bằng tiền, nhưng liệu có đo đếm bằng **cảm xúc, trải nghiệm, và câu chuyện đằng sau từng món ăn**?
-
----
-
-## **Ăn không chỉ là no – mà là cảm nhận**
-
-Ngồi trước một bát bún riêu nóng hổi, tôi thấy:  
-- Mùi thơm nồng nàn của cua, của cà chua, của rau thơm,  
-- Hơi nóng phả vào mặt trong cái se lạnh của buổi sáng,  
-- Tiếng xì xụp của những người ăn chung quán vỉa hè,  
-
-tất cả hợp lại thành **một trải nghiệm sống**, một khoảnh khắc khiến người ta dừng lại và thấy mình đang hiện hữu.
-
-Nam Cao từng viết về những bữa cơm giản dị của người nghèo, nơi mọi muỗng cơm đều được cân nhắc, trân trọng, tôi thấy rằng **giá trị của một buổi ăn không nằm ở số tiền bỏ ra mà ở sự trân trọng từng giọt, từng hạt, từng khoảnh khắc bên bữa ăn**.
+Ngàn đời nay, thiên hạ phàm phu cứ chằm chặp móc hầu bao ra đong đếm miếng tọng vào họng bằng bạc cắc, bằng bao nhiêu mỡ bập bềnh, hay đo lường ba cái khái niệm thì giờ hao tổn vớ vẩn.  
+Một tô phở Bắc gân nạm gieo vãi lác đác 50 chục ngàn tỳ, dĩa cơm tấm lúp xúp miếng bì trộn thính khét 30 ngàn, cái li mủ đục đựng cà phê bạc xỉu bèo bọt 20 ngàn rẻ rề rách rưới.  
+Cơ mà, ngồi mà chống cằm nhẫm nghĩ kỹ nghen: Lột bỏ cái ruột rỗng tuếch của bạc lẻ đi, sự tình của một miếng đút vào mồm rốt cục **ngậm ngùi giá bao nhiêu hột mồ hôi nước mắt?**  
+Tiền thì đưa cái rẹt là xong, nhưng gánh nổi cái **bi kịch rát bỏng, mớ cảm xúc chìm nổi và cả pho tiểu thuyết đoạn trường trầy trật nấp sau đít nồi** không hở trời?
 
 ---
 
-## **Một buổi ăn – là câu chuyện của những người nấu**
+## **Lùa vào bụng hổng phải cho phình cái bao tử rác – Mà là nhấm nháp kiếp người**
 
-Mỗi bữa ăn, dù đơn giản hay sang trọng, đều mang theo **công sức của người nấu**.  
+Sáng bảnh tròng sương xuống sặc sụa tứa máu cam, ngồi bệt húp chén bún riêu cua đồng nghèo nàn bốc khói cay xè, tui nheo mắt rặn ra trăm thứ:  
+- Mùi hăng nồng tanh tưởi mà luyến nhớ dặt dẹo quến rễ của chùm gạch cua lình bình, của miếng cà chua ứa nước rã đám, hầm bà lằng rổ ngò gai nhăm nhúm tanh rình mà khoai khoái,  
+- Làn hơi nóng phất lên tát bôm bốp vào cái hốc mắt se lạnh của sớm mai đứt ruột lửng dạ,  
+- Tiếng vục đũa xì xụp chóp chép từ đám bợm phu khuân vác, xe ôm nhễ nhại đít xề ở quán vỉa hè ọp ẹp bóng cọp...
 
-- Người mẹ dậy từ sáng sớm, chuẩn bị bữa cơm cho gia đình,  
-- Người đầu bếp trộn gia vị, canh chừng lửa trong căn bếp nóng rực,  
-- Người bán hàng rong lau chùi quán, mỉm cười chào khách,  
+Nhiêu đó thứ lạt phỏng đường xa hốt lại bện tơi bời thành **một cuộn phim sinh tử của phận người**, một sát na dừng kim giây đồng hồ đặng cái sống sượng trần truồng tự thú rằng: "Tổ cho mầy tới giờ vẫn còn sống nhăn rặng giữa chốn này."
 
-Mỗi giọt mồ hôi, mỗi cái nhìn lo lắng, mỗi thao tác tỉ mỉ, đều **tăng giá trị vô hình cho bữa ăn**.  
-
-Một buổi ăn đáng giá không chỉ là thức ăn, mà là **sự kết nối giữa người nấu và người thưởng thức**, là cách con người gắn kết với nhau bằng tình cảm và sự trân trọng.
-
----
-
-## **Giá trị của bữa ăn trong đời sống**
-
-Trong nhịp sống hối hả, nhiều người ăn vội, ăn qua loa, hoặc ăn chỉ để no bụng.  
-Nhưng một buổi ăn trọn vẹn, đáng giá, là khi:  
-
-- Bạn ăn bằng cả **tâm trí và trái tim**,  
-- Bạn nhận ra **mùi vị, kết cấu, màu sắc, và câu chuyện của thức ăn**,  
-- Bạn cảm thấy **bình yên**, **hạnh phúc**, và **kết nối** với người xung quanh.  
-
-Một tô bún nhỏ cũng có thể đáng giá bằng một bữa tối sang trọng, nếu nó đem lại **cảm giác đủ đầy về tinh thần**, dù cơ thể chỉ no một phần.
+Kiểu như mầy đang coi Nam Cao múa bút tả dăm bữa cơn còm cõi của lão Hạc dặt dẹo rạc gầy, chỗ mà giọt cháo trôi tuột cổ họng đều bị đem lên bàn cân đứt dây rốn, tui thấy dậm dạ não mề rành rành: **Giá trị của món đồ nhai trộm cắp kiếp người nó có bao chừ nằm trong cuốn sổ tiết kiệm, ngặt nghèo nằm lỳ ở cái xót xa cấu xé giành giật trân quý từng giọt nước nhạt, từng hạt cơm rơi vãi, từng cú thở lắt lay đằng sau bàn ăn phên dột nát.**
 
 ---
 
-## **Buổi ăn – giá trị không đo bằng tiền**
+## **Một bữa cầm hơi – Đằng đẵng nợ nần kiếp người đun bếp**
 
-Thường người ta đánh giá bữa ăn bằng số tiền trả, nhưng thực sự:  
+Miếng đem đớp vào mồm, nhạt nhẽo cặn bã tới đỗi sơn hào hải vị dát vàng, thảy thảy đều phác hoạ **hàm thụ máu me mồ hôi lầm lụi** kẻ nêm nếm.  
 
-- Một bữa cơm nhà nghèo nhưng đầy tình yêu thương, đầy tiếng cười,  
-- Một ly cà phê vỉa hè, nghe mưa rơi, ngắm phố phường,  
-- Một bữa trưa cùng đồng nghiệp, kể nhau nghe chuyện đời,  
+- Là giấc ngủ đứt đoạn cắn răng trở cỗ từ canh tư dật gân của con má quê xơ xác, hậm hụi quẹt lửa thổi nồi cháo lòng vùi tro than khét xẹt, lót dạ cho cả nếp nhà khốn đốn bữa hôm lai bữa mai,  
+- Chàng đào kép xoong chảo đổ lửa nhem nhuốc gắp thịt thái da, quay mồng mồng vãi hỏa ngục trong buồng bếp ám đặc thứ khói nhức gân nhức óc,  
+- Là bà thím gánh bưng rảo chân gãy nát bắp vế lê lết chổi cùn quét mạt quán cóc, hàm rụt nhe nụ hàm nhai trầu móm mém cúi đầu van vái kiếm chục bạc cắc của khách lỡ đường.
 
-tất cả đều **có giá trị gấp bội** so với những món ăn sang trọng nhưng thiếu cảm xúc, thiếu kết nối.  
+Từng cục mồ hôi mỏng dẻng lọt xuống, chao đao con mắt mờ tạch của má, trăm nhát chém cuống mỡ tàn tật… chúng nó âm thầm chất đầy một thứ **của để dành không hình dáng vô đáy dọng vào ruốc vị giác**.  
 
-Nguyễn Tuân từng mê mải với những chi tiết nhỏ nhưng tinh tế, Nam Cao trầm tư với những giá trị đời sống giản dị – bữa ăn chính là một phần trong **những chi tiết ấy**, vừa nhỏ bé vừa sâu sắc.
-
----
-
-## **Một buổi ăn – giá trị của sự chậm rãi và trân trọng**
-
-Trong thế giới nhanh chóng, bữa ăn trở thành **nghĩa vụ**, là “việc cần làm” hơn là **trải nghiệm để cảm nhận**.  
-
-Một buổi ăn đáng giá là khi bạn biết:  
-
-- Dừng lại để thưởng thức từng hương vị,  
-- Quan sát xung quanh, nghe câu chuyện người nấu, trò chuyện với người ăn chung,  
-- Biết trân trọng từng khoảnh khắc, từ bát canh nóng đến tiếng cười bên bàn ăn.  
-
-Chỉ khi ấy, bữa ăn mới **trở thành một phần của đời sống**, và **giá trị của nó vượt ra ngoài vật chất**.
+Chèn đét ơi! Tô bún nếm ngon không thẩy vì gạch tôm hùm, mà mặn vì **cái chằng néo cột thắt giữa gân mồ hôi người sắn đũa tay dao và gã lang thanh cầm muỗng**. Nó phác họa nòi giống loài người dính dập vào cái rún tình nghĩa lầy lội, rợn ngợp thương yêu chua chát.
 
 ---
 
-## **Kết – Một buổi ăn không đo bằng tiền, mà bằng trải nghiệm**
+## **Nét bẽ bàng giữa sự ăn ở kiếp lênh đênh**
 
-Vậy, một buổi ăn đáng giá bao nhiêu?  
-Câu trả lời là: **bằng chính cách bạn sống và cảm nhận nó**.  
+Xứ chật người đông chen chúc nghẹt thở, bọn tay nải công nghiệp rước cái thói nốc tháo nốc lổ, nhai ợ rột rạt, nhá đại hàm rau nuốt trôi xuống cuống họng phình trống.  
+Nhưng đứt đoạn rạc người mới thấy bữa cơm ngậm ngụi quý hóa ngàn vàng là khi:  
 
-> **Một bữa ăn không chỉ nuôi sống cơ thể, mà còn nuôi dưỡng tâm hồn.  
-> Giá trị của nó nằm ở niềm vui, sự kết nối, và những cảm xúc trọn vẹn mà bạn nhận được.**  
+- Mày lùa cơm rớm bằng cả **cái óc mệt nhoài dốc tuột xuống linh hồn mục nát**,  
+- Mày sụp gối tỉnh giấc sờ tay mò mẫm ra tận tủy cái **sắc úa, mủ nhão, mùi xông, cái cốt trần ai giần giật ẩn thói đời vứt của vào miếng đậu hũ thúi**,  
+- Mày nhẹ mình, nhũn xác vì cái **bình tâm rẻ rúng**, phìa bọt **sướng rơn**, rờn rợn **gắn bó một dạ** với mấy người cùng kiếp bò trên ngàn lau xóm lầy.  
+
+Mâm canh mùng tơi nước loãng tệt vài hột cà pháo chui chuốt cũng đủ tư thế đè bẹp mâm sơn hào hải vị lầu năm lầu bảy đứt bóng. Chỉ cần ruột đói nhưng tim cắm cọc, ăn để **no rọt cái tinh thần rách nát**, dù màng bụng chỉ thoi thóp ễnh ương một túm.
+
+---
+
+## **Đớp miếng dồi phèo – Vàng thoi cũng lết ra góc chiếu**
+
+Mở mồm ra thì thi nhau quẹt thẻ tín dụng nọ kia phô cái đĩa tôm đập bằng đá, ấy nhưng thử sờ lên hầu tâm sự xem:  
+
+- Mâm cơm mẹ nấu muối hột quẹt sả tàn lụi lá chuối dưới đít nồi đất khét, mà giăng cười hềnh hệch mẻ răng xô đẩy của cái nợ đồng lần đói rách,  
+- Ly cà phê mủ góc xóm chó sủa ăng ẳng, mây giăng xám mịt trời, vã mưa rớt bong bóng lội lõm bõm dòm trần ai chó ngáp,  
+- Suất cơm gà công nghiệp xối mỡ rụng lông góc công sở cắn chung mâm buôn xẻng nói xấu kiếp sếp chóp bu…
+
+Khốn nạn thay, toàn mấy thứ cặn bã **lại đội giá khổng lồ vạn lần** đập chết tươi sòng phẳng mấy chỗ trần cao đèn chiếu mà nguội tanh nguội ngắt lạnh băng mùi kim tiền sương pha.  
+
+Kỳ công dệt thêu từng vát bụi bặm nhỏ nhất tinh quái y cụ Nguyễn Tuân, móc mỏ cắn vồ nỗi cùng đinh tàn khốc của gã Nam Cao khép nếp – một miếng cầm hơi trần gian nằm gọn trong **túi bạc vô biên của những hắt hiu lấm láp ấy**, nứt nẻ nhưng thâm mầu đáy biển ngàn sải.
+
+---
+
+## **Buổi ăn – Lệnh tử gót chậm và sự nhức nhối thấu tâm can**
+
+Thế kỉ máy chém cuốn bụi mù mịt, lùa vào cật vài vá cơm bị quy cho thành tờ giấy **"trả nợ bao tử làm cho xong nghĩa vụ"**, chức mẹ hổng màng việc xướng lên **bài tuồng thi gan nếm thử sinh tồn**.  
+
+Húp cạn một bữa rần rần sinh lý trọn kiếp tráng miệng là khi:  
+
+- Mày tặc lưỡi bóp thắng dậm chết tại chỗ để cà nhắc rỉa từng mảnh hôi tanh dính đầy nước mắm xộc mũi,  
+- Mày trợn mắt nhìn lũng loét bức sơn tường loang lổ, gài lỗ tai nuốt chọn tiếng chửi rầm trời của bà chủ cháo vịt chửi rủa chồng bỏ con theo đĩ cờ bạc, rồi hóng mỏ châm chọc mấy đứa thất tình bàn kế bên,  
+- Mày chắp tay tạ ơn từng giây cốt nhục rụng đứt ruột rà, từ gáo súp lõng bõng mỡ bám đến tiếng cười hô hố xới thủng vòm trời.
+
+Có trơ gan tu luyện đến thế, thì miếng chao chua khoai lang lùi khói vợi phả mới lột xác **xâm nhập vào xương máu sự sống trần trụi**, và **đất nặn vô tri của nó hẩy hẩy xô bay văng đi cái vật chất thối mòn rẻ rúng**.
+
+---
+
+## **Tàn bài – Cơm bưng không vì mấy tờ bạc giấy, cơm ngon ở chỗ ruột đau chịu đòn**
+
+Chốt đít lại thưa thiên hạ, một cái mâm nhục dục qua loa đáng giá mấy nén bạc?  
+Rành rành đáp ra một mẻ chán chường: **Nó tính bằng nụ máu, nước trào trào và cái bộ nhá của mầy rớt thong dong hưởng mốc rêu như nào.**  
+
+> **Nhét xôi nhét cá khô vào mồm đâu chỉ để sống trâu cái hục thịt bầy hầy này, mà nó tưới tắm bôi thuốc đỏ mổ xẻ lấy lại cái chân hồn mòn rách sứt sẹo.  
+> Tụm chung cái đắt đỏ nằm chết dí ở nụ rưng rưng tủi phận, ở cái tròng chằng đụt níu nhau lại đặng hổng cô quạnh sút tàn, và mớ tâm tươm máu rụng vỡ toác thành bèo bọt mà mầy rớt mồ hôi liếm láp nhặt lại cho đủ kiếp cầm sinh.**  
 
 ---

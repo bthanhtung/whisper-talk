@@ -1,82 +1,82 @@
 ---
 layout: post
-title: "Cà phê sữa – Hương vị giản dị nhưng thấm đẫm đời sống"
+title: "Bạc Xỉu Sài Gòn – Ngòn Ngọt Đắng Ngắt Của Kiếp Bôn Ba"
 author: Vincent
 categories: [doi-song, am-thuc, van-hoa]
 image: assets/images/12.jpg
 ---
 
-# **Cà phê sữa – Hương vị giản dị nhưng thấm đẫm đời sống**
+# **Bạc Xỉu Sài Gòn – Ngòn Ngọt Đắng Ngắt Của Kiếp Bôn Ba**
 
-Người Sài Gòn nói riêng, miền Nam nói chung, lớn lên cùng **cà phê sữa đá** như cách cây lúa lớn lên cùng nắng gió đồng quê.  
-Chỉ cần một ly nhỏ, đá râm ran trong cốc, sữa hoà quyện vào vị đắng, là cả buổi sáng bỗng trở nên trọn vẹn.  
+Dân Sài Gòn rặt, hay bà con từ miệt thứ lưu lạc lên xứ đô hội này, trưởng thành với **ly cà phê sữa đá lanh canh** cũng y chang cái cách cây mạ cong non nớt oằn mình chống chọi gió sương ngoài bãi giang đồng rác rưởi.  
+Chưa cần làm gì ngặt nghèo, chỉ cắn răng khuấy trối chết ly xây chừng đục mờ, lóng ngóng mẩu đá văng tung tóe, rít được một ngụm sữa đặc quánh hòa lẫn vị mồ hôi đắng chát, là mẹ kiếp – nguyên buổi sáng tèm nhem bỗng chốc rực rỡ như một ân sủng diệu kỳ.  
 
-Cà phê sữa không phải thứ thức uống cầu kỳ,  
-không hoa lệ như cappuccino hay latte nghệ thuật.  
-Nó giản dị, mộc mạc, như cuộc đời thường nhật mà Nam Cao từng kể, nhưng **đậm đà, bền lâu**, in sâu trong tâm trí những ai từng nếm vị nó lần đầu.
-
----
-
-## **Cà phê sữa – sự kết hợp tinh tế của đắng và ngọt**
-
-Ly cà phê sữa chuẩn miền Nam là một bản hòa ca:  
-- **Đắng đậm của cà phê rang xay kỹ**,  
-- **Ngọt dịu của sữa đặc**,  
-- **Cái mát lạnh của đá**,  
-
-tất cả hoà quyện trong một nhịp điệu nhàn nhạt nhưng khiến lòng người say.  
-
-Người phương Tây có espresso để tỉnh táo,  
-người Nhật có cà phê phin nhỏ giọt để thưởng thức tĩnh lặng.  
-Còn cà phê sữa là sự dung hòa: vừa đủ tỉnh, vừa đủ ngọt, vừa đủ ấm lòng giữa nhịp sống hối hả.  
-
-Như Nguyễn Tuân từng mê mải với những món nhỏ bé nhưng tinh xảo,  
-cà phê sữa không cần lộng lẫy, nhưng **đầy chất thơ trong từng giọt**.
+Cà phê sữa đá có khệnh khạng rườm rà cái đéo đâu,  
+hổng thèm cắm hoa làm màu đẽo gọt ba cái mẻ cappuccino xớ rớ hay vẽ vạch bọt sữa latte vờ vịt sặc sỡ học đòi.  
+Nó phèn y vậy, thâm thấp lùn xủn sứt mẻ, rặt một vẻ dáo dác cọc cằn như cái trang văn khốn nạn của Nam Cao lôi kiếp bưng mâm ra chửi, nhưng uẩn súc, **quánh kẹo nhai không đứt**, ghim cái buốt óc vào hạch tủy của đám lang thanh đã trót lỡ vập môi vào liếm lấy nếm để.
 
 ---
 
-## **Cà phê sữa và nỗi nhớ phố thị**
+## **Chao nôi hòa quyện – Đắng hắt máu cọ ngọt cứa da**
 
-Điều đặc biệt của cà phê sữa không chỉ là hương vị, mà còn là **ký ức**, là **cảm xúc**.
+Tách cà phê sữa rặt Nam Bộ là cuộn dây thòng lọng giăng tơ sô-cô-la:  
+- **Vị chát rát nọc độc đỏ quạch của phế phẩm rang xay lừng xỉn**,  
+- **Cái ngọt đậm dính rít lợm giọng của vệt sữa đặc giá sỉ**,  
+- **Cùng cái buốt thấu trán rát óc của đá đập tan nát vụn bể**,  
 
-- Sáng sớm, ly cà phê sữa bên vỉa hè, nghe tiếng xe máy râm ran, nhìn người đi làm vội vã, lòng bỗng thấy nhịp sống bình yên.  
-- Chiều muộn, ngồi quán nhỏ ven đường, nhấm nháp từng giọt, lắng nghe tiếng mưa rơi, lòng lại dâng một nỗi hoài niệm không tên.  
+Hết thảy mấy cái nham nhở ấy tụ hội quết vào nhau thành nhịp hò xự xang não nề nhưng đủ sức rinh hồn người nhậu khỏi mâm quan vũ trần truồng.  
 
-Cà phê sữa trở thành **một cách để người ta chậm lại**, để nhận ra những khoảnh khắc thường nhật cũng có thể ngọt ngào, êm dịu như sữa hòa cùng cà phê.  
+Đám Tây mũi lõ cần cái tẽn đắng ngắt espresso tút tát gân cốt dậy sớm làm màu,  
+đám Nhật còng lưng lọt nhểu phin nước nâu loãng nhạt toẹt mà ngâm nga rặn thiền xàm xí.  
+Chót lại, cái cà phê chấn hưng này mới là bậc thầy bòn mót: vừa đủ kích tròng mắt xoe tròn, lịm ngọt cái vị cướp xác, vừa ủi an bộ não vữa nhàu giữa cõi chạy loan lộn cứt lộn bát.  
 
-Nam Cao nếu đứng giữa quán cà phê, có lẽ sẽ thấy từng câu chuyện nhỏ bé của đời sống quẩn quanh trong những ly nước đen – nâu – trắng ấy, những mảnh đời đong đầy niềm vui, nỗi buồn, thất vọng và hy vọng.
-
----
-
-## **Cà phê sữa – nghi thức giản dị của đời sống**
-
-Người Sài Gòn uống cà phê sữa như một nghi thức:  
-
-- **Một buổi sáng**: ly cà phê sữa là bạn đồng hành trên con đường tới trường, tới công sở.  
-- **Một buổi trưa**: ly cà phê sữa lặng lẽ bên góc quán, nghe nhịp đời trôi.  
-- **Một buổi chiều**: ly cà phê sữa đá râm ran như hồi chuông nhắc nhở rằng, dù hối hả, vẫn cần dừng lại.  
-
-Cà phê sữa không phải thức uống, mà là **ngôn ngữ của đời sống**, gợi nhắc về những khoảnh khắc giản dị mà thấm thía.
+Giống cụ Nguyễn Tuân dốc ruột lục ba cái thú ăn chơi kỳ ôi cầu thả mà vạch trần ra ngà ngọc thiên thu;  
+thì ly cà phê sữa đá, chèn đét ơi hổng cần xiêm y bào ngực vú xệ, nhưng **toàn vịnh cả một khung nhạc lãng phí thấm rột từng giọt lờ đờ trôi**.
 
 ---
 
-## **Sự giản dị làm nên giá trị**
+## **Sữa quyện đắng và tràng nhức trán xứ người**
 
-Cà phê sữa đẹp ở chỗ **không phô trương**.  
-Cũng như những giá trị đời thường mà Nguyễn Tuân hay Nam Cao yêu quý:  
+Thiệt thòi thay cái ma thuật của bạc xỉu nằm xị ở cái chõi **cực đoan rách nứt của cõi nhớ, ở miền cảm hứng ứ đọng**.
 
-- Không rực rỡ, nhưng bền lâu.  
-- Không xa hoa, nhưng đủ để đời sống thăng hoa.  
-- Không lộng lẫy, nhưng đủ để khắc sâu trong ký ức.  
+- Trời hửng rạng, bụm được cái đáy ly bên vỉa bèo góc đường ngẹt thở khói xăng, tai gầm thét âm ba dộng màng nhĩ, dòm thiên hạ lảo đảo xách mạng đi làm như gà vô chuồng – bụng tui thắt lại nhói một nhịp bình an đến ứa lệ.  
+- Ráng chiều vắt mủn trên nóc tôn, chồm hổm trốn ở manh bạt lú rách nát bờ kênh mút từng rỏ ngọt đắng, dỏng tai hứng cơn mưa quất xả bôm bốp... rốn bỗng sụt lún chôn một kiếp hoài niệm nục nặc xào xạc không tên.  
 
-Mỗi giọt cà phê, mỗi muỗng sữa, đều mang theo **hương vị của sự chăm chút**, của **tĩnh lặng**, và của **niềm vui giản dị**.
+Uống cà phê nó hóa thành **cái dĩa thắng bắt tụi mình té ngửa đạp rạo sát đất chậm mẹ xuống**, ráng banh mắt ra mà lượm mót rằng trên đời này thỉnh thoảng ba cái phèn rẻ rúng vẫn tươm tươm tắp đắng cay êm như giọt sữa thiu rớt lọt.  
+
+Ném cụ Nam Cao đứng thập thò ngoài gốc cây ngó rình quán cóc, ông nội chắc sẽ xót xa vỗ lốp bốp mà viết lách ngay ba cái câu chuyện đời xé nát lợn lợn tăm tích cõi mành trắng ngục lội; bao số phận lốc cốc tộp nhộp nổ tanh bành quanh một ly nước ba màu phân nửa đá lạnh tanh.
 
 ---
 
-## **Kết – Ly cà phê sữa là câu chuyện của đời sống**
+## **Gõ kiến kinh kệ của bần cố nông**
 
-Một ly cà phê sữa không chỉ là thứ đồ uống để tỉnh táo, mà là **một nghi thức đời sống**, là **câu chuyện nhỏ của con người và phố thị**, là **nét văn hoá bình dị nhưng sâu sắc**.  
+Sài Gòn húp cà phê thô lậu y bợ một cục tôn giáo mù lò:  
 
-> **Cà phê sữa – giản dị mà thấm thía, như những khoảnh khắc đời thường mà ai cũng cần nắm giữ.**
+- **Sớm đực rựa**: Xô đại vô mồm, bấu véo tay lái băng qua mấy khúc đường thúi thiu cho lẹ chui lọt cổng công xưởng bóc lột.  
+- **Trưa quái xế**: Dựng dẹo néo mông vô bệ xi-măng mốc, núp cho lánh hết ánh chói héo não mạn trưa ứ cổ.  
+- **Bóng tà sấp mặt**: Ly đá chọc chan chát cảnh tỉnh đập cái bốp gõ óc u sầu, rú dòi dõm rằng dẫu sống vội thì ráng mà nghẹt cái cổ lại dạt bèo ra cho giãn thắt nghẹn.  
+
+Nó đếch phải thứ đổ lấp mồm, nó **kêu ngào cái giọng văn chỏng lỏn của đường phố**, sỗ sàng chửi rủa nhắc mầy dăm cái mẩu thời gian tẻ vẩn mà bấu da rứt thịt rát buốt.
+
+---
+
+## **Thô ráp đến gỉ nhựa nên cất lên làm thành ngữ**
+
+Cái điệu ngầu đét của bạc xỉu là mọc ở chỗ **nó đếch thèm đội mâm làm bà lớn**.  
+Cũng lột ráo chân kiếp như cái nòi tinh thần đèo bòng mà kén chọn vô sỉ của ông Tuân hay cái rách tả tơi ôm chân trời xám của ông Cao hay quý:  
+
+- Hổng bóng loáng trơn lu, nhưng ỳ lỳ trơ gan cùng tuế nguyệt.  
+- Đừng hòng chảnh chọe nhung gấm bạc vạn, nhưng đủ quật tan xác lũ hững hờ vô học.  
+- Cái nết chả rực la bàn, nhưng ghim xâu đâm lủng con ngươi trọn dăm thập kỷ ải lưu đày.  
+
+Ngụp xụp quậy móng muỗng, húp rột rột giọt cuối, cái ngọt ấy nó **nín thinh nung sôi mùi của nếp cắn răng chịu trận**, của **im như thóc hớt bọt lềnh bềnh**, và của **điệu cười đắc thắng sún răng cực kỳ rách nát**.
+
+---
+
+## **Vãn thây – Giọt nâu đục là vở chèo thảm kịch hạ màn**
+
+Húp chắt cái ly nhựa cùi bắp hông để chống điên, mà nó là **cuốn biên niên sử chép vội trát rác của giang sơn**, là **thước phim chết tiệt vặn ngược thời gian của dân tứ xứ sấp mặt bưng bát phố phường**, là **bảng cáo trạng dọn dẹp hòm xâu cực độ thảm vinh**.  
+
+> **Tới chừng đá tan nhão rã bọt rục: mộc mà day dứt, y chang cái tàn dư xót ruột hèn hèn mọn mọn thường nhật mà con người ta cắn rơm cắn cỏ giựt giữ lại dằn háng cõi đời bấp bênh rữa nát.**
 
 ---

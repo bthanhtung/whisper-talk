@@ -5,7 +5,32 @@
 body {
 	overflow-x:hidden;
 	padding-top:69.75px;
+	font-family: 'Inter', sans-serif;
+	background-color: #fcfcfc;
+	color: #333;
 }
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Playfair Display', serif;
+}
+.card {
+	border-radius: 12px;
+	border: 1px solid rgba(0,0,0,0.05);
+	box-shadow: 0 4px 12px rgba(0,0,0,0.03);
+	transition: transform 0.3s ease, box-shadow 0.3s ease;
+	background: #fff;
+	overflow: hidden;
+}
+.card:hover {
+	transform: translateY(-4px);
+	box-shadow: 0 12px 28px rgba(0,0,0,0.1);
+}
+.card-img-top, .topfirstimage, .card img {
+	transition: transform 0.5s ease;
+}
+.card a:hover .card-img-top, .card a:hover .topfirstimage, .card a:hover img {
+	transform: scale(1.02);
+}
+
 .site-content {
 	margin-top:30px;
 	min-height:400px;
@@ -205,7 +230,8 @@ a.text-dark:hover {
 .navbar-brand {
 	margin-right:2rem;
 	font-size:1.55rem;
-    font-family:"Georgia","Times New Roman",serif;
+    font-family: "Playfair Display", serif;
+    font-weight: 700;
 }
 .dropdown-item {
 	font-weight:400;
@@ -297,7 +323,7 @@ a.text-dark:hover {
 		right:0;
 	}
     .jumbotron-home h1 {
-        font-family: Georgia,Times,"Times New Roman",serif;
+        font-family: 'Playfair Display', serif;
         font-size: 2.4rem;
         font-weight: 700;
         line-height: 1.1;
@@ -654,10 +680,10 @@ footer {
 article {
 	font-size:20px;
 	line-height:1.86;
-    font-family:Lora;
+    font-family: 'Inter', sans-serif;
 }
 .article-headline {
-    font-family: Georgia,Times,"Times New Roman",serif;
+    font-family: 'Playfair Display', serif;
     font-size: 3.2rem;
     font-weight: 400;
     line-height: 1.15;
