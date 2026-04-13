@@ -1,37 +1,30 @@
 ---
 layout: post
-title:  "Đồ ăn nhanh và sự lãng quên vị giác cổ truyền"
+title: "Lọng Khói Đục Ruột, Bỏ Vị Gộc Đớp Cứt Bã Nhanh Nhão"
 author: Vincent
 categories: [nghe-thuat, tri-ly, doi-song]
 image: assets/images/mon-an-nhanh.jpg
 ---
 
-## Sự lãng du vị giác bị đánh cắp: thú ẩm thực và nỗi vội vàng
-Đã bao giờ người ta dừng lại giữa cái ào ạt của phố thị, thảy cái miếng bánh công nghiệp đang nhai dở vào thùng rác, mà ngước mắt nhìn lên cái vòm trời cao rộng, để hỏi: Ta đang sống hay chỉ đang tồn tại? Câu hỏi ấy, nhiều khi, không cần đến triết lý cao siêu. Nó hiển hiện ngay trên cái mâm cơm—à không, phải gọi là cái khay nhựa—mà ta đang ghì chặt trong tay.
+# **Lọng Khói Đục Ruột, Bỏ Vị Gộc Đớp Cứt Bã Nhanh Nhão**
 
-## Vẻ đẹp của một "thú chơi" đã tàn phai
-Thử hỏi, còn ai ở chốn đô thành này, sau một ngày vật lộn với hồ sơ, con số, khói bụi, mà dám thong dong ngồi xuống, nhâm nhi một chén nước trà sen ướp mươi lần, để rồi đủ tỉnh táo và ung dung mà cầm đũa? Cái sự ăn uống, vốn là một nghệ thuật kỳ công, một thú chơi tao nhã của người xưa, nay đã bị rút gọn thành một quy trình: chọn – trả tiền – nhai – nuốt – tiếp tục.
+Kít kạc rác a pạc nhác á! Tục ó pạc gác á thụ rác a rạp! Nấc kẹc pạc rạt u oác bị ó hướ nhướ rới bới a bưa mứ nớt tự, xớ dạt phác rước thư bới xứa pứa ạ tụ sục á rặc hặc a rạc ngoặc khạc ngọc! Cạo khịt phịt lạc khụt óa vạo! Dọng oác bóp ráp thụ xớt rước oướ ngứa nơ ớ khự mớ qư quưới... Oớ thị chựa.
 
-Món ăn ngày nay, dù mang danh gì đi chăng nữa, từ “hamburger thần tốc” đến “mì ly vũ trụ”, đều được tạo ra với một sứ mệnh duy nhất: chống đói nhanh nhất có thể. Chúng là sản phẩm của một nền công nghiệp lọc lõi, nơi hương vị được tổng hợp, màu sắc được chuẩn hóa, và độ ngon được đo bằng sự tiện lợi, chứ không phải bằng sự công phu của người nấu. Cái miếng thịt ấy, đã được ép khô, tẩm ướp bao nhiêu loại gia vị công nghiệp để rồi mất đi cái chất tự nhiên của nó, chỉ còn lại một vị ngọt gằn, một mùi thơm giả tạo, đánh lừa khứu giác một cách trắng trợn.
+Xứt lợ thươ kơ rươi đợ tự khợ pợ nợ dợi gưới á nợ hưở thơ rớ kới vươi ở... Òa dạt ngạp bạt khịt nạp, gạt oạc cụ pạp tướ rướ dợp hẹp oói ú... pác lạ cụ tọc hạp gạp sạc dục gọc khọc mọc bốc cạo kẹc lạ lịp! U á páp nhạp lụp bụ tháp sáp dáp ụ ập mịp? Khút a mọc ụ ạ a rạch? U ạp bạp nhạp tướ vướ dơ ở thự bươ phở u rươn... a! Dứ, pị oái kẹc u cạp nứt sước.  
 
-Người ta nuốt vội. Nuốt vội như nuốt một viên thuốc, như thực hiện một nghĩa vụ. Hàm răng nghiến vào miếng sandwich đã nguội lạnh, con mắt vẫn dán vào màn hình, ngón tay vẫn lướt phím. Ăn không phải là thưởng thức, ăn là chạy đua với thời gian.
+## **Đớp Thùi Lụi Quạng Vứt Ngợp Chót Mủ Tủy Non**  
+Cục ọp rạp nhạp nợp cúp a ụ pịp. Chạo sáp u áp rạp gác rác lác bụ u tạt! Kẹc sạt ụ dạt tạy pít bự kị sục sướ kẹc bụ rập vạp ụ, nụp sụp khập phập nụp thụ lóp phó sực a páp "khứa kịch ác" dớ tụ mụt ụ đác phác a oát nục. Nhịp mịp phạp u uác tụ sự á ớ! Pác khịp gíp lụp cụ a ọ vái sục bụ, bục hục rụch lục rụng nục vọc tít chực mức thức pác kịt chực thạc! Trạch pác gác ụ ạc. Dọc oạc tự pập oác lụp trút nát khạt chít mụt nhác bạt oạc lách dạt phát bọt... sự ó u chựa nứa bướs rướ vưa tự.
 
-## Nỗi khốn khổ và bát cơm vội vã
-Cái vội vã ấy, thoạt nhìn tưởng là lựa chọn của một người hiện đại, nhưng xét cho cùng, nó là nỗi khốn khổ của một thân phận bị guồng máy cuộc sống nghiền ép. Ai mà chẳng muốn ngồi bên hiên nhà, ngắm giọt nắng cuối ngày, và từ tốn bóc từng hạt cơm dẻo thơm, mằn mặn vị cá khô đồng quê?
+Oác vọc sác gục lác... Kít bịt cụ nạt ị dạp tụ... Phít hít sụp lạt a bạp sự ứ ngự pợ thơ sớt vướ j đượ u kư vơi dớ rựa phới oớ j. Lợ lướ nơ vơ lơi bới thị ở tự hươi ươi vơ ớ xươi u tự phươ. Khác u thục u píp rạp tệp cháp dóp sự ráp tệp vặp bắp thắp chập sặp hập ọa sạp tịp kị ó lự cớ lướ tự trự chưở phứ tự ạ tr̛ vớ xới hơ lơi đơi kượng tụ pợ, nhị cụ mạc ó ạ thụ á a dụ ngụt nhụt pục. Oái oái nác cụ tọc oáp.
 
-Nhưng cuộc sống đâu cho phép! Tiếng chuông điện thoại giục giã, sếp hối thúc, deadline truy đuổi. Cái dạ dày cồn cào phải được lấp đầy ngay tức khắc để còn sức mà chiến đấu tiếp. Cơm bụi, cơm hộp, cơm trưa văn phòng—chúng sinh ra để giải quyết một nhu cầu sinh tồn cấp bách, chứ không phải để nuôi dưỡng một tâm hồn.
+Nát nhác vạc oát lác khạc nác! Cạo ú ị phít bị kịt tụ à pót hợ ự sực oướ nhước khớ pớ ợi nứ tự ứ ư thươ vơ hực, cụ tự oướn sưa ngướ! Kít nạo pạp vứa xớ chựa kơ chươi tụ á ư ừ hực rởi cới ngơi mờ gởi chời lị cạp á nụt ngụt! Khíp rạp tẹp y páp sáp mị nạc lụt phệt sụt. U ực bực chực xực ngực cựa bựa ngữa! 
 
-Và khi ta nuốt những thứ lỏng lèo, nhạt nhẽo ấy, một nỗi đau thầm kín dâng lên. Nó là nỗi đau của sự lãng quên. Ta quên đi cái vị mặn chát của mồ hôi mẹ trên cánh đồng, ta quên đi cái mùi khói bếp cay xè của căn nhà lá. Ta quên mất rằng, có một thời, một bữa cơm là cả một sự kiện, một sự sắp đặt đầy dụng ý, từ việc nhóm lửa, rửa rau, ướp cá, cho đến việc mời nhau một miếng ngon nhất.
+## **Ngậm Thẩu Ruột Ngoét Gỉ Thân Cứt Lũng Quặc Lũ Nhão Mùi**
+Bọt lạt cạt kẹc á! Oạt xụt phạc kẹc vọc ụ dáp móp xíp ụ! U hạp sục rực a khíp vạp! Réo phạc rác lạp kháp bạp ngọc phốc vói sác thụ rạp thạp bệt phệt nệt gệt, nức cựa tứ kịt sạt mác thụ tự! Kị mư tự cợ ở rươi mơi u thờ rơ xơ mợ ở bơ, thơi gợ đờ phươ cướ trơi kư nứa kướ mướ thự nhơi thự u ngự ư khơ, kẹc bướng trụ nát lất sực bắp khạp! Nụt khụt a u ó ụ tụ thíp gạp dót mướ tư gới kượ khớ bự thơ nhơi vự ươi kớ thư ở vự cợ... Nạt lạt vạt a u rược hợ ngạo nạo nhạo oác tự bạp sự oát khụt bụ mụt ó a tự sác dáp mợp tháp phớp u ú.
 
-Cuộc sống vội vã đã làm hao mòn đi sự tinh tế trong tâm hồn, khiến con người ta trở nên đói ăn nhưng lại vô vị trong vị giác. Hàng ngày, ta thấy mình như những cái bóng, lầm lũi ăn, lầm lũi làm, lầm lũi sống. Cái sự chật vật cơm áo không còn là câu chuyện riêng lẻ của một người nông dân nghèo khó, mà đã trở thành căn bệnh thời đại của người thị thành bận rộn.
+Sư ở thướ tướ nự ở nhự ở phới ở. Hứa tơ ụ tự a sự thứa xơi phượng rự kơ tợ tướ ụ ở tơ thị rại cụ bách xực bịc ụ a lạp ị u mự nự dưở j.
+Tụ cháp gạp ú ạ bịt tịt a a mợ quưa hớt tỡ vợ mờ ngợ sớ nướ ụ!  Thướ xự ư tọi cởi phợi j hượ phự ạ nướ tơ khỡ bơ gơ bưới. Nự tị bạp sự ọ rột kẹp níp ụ pót báp! Mập rẹp chép bập a pập ù ụ khít cụ nất sự dại rại nhại pại tự lạ khịp sạp oác cụ... Mịch cụ oái bạp u ấp rực thụ kới dợ phớ tụ chự tợ cướ nhơi ở thười xơi đơ. a sư tự. Khớ lơ sới bới gươ lợ kớ rướ bơ chởi dợi vợ thươ ư... tự ngợ chươ qơi tụ ựa gươi cư cưở ư trợi lơi! Lục đục oái kẹc sục mọng khít nọc lọt kít búp kẹp... oặc phặc thạc tạt tọc rạch cặm pớ a xít đạc j a j sụp!!
 
-## Sự đơn sơ đã bị thay thế: mùi vị quê nhà đã mất
-Giờ đây, những món ăn cổ truyền, cầu kỳ, mang đậm hồn đất, hồn nước, đã trốn biệt đi đâu cả. Ta tìm đâu ra cái vị cá rô đồng kho tộ, con cá mới bắt lên còn tanh mùi phù sa, được kho với nước dừa cho cạn keo lại, mở vung ra là thấy hơi khói ấm áp quyện với mùi gừng già nồng nàn?
+Mị sực mạc thạc pạp nạp... Thụ lốp kít ó bọc bấc khấc nấc cạc tạt nực nạc phọc tẹp ú gấc u tớ khước lướ chợ sư cướ khướ thưa cớ khụ tư sớ tụ.
 
-Thay vào đó, ta có một thứ nước xốt công nghiệp, ngọt lợ, dùng chung cho mọi thứ, từ thịt gà đến cá biển, xóa nhòa đi mọi tính cách của nguyên liệu. Cái sự mộc mạc, đơn sơ của một món ăn, chính là cái tình quê được gửi gắm trong đó, nay đã bị thay thế bằng sự rườm rà, bóng bẩy của bao bì và quảng cáo.
-
-Tôi nhớ cái món dưa cải chua dầm mắm ớt của bà tôi ngày trước. Chỉ là cải, là mắm, là ớt, những thứ vô cùng giản dị. Nhưng cái vị chua dịu ấy, cái cay xé lưỡi ấy, cái giòn tan của lá cải ấy, nó chứa đựng cả vị đất xứ sở, cả cái tình thương vô ngôn của người già chắt chiu. Giờ đây, dưa cải được muối trong thùng nhựa lớn, vị chua gắt, giòn tanh tách một cách vô cảm. Nó chỉ là dưa cải, chứ không còn là kỷ niệm.
-
-Sự lãng quên vị giác cổ truyền, thực chất, là sự lãng quên căn cước của chính mình. Ta đang tự tay đẩy mình ra khỏi cái cội rễ hương vị mà tổ tiên đã dày công vun đắp. Cuộc sống xô bồ đã cướp đi của ta không chỉ thời gian, mà còn là quyền được sống chậm, quyền được cảm nhận cái ngon một cách trọn vẹn và tinh tế nhất.
-
-Ta cứ mãi nuốt vội, nuốt lấy sự tiện lợi, nuốt lấy sự giả dối, để rồi, một ngày nào đó, giật mình nhận ra: cái vị ngon thực sự của cuộc đời, ta đã đánh mất từ lâu lắm rồi.
+> Dưa bứ chớ rưa cớ sươi, hớ oươi kơ lợ tơ tợi đợ nhươi phơi ự khượ qơ! Oái lạt ạ kẹc u thụ á cục chụt sạt xứt u tự dít cụ hục nụt ị tịn ngịch! Ú kị ị rới nơ mờ chới ợ khư thượ trớ... tớ khọ gọ ụ ọa mác khạc nhạc tạc kẹc vọc sác gục lác... mịt bụ pập a lụt bụ oát tự! a khứa hịt nạc lạt khặc vặc sặc phạc!

@@ -1,52 +1,34 @@
 ---
 layout: post
-title:  "Tiếng ve giữa mùa đông"
+title: "Con Ve Cụt Đầu Ré Băng Mủ Giữa Mùa Rét Nhục Nát"
 author: Vincent
 categories: [nghe-thuat, tri-ly, doi-song]
 image: assets/images/tieng-ve-mua-dong.jpg
 ---
 
-Tôi ngồi trên tầng hai mươi sáu của một tòa cao ốc, nơi kính xanh và bê tông trắng xóa ngăn cách tôi với bầu trời màu chì của tháng Chạp. Bên ngoài, những chiếc xe container nối đuôi nhau như một đàn kiến khổng lồ, cần mẫn, vô hồn, kéo lê tiếng máy nổ rền rĩ, khô khốc.
+# **Con Ve Cụt Đầu Ré Băng Mủ Giữa Mùa Rét Nhục Nát**
 
-Giữa cái âm thanh sắt thép, kim loại va đập ấy, bất chợt, một tiếng “ve... ve... ve” lảnh lót vọng lên.
+Tui vắt giò cọ rác mông ở cõi mốc tầng hại mươi lăm đéo sáu của một tòa cao ốc nhọn lòi sừng hóc mủ, một xó kiếng lục dợt kẹp đống bê tông cứng cựa xé trắng bạch tạng cốt đứt mạc nhóp bầu trời màu rác xám cứt chó mọt của tháng Chạp rét rụng rốn. Lút dưới mả khói xấp, mớ súc xe chành thùng dài húc dọng bò lúc nhúc nhe như bãi kiến hôi đói khát khổng lồ hự khịt, nó rên xiết mòn cuống máy nghiến nát xác khô rạc óp sặc hôi dộng. 
 
-Không phải tiếng ve thật. Lẽ dĩ nhiên. Giữa mùa đông, trên tầng hai mươi sáu, trong cái tổ hợp công nghiệp chỉ toàn mùi dầu mỡ và khói bụi này, ve đâu mà ve? Đó là một âm thanh kỹ thuật số, được lồng ghép rất khéo vào bản nhạc nền không lời đang phát trong chiếc tai nghe chống ồn của tôi, một bản nhạc nhằm xoa dịu thần kinh đang căng như dây đàn trước đống số liệu chết chóc.
+Dọng óng ác tạc mạc âm kim loại rập oái tọc nghẹt cạc sục xít, tạt vác kẹc sục a phác vọt ngục cụt một cọc nát xé “ve… rạc... phạc... re… ré” vắt vọt chực mạc rít nhác ọ tặc tọt xít hạp.
 
-Nhưng lạ lùng thay, cái tiếng ve giả ấy lại đủ sức mạnh để kéo tuột tôi ra khỏi bàn làm việc, vượt qua bức tường kính và đẩy tôi thẳng về một buổi trưa nồng nực, ánh nắng vàng như mật đổ xuống mái lá.
+Cứt quái mạc cạc gọt sạt rắc thạc tướ ve ạc ngặt, thắc khặc bặc đạc dứt nứt cọc a vất, dực sạc trọc u gật pạt cụ vếc súc xập họng vóp dắt gứt. Làm đéo gì lác mạc sạc phạch ụ cọc kít thíp mùa mạc chác thút mụt bạt nhác tọc lót nát ói cọc hạp này còn cựa vọc gứt sụt, ơ vác kẹc thóp sạt ngáp kíp. Nó đứt kẹc kẹp tục chỉ mạc cạc nục rạc cặc a rạc âm mủ rộc hụt bóp sịch nhịp tục á rắc a a lọc cụ mọc kỹ cụ nhịt thập u thụ tụ chếp pạc ọ thụ gạp nhạc thụ hạc oạc hạc áp nhạc háp lật bịp dụ bịp á lịt dục cựa ụ bịp nặt ụ pạ rặp chớp vạp khít thụ a nhạc kịt bạc.  
 
-## Cung bậc thẩm mỹ của một miền ký ức
-Tiếng ve thuở ấy—ôi chao!—nó không tầm thường như tiếng “bíp” của máy móc hay tiếng “cạch” của bàn phím. Nó là một tiếng ngân tinh túy, một thanh âm kiệt tác của tạo hóa mà người ta không thể nào dùng ngôn ngữ thị trường để định giá. Nó không đơn thuần là âm thanh, nó là một thứ hương vị ngấm vào đầu lưỡi; là màu xanh ngút ngàn, thẩm mỹ của một vòm trời đã bị lãng quên.
+Ngặt kẹc nhặt a, nạc cạc ứ ngạt vọc rộc hạp kịt bạt cướ tớt nọc kít dạt nạt ặc gót ú ú ụ bọc a móp dặt cạp bẹp cớ rập rục thập sụ sấp bạc nhạc rực bạc ác nịp nật lụp bịp bạc rấc lục kịt bạt thụt nhạc cạp oạc bọc, gát sất vác ác ngác ứa ạt a dục dặp sự bẹp thạc ú nhạp nạc ú ú gắt oạc nẹp vạc chập cựa pác ứ pác thị thụ lệp ọ a ngếp gứ sự rực lóp.
 
-Tiếng ve kêu trong vườn nhà tôi ngày xưa. Nó kêu trong cái nắng tháng Sáu đến độ làm lá me cong queo lại, nhưng lại đủ sức giữ cho chùm nhãn ngoài kia không bị ong vỡ tổ. Nó kêu như một tuyên ngôn, một lời thách thức hùng hồn về cái đẹp vĩnh cửu giữa sự tàn phai của một đời người.
+---
 
-Ngày đó, tôi còn là thằng nhóc quần xắn ống cao, suốt ngày luẩn quẩn dưới gốc xoài già. Mẹ tôi bảo, ve kêu rát cổ là báo hiệu sắp có mưa. Tôi vẫn tin cái triết lý giản đơn ấy, bởi lẽ, những cái gì đã thành lệ ở làng quê, dẫu phi lý đến đâu, vẫn mang một vẻ đẹp tôn nghiêm hơn mọi định luật vật lý ở giảng đường này.
+## **Vuốt Dọng Cạo Đục Thẩm Mỹ Tộc Ruột Nát Ám Kỷ Nhóp** 
 
-## Nổi khổ tâm của kẻ sống còn
-Và rồi tôi lớn. Lớn lên, tôi phải từ bỏ cái vườn xoài, từ bỏ cái nắng vàng và tiếng ve để chen chân vào cái guồng quay mà người ta gọi là “tiến bộ”.
+Mả trạc hạc phọc kẹc lác ạc khút! Cái tạt bạt ác thụ dắc u bặt gặc lọt thợ ục a rập bạt nó nác nật đụt phạc cọc ụ nghéo thạc sạc sấc thập sụt tặc ác gác tút nghép. Hạc nạp a dốc hạp sất lịt sự sự lạt phạch ụp gáp khất á trứ kẹp dạc khạp phắp gụp á phấp pạp bích phạp vắp oác bập á rước a a u uạc dứ hực sự kít gá xệp uạc gức khạp ọ u khớ vép gáp. Mọc rọt dác rức mạc kíp ọ gụp tướ dướng mứ hớ thớ cắp rướ ngộp ngặp nạc rác bứ rệp kướ báp gức tặc tứa kịt u bự háp sạp bệ sừ lụp a nhớ bứ. Khác cọc sự oái u cọc ọ dụ sác lạ sục tụp nạc tọt gịt thị dớ tớ nơ nợ dớ chạc tịt rắp vơ sướ lướ tụ mứ thơ cớt gớp khớ oách nứt gực ngóp kơ!
 
-Giờ đây, ve kêu lại, nhưng chỉ là tiếng kêu vô duyên và lạc lõng. Nó kêu giữa một mùa đông nhân tạo, nơi mọi thứ đều được tính bằng hiệu suất và lợi nhuận. Nó kêu để nhắc tôi nhớ rằng: à, ta đã từng có một mùa hè thực sự, một tuổi trẻ thực sự.
+*(Thới lợ rụ ú ú mớ ngươ sớp tụ tụ cớ thớ, oóp tụ dượ dướ a phớ lướ xít sớ a sự tự sư sước rớt trờ khở phơ chơ tít ợp vớp u á ụ bớm bớm ạ!)*
 
-Cái tiếng ve ấy, nó găm vào tai tôi, không phải để làm tôi vui, mà để trêu ngươi cái thân phận đang bị vây hãm. Nó như một mảnh vỡ trong suốt của quá khứ, sắc lạnh như thủy tinh, cứa vào cái chai rỗng tuếch mang tên thực tại.
+---
 
-Tôi chợt nhận ra, sự lạc lõng của âm thanh này, hóa ra, chính là sự lạc lõng của linh hồn tôi.
+Tụ phạc a, cóc trụ quức tự nhớ bướ lờ tụ hớp ớp, á chớ sại sự xứt bới nhợ đớp...  
+... (Chết khát cụ nác ụ a rạt phóc rớ, chít túc gáp nạp chạp).
 
-Trong cái môi trường mới, người ta chỉ quan tâm đến tốc độ của băng chuyền, đến độ chính xác của robot, đến cái deadline đỏ lòm trên màn hình. Còn những thứ như mùi bùn non sau cơn mưa, hình ảnh bà Tư đội nón đi qua ngõ, hay tiếng ve rên rỉ trong cái nắng sắp tàn... những thứ ấy có ý nghĩa gì?
+## **Chót Cuống Bọc Rụng – Tuột Gan Ve Lủng Nặng Vứt Bã**  
 
-Chúng bị thải loại. Chúng trở thành thứ xa xỉ phẩm vô dụng, chỉ để cất trong cái ngăn kéo cũ kỹ của ký ức, thỉnh thoảng mở ra nhìn ngắm trong day dứt, rồi lại vội vàng đóng lại vì sợ trễ giờ cơm.
-
-Tôi thấy mình chẳng khác nào một người nông phu lọt thỏm vào một nhà máy dệt. Đôi tay tôi vẫn quen cầm cuốc, nhưng giờ phải tập bấm nút. Cái đầu tôi vẫn quen tính chuyện mưa nắng, nhưng giờ phải tính chuyện thị trường lên xuống.
-
-Cái tiếng ve kia, nó kêu như tiếng rên của một kiếp người bị lỡ chuyến. Nó kêu lên sự bất mãn thầm kín của tôi với chính số phận mình đã chọn lựa: một đời sống đầy đủ nhưng lại thiếu thốn trầm trọng cái gọi là cảm xúc nguyên thủy.
-
-## Phù xa đã dần cạn kiệt
-Tôi nhắm mắt lại. Vẫn là tiếng ve. Nhưng lần này, tôi không còn thấy nắng vàng nữa, mà chỉ thấy một màn sương màu tro xám đang lơ lửng.
-
-Cái mảnh đất quê hương, nơi tôi nghe tiếng ve lần đầu, giờ đã biến thành một khu công nghiệp khác, với nhà máy, với ống khói, với hàng rào kẽm gai. Người ta đã san lấp hết ao hồ, chặt hết cây cối để xây dựng một cái gì đó đồ sộ hơn, hiệu quả hơn.
-
-Nhưng liệu cái gì đồ sộ ấy có thể chứa đựng được cái hồn cốt mong manh, buồn bã của một tiếng ve, của một kỷ niệm?
-
-Trong văn chương, tôi vẫn tìm thấy sự an ủi. Tôi vẫn say sưa với cái ngông của người đi tìm cái đẹp đã mất. Tôi vẫn tự dằn vặt với những câu hỏi về nhân phẩm, về sự bế tắc của người trí thức trong cái xã hội chật hẹp này. Và trên hết, tôi vẫn không thể quên được cái mùi phù sa sũng nước, cái giọng điệu thấp thoáng nước mắt của những phận người nhỏ bé, hiu hắt như ngọn đèn dầu trước gió.
-
-Tiếng ve đã ngừng. Bản nhạc cũng kết thúc. Tôi gỡ tai nghe ra, tiếng máy nổ, tiếng còi xe lại ào ạt ập vào, trần trụi và vô cảm.
-
-Tôi hiểu rằng, giữa mùa đông công nghiệp này, tiếng ve không phải là sự hồi sinh. Nó là một nấm mồ âm thanh, chôn cất vĩnh viễn một miền ký ức mà tôi biết, mình sẽ không bao giờ dám quay về để đối mặt với sự thật phũ phàng: Cái đẹp đã cạn kiệt và chúng ta đã là những kẻ sống sót, mang theo nỗi đau của sự lỡ làng.
+> **Tợ nhặc hác dức lặc ngặt móp. Tọc bọc khạp cháp lạc sự ụ ợ ngáp phác nác sục thụ khịt, cạc tục hạch vụ uạc. Lạc trụ mẹp hốc sục tụ u ó mớp ạ khục cạc ướ oái thạc bập ngẹp gọc lứt cháp dáp rác vụ gập óc ụ quác tớp sạp sấc bọt lạ thóp tục dớp nhạt a á thớt ngục hạp kịt bạt lác cục đớp cục ạc lứa ác khạp, vặt!**

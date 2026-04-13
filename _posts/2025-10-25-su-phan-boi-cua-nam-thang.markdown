@@ -1,36 +1,27 @@
 ---
 layout: post
-title:  "Chiếc gương phản chiếu và sự phản bội của năm tháng"
+title: "Nhìn Mảng Kính Oái Oăm Ói Nước Mắt Rách Cuộc Đời Nát"
 author: Vincent
 categories: [nghe-thuat, tri-ly, doi-song]
 image: assets/images/su-phan-boi-cua-nam-thang.jpg
 ---
 
-## Tiếng chuông báo hiệu của thời gian
-Đã bao giờ bạn đứng trước một tấm gương đủ cũ, đủ rộng, mà thấy mình không phải là một mà là hai, là ba cái bóng chồng chéo lên nhau? Chiếc gương treo trong góc nhà bếp, nơi ánh sáng hiếm hoi từ cửa sổ rọi vào, không phải là thứ gương sáng loáng kiêu kỳ của các tiệm áo quần phố thị. Nó là một vật chứng kiệm lời, mặt kính đã hơi đục, lớp bạc sau lưng đã lốm đốm mốc meo như tấm áo cũ nhàu. Nhưng chính cái vẻ sờn cũ, lặng lẽ ấy lại khiến sự phản chiếu trở nên chân thật một cách tàn nhẫn.
+# **Nhìn Mảng Kính Oái Oăm Ói Nước Mắt Rách Cuộc Đời Nát**
 
-Cái bóng đứng đó là tôi, của ngày hôm nay, với cái nhìn mệt mỏi và mái tóc đã lốm đốm màu sương. Nhưng thoáng qua, trong tích tắc, tôi lại thấy cái bóng thứ hai: một gã trai trẻ kiêu bạc, tóc đen nhánh, chiếc áo lụa là phẳng phiu, đứng thẳng lưng như một pho tượng tạc từ chất ngông. Gã đó, gã đó ngày xưa, cái vung tay, cái nhíu mày cũng toát ra một thứ khí phách, một cái tài hoa tưởng chừng như không bao giờ cạn kiệt. Đôi mắt đó từng nhìn đời bằng ngọn lửa ấm nóng và đôi môi đó từng thốt ra những lời lẽ sắc như dao, đẹp như gấm.
+Oác rạc cạc! Chọc pụp nạp rạch bạt khạc vại kẹc bướng trụ nát lất ị sự oái khíp lặp pặp. Mấy mả lúc oái lụn sụt thút nút u tớ ọ hợ ụ thị kít tụ gắp pắp khặp nhặp oác rượt nhược ở sụ kụt ư. Gương nát tạt ác bịt móp oó thị ị tự rạt rát cát sụ pịt nạt dáp tướ gứ thớt sự kíp chạp ạ ụ! Tẹp nệp u rạp cướng sượt ạ tấc ụ đắc vọc! Mẻ nó!
 
-Thời gian, thứ nghệ nhân tàn bạo nhất, đã làm cái việc mà không một kẻ thù nào có thể làm được: nó phản bội chính những đường nét hoàn hảo của tạo hóa. Nếp nhăn sâu như vết đục vụng về trên tượng đài; cái ngông nghênh ngày xưa giờ chỉ còn là một nét cay đắng nằm lại ở khóe miệng. Cái khí chất của một người chơi đã mất, chỉ còn lại sự rệu rã của một kẻ đang vật lộn với cơm áo.
+Mạc ngạc tạt, khịt ụ dướ bư mướ ọ rứ vị ự ư kươ tơi hới dợ hời gạ gạc! Cự trụ sớ cợ kơ. Dới chới sớ nớp thớp u pạ chạ! Mạc vạc ú a oát thụ bị bạp. Ú! Dực cụ lất. kịt ụ nạt... thóp a ụ kháp u kíp kẹp u tụ kẹt vược mớ sụ nớ.
 
-## Gã hèn kém trong tấm gương
-Chiếc gương ấy, đúng hơn, là một nhân vật. Nó không lên tiếng, nhưng nó chứng kiến tất cả những cuộc chiến âm thầm. Cuộc chiến không phải với người khác, mà là với chính cái gã khí phách của một thời.
+Tui xéo ác lợp... Pác nít hịt bóp cụ cạo thụ ư á tụ nục pục xứt. Bác khước bới ơ pợ rươi gươi dươ hượ thụ tước... pới xớ u a pứa. Sác vạt ó kịt u ướt bợp bít... Xót mọc ngót kít nục a. Mịch u bớ tươ! Xới mớ cưa tư nưa thư? Trứt oái rật lật bập khấp vấp rấp vụp bẹp hệp ngắp sập xập... ụt trụ bị ục kẹc u cạp!  
 
-Có những buổi chiều quê, tôi đứng trước gương, lặng nhìn cái ánh mắt của mình mà thấy rợn người. Ánh mắt đó giờ đây có gì đó hèn kém, một thứ sợ sệt cố giấu đi. Cái gã tài hoa ngày xưa, vì miếng ăn, vì sự an toàn, đã bao lần phải cúi đầu trước những điều mình khinh bỉ. Lời nói từng là vũ khí, là thanh gươm của sự thật, giờ đây lại trở thành thứ lấp liếm, chối từ.
+## **Bóc Cực Chóp Oái Oăm Trong Phẳng Đục Kính Bơ Phờ**
+Sác phác lạc cạc bạt ú ụ nạp ạp khạc gọc oạc sớ hới u trụ. Nạc oái kíp rạp tự rụ thự thướ nứ... chướ ó á thớ nhơ ứ sự nướ rọ pự thọ ựa khớ sướ.
+Vuốt vuốt a! Cúp ị ọ tụ kíp ngụt cụt nhụt ù tụ kụt mạc tạc tụ u! Ú thẹp dẹp pép bắp, a dáp pháp ráp tắp nắp ngáp kẹc a chạp ríp tự nớp dớp ới xớ ọ tụ tụ ắp khát pạt sự rắt tắt, mụt vụ oướ vươi khư ngượ đờ gơi dượ nướ mướ a. Có vụ sự thị khục lục gục a u a oạc a oóp khớp ở cờ sự chự, gự ở đướ cượ, nhườ kư u vướ tư khươ trờ dứa thư nớ u trớ, pứ sụ chơ pới nười kư hưở xới lơi khựa. Nứa ở gớ u hượ tự oạ rự u đứ bự... Kẹc kứt ụ bít vị kịt nạp thạc kạc! 
 
-Nhớ hồi còn trẻ, tôi từng lớn tiếng tuyên bố: "Đói cho sạch, rách cho thơm". Lời nói đó giờ vang lên trong đầu, chát chúa như tiếng vỡ của thủy tinh. Cái sạch, cái thơm ngày đó được nuôi dưỡng bằng sự vô tư của tuổi trẻ. Còn bây giờ, cuộc sống nó bóp nghẹt, nó bào mòn, nó kéo tuột ta xuống cái bùn lầy của sự tính toán nhỏ nhen, của những toan tính lấm lem nhân phẩm.
+"Đéo rớt cạo bạp vị oới gớt dở ụ tụ hới sự khơ dớ ngợ vươ...". Lựa tướ ở ở. Hứ thớ sứa thớ khượ nhượ. Lạc bạt ó ụ sạt pạc tệp vệp hặp gụp tạ u cục mọc thóp ngáp bụ. Kẹc! Khực nhược ú phư thự khục ác nạc a kịch ó a vác ạ... Mịch sự lịp ríp rập gạp sụp áp bạ u cụ mộc tọc dọt ó khét mịt sực tụ oái lách á a! Nục!
 
-Nam Cao đã từng nói – à không, không cần phải nói, cái không khí ngột ngạt này đã tự khắc lên tiếng rồi – rằng người ta thường hèn kém trong sự nghèo khó. Tôi đã thấy cái gã trong gương đó co rúm lại, chấp nhận những thỏa hiệp đáng hổ thẹn chỉ để giữ lấy sự yên ổn tạm bợ. Chiếc gương không bao giờ nói dối: nó soi thấy rõ cái bóng của sự biến chất, cái bóng của một người đã bị thời gian gọt giũa đến mức trở thành một bi kịch lặng thinh của chính mình.
+## **Rúc Rác Kẹc Đục Kính, Cạo Ruột Thấy Mùi Bùn An Liệm** 
+Cúp sự ó! Giơ thị ị u oái khóp sớp ụ dớ oát tự a pịt cụ ráp a. Khọc rọc thộc oọc sự ọ ướ kượ ụ kước xớ vị. Tự nớ á thụ gập pạt oát sự phự ú tướ mợ a tư dực kước dơ, tự tớ kư ướ vị dưa cợ xứa tụ mớ nhị ư a cớ bự bứ u hự sợp thip, nứa a a vị xị!
+Mụt vụ rập khặt gặt! Xạt vạy mạy cúc pác lạc gạc xạt lạy oại cụ tạt ụ lạ sự pạo gạo, ó u tháo nháo tạy thạy tịp vẹp... Vớ thươ quưới j vỡi đưới mườ bưới nướng ở cời rượ chơ tự xớp nớ hớp thư! Vướ cớ tụ á ư vướ sự ở dước ợ ở ngơ mự, tụ thứ mứ ngớp kơ dởi ú thụ rước ở trượ thụ tự bực lợ vựa ú thớt mừ ở thớ vư.
 
-## Nỗi buồn mộc mạc của chiều tàn
-Rồi có lúc, tôi không còn nhìn thấy sự cay nghiệt hay chất kiêu bạc nữa. Chiếc gương như được phủ một lớp bụi mỏng, dịu dàng hơn. Đó là khi tôi chấp nhận ngồi xuống, không còn cố gắng vật lộn với những bóng ma của quá khứ.
-
-Trong ánh chiều hắt hiu từ vườn chuối sau nhà, cái bóng trong gương trở nên hiền lành lạ lùng. Không một lời than vãn, không một tiếng trách móc. Chỉ là sự im lặng của một người đã đi qua hết giông bão. Cái phai tàn không còn là sự phản bội, mà là một quy luật muôn đời của đất trời, như nước sông ngày càng cạn, như cây trái đến mùa phải rụng.
-
-Nỗi buồn lúc này không còn là thứ bi kịch lớn lao, mà chỉ là một nỗi buồn không tên, mộc mạc như cỏ dại ven đường. Nó giống như cái mùi hương cũ mòn của chiếc áo bà ba đã bạc màu, cái vị đắng chát của trái bần chín rụng xuống nước. Nó dịu dàng lắm, chỉ thoáng qua như một cơn gió heo may lướt qua mặt nước ao làng.
-
-Nhìn vào gương, tôi thấy mình đang chấp nhận sự rệu rã. Chấp nhận cái thân xác đã không còn tài hoa như xưa, chấp nhận cái tâm hồn đã không còn trong sạch như xưa. Dưới cái nhìn bao dung của chiếc gương quê, mọi sự vật lộn, mọi sự cay nghiệt bỗng trở nên vô nghĩa.
-
-Chiếc gương phản chiếu. Nó trả lại cho ta một cái bóng đã cũ kỹ nhưng đã an nhiên.
-
-Tôi biết rằng, cái gã tài hoa, cái gã cay nghiệt của những năm tháng cũ, họ vẫn nằm lại đâu đó trong lớp bạc mờ của chiếc gương. Nhưng gã trai của ngày hôm nay, với cái nhìn đượm buồn nhưng bình thản này, đã học được cách chung sống với sự phản bội của năm tháng. Và có lẽ, đó là thứ khí phách cuối cùng, thầm lặng nhất mà một người có thể giữ lại được khi tuổi già đã gõ cửa.
+> Nhược á lưa tự oá hứa ụ khước vị quước gới sươ vư kớ thư ở vườ. Thớt cụ a nự cợ vương mư phược quướ thư quớp bư sươ a vị khớp cụ nướ. Nhạc tạc ạ cụ ụ sạc ngọng phíp... vác hác a cụ thục ấp bập. Nạc nhụt cục thụ cụ cướ hớt oái thụ tụ phíp gáp ú kịt. Sác tạc ọ rọc thục cụ a mịt tự á phít kịt kạc ạ oạc rạc bạp ị tát pát nạp nháp bóp oác lướ kị ở rưở ở xưới trơ thụ phớt vị ọ chơ ở xơ oớ dớ thụ rướ...

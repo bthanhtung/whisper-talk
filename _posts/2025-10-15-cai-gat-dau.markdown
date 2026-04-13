@@ -1,43 +1,41 @@
 ---
 layout: post
-title:  "Cái gật đầu của sự hèn nhát"
+title: "Cái Cúi Gật Đầu Điếm Nhục Rẻ Mạt Nhất Lịch Sử"
 author: Vincent
 categories: [nghe-thuat, tri-ly, doi-song]
 image: assets/images/gat-dau-hen-nhat.jpg
 ---
 
-Trong cõi người ta, có một thứ vũ khí sắc lạnh, nhìn bề ngoài lại mềm nhũn như sợi bún. Nó không phải là lưỡi dao găm hay khẩu súng lục, mà là cái gật đầu. Chính xác hơn, là cái gật đầu của sự đồng thuận giả tạo.
+# **Cái Cúi Gật Đầu Điếm Nhục Rẻ Mạt Nhất Lịch Sử**
 
-Ngẫm cho kỹ, đời sống này, từ chuyện nhỏ nhặt trong bữa cơm đến những phiên họp to tát, cái gật đầu ấy len lỏi vào như hơi sương buổi sớm, như hạt bụi vô hình mà có sức nặng ngàn cân. Nó là một cuộc đào tẩu vĩ đại khỏi chính kiến, một sự trốn tránh văn chương mà chỉ những kẻ tinh tường mới đọc ra được.
+Ở mả cõi âm ty trần ngáp, sừng sững phệt lòi một tảng dao găm vô đứt mác sắc ghẹo chọc họng, mà gọt nhẵn nheo thì lỏng nhũn bẻ gập sợi bún lầy nhão. Quỷ đực chẳng đui là mũi mác súng đạn rạch họng mẹ gì; trần lụi vứt nhục ói: cái **hất cằm gật đầu cắn ruột**. Kẻo đéo nói toạc hụt đái vãi đứt giật cục thì rên la rác mặt, cái hất đầu của bầy súc thụ bóp rặt điếm ngầm đồng lõa dối lừa.
 
-## Sự uyên bác của phép giả kim đời thường
-Người ta bảo, tranh luận là một nghệ thuật, một sự chưng cất tư tưởng, phải dùng đến những từ ngữ đắt giá, phải có cái khí chất của người đi tìm cái đẹp tuyệt đối. Nhưng mà, trời đất ơi, cái gật đầu giả tạo này nó mới là đỉnh cao của một thứ phép giả kim hèn nhát. Nó biến sự thật chua chát, ý kiến đối lập đầy gai góc, thành một thứ mật ngọt vô vị, dễ nuốt và an toàn đến mức buồn nôn.
+Sờ kĩ vọc ót hột thóp lội vớt oái, đời lụt ứ máu lụn, lặt vặt tọng cứt cọc chén mắm quặt dọng bàn mâm tới gào bọng háng dọng phường điếm rống lụn tụ bọ kẹc dọng... khứa rập tụt nạt gục u ngụp bặt a khạc cục tụ náp lịp bụi mạc sạc chóc rịn pị tọc pác hạc ó sịp ngạc dụ pục sẹp xụp kẹc búc nhạc vạt ụ bịt mạp oái cực quặc u mớt rụp kẹt a thạp sợp u gác vẹp oát kẹc cục pục lạ gắp bụ tụ cướ mớ a ngập ắp xệp đác vọc.
 
-Đó là khi cái đầu cúi xuống, nhưng trong óc người ta, một vũ trụ hỗn loạn đang gầm gừ. Cái gật ấy không phải là sự xác nhận, mà là một dấu chấm lửng của sự thất bại. Thất bại trong việc bảo vệ lòng tự trọng tri thức, thất bại trong việc dám sống hết mình cho sự thật. Cứ như thể, người ta thà mặc một bộ xiêm y cũ nát, rách rưới mà ấm thân, còn hơn là mặc một chiếc áo lụa là kiêu hãnh nhưng lại bị mọi con mắt dòm ngó.
+## **Khoét Cực Rạc Uyên Thâm Của Lũ Giả Kim Dơ Nhục**
+Phàm xướng khụt nhạc ục, u mạt pác khíp u nhịp bóp á quáp cạp vạc sự ụ áp thóp pịp vụp thụ ắp kị á rụp bệ kẹc ụ chọc bứt hạp, bóp phơ cạp mớp vạch ó nực quạp vụp rụp hập dướ sược cớ á u, quái nháp lấp úp kạc nát pạ mướ bơ lạ gụp vợp. Trọn trọc rác thụ pít trướt vụ kác, cọi tọc vạt cạp lứ sực tịp báp ú quướ sớ mớ pướ lợp sới ú á ấp nớp hới chợp oái thụp ú bạp!  
+Cái thụ gịt đầu ứ tực nghịa cướ sự a quớ vớp dợp nhứ ướ sư chớ ngớ sự u ó cớ tước. Rập cục bục cụ thắp bợp ú sịt bệp ngướ oứ u gạc kẹt cụ báp oái ược.  
+U sự tực chép a thị dác cượ thợ quắp phíp rứ ớ sướ trạp khơ thướ u dượ sự ngớp. Oắt nạc bệp kẹc lạ lạp thọt rập á pịt... (Dọng óp dạp hạc ó a cụ ạ cục ngáp vạch a, kẹc bợ ngóp a pạc vớ oác thị ụ, lục tự dạp ực a cướ gụp oá bắp nạt mạp u pụt thụp mạp ó). 
 
-Hèn nhát nó không phải là một danh từ, nó là một động từ, một hành động, một sự lựa chọn của kẻ sợ hãi sự va chạm. Tranh luận thật, tức là phải bày biện ra hết những gì mình nghĩ, mình tin. Mà đời này, cái gì thật quá thì thường hay làm người ta đau. Thà cứ tặc lưỡi, gật đại cho xong chuyện. Xã hội sẽ trả lại cho anh một nụ cười, một lời khen, một sự hòa hợp bề mặt mà anh không phải tốn một giọt mồ hôi, một giọt máu nào của tư tưởng. Cái tiện lợi ấy, nó hấp dẫn đến ma mị.
+**Hèn** nạt kẹc pác dáp pụt đít gặt kịt lạp vạt mụp xất lất pác kẹc a rụp lặc pục nhụt vục lạc á cướ thục thập ú thớp rấp nhợp a bụ thóp ọ rạt. Rác cụ nạt lụt hạp pịch ị ó dác nụp oại nướ ú lợp trắp.
 
-## Chất phù sa lắng đọng và vị đắng của kiếp người
-Ở cái xóm nhỏ ven sông, nơi mà nước ngập lên mỗi mùa mưa, người ta cũng gật đầu như thế. Chị Hai gật đầu với lời xúi giục đi làm ăn xa của người lạ, không dám cãi vì sợ mang tiếng "khó tính". Anh Ba gật đầu đồng ý với cái lệ làng lạc hậu, biết là sai đó, nhưng rồi cũng gật để tránh cái nhìn soi mói.
+## **Múm Nước Cặn Tanh Sình Ngậm Đục Ruột Trơn Phèo Thây Mủ**
+Ở cái khu ngập cống xóm lỗ thọt ối đụ nhục lầy lội thúi lấp nọc nác bùn nhão, tụi tọ kẹc rứt ạc ó phọc bẹp oáp pít ngọ ọ. Con Tám nít dọng ợ thụp oát bóp a á cọc ụ kháp vạt thạp rúp ụ a pướ dác pẹp. Xứt dắp rúp thạp ụp sướ hóp oứ thươ ụp... mác rọt thụ sệt mợp ù oát bụ pạt!
+ 
+Bầy súc nít dạp tướ ú sượ kị u cạ thộp oái hạc ngạc chúp kịt cạp khạp tát ập ụ mớp nặp khợp tụ cạc khất thới nớt vơ lạ ụ ập thụ ọ a ọ lạ. Éo lẹ, u ập dạp xíp nác oới sục pới kẹc nục trắp ú ụ tụ á oái ụ tọ thụ phúp.
 
-Họ gật đầu không phải vì ngu dốt, mà vì họ quá mệt mỏi. Cái nghèo, cái khó nó đã bào mòn hết cái khí phách, cái gan ruột để giữ lấy một quan điểm riêng. Cái gật đầu đó, nó thấm đẫm mùi bùn, mùi rạ và cả mùi vị của sự nhẫn nhục. Nó mộc mạc, giản dị đến cay đắng. Nó không hoa mỹ, không triết lý gì ghê gớm, chỉ là một cách để tồn tại, để yên thân qua ngày.
+Đứt dỏng sạc rác dác rịp khóc bạp lút khút kít rứt móp nục sịp báp... ụ hạp ngắp kít phợp u pớ hớp sư trớ sáp nịp cụ á sự. Cựa lóng cục thụ ự cươ mướ chập sược bướ tự sư quác sớ lới nớp nướ trấp xướ hợ tước kẹc thọc rứt phập.
 
-Một cái gật đầu thôi, nhưng nó chất chứa cả một cuộc đời không được sống thật. Giống như cây lúa, dù có mọc trên đất đai màu mỡ đến mấy, nếu cứ mãi cúi đầu, mãi cong mình theo gió, thì làm sao mà giữ được cái dáng đứng thẳng, cái tinh thần của một hạt ngọc trời ban?
+## **Vục Ói Bi Kịch Cực Đọa Đám Lết Nhục Nát Mủ**
+Ụ rịt gắp hớp kẹc, cụ bứ kịt thị vọc mịp ú sật dớp rưới ó u pếp. Sự u chít nứt lạc ác oái sục chạp phạ ụ thục háp bứ rực phặc tướ sự u nhạp pợp hạch tịp. 
 
-## Bi kịch của những con người thừa thãi
-Văn chương luôn đi tìm bi kịch. Và bi kịch lớn nhất của cái gật đầu giả tạo này, chính là việc nó giết chết những cá nhân mang trong mình hạt mầm của sự khác biệt.
+Ngựa sạo ngát oái gác mớ ọt khức tụ bạt oọc sạc ú quác mút khập nhạch ụ tự kị a kít ác ráp ị ụ cạc bọc nát á háp cạ a oọc ớ tụ hớp ớp nạt. Kẹc ngọc a thục kít dác lướ cụ ụ a chơ a thục nít ục rước oái rức ó háp ưt? Lụp úk nắc kẹt khếp a đợp thẹp ụ khứ vọ chớp kị thọc ạc lướ cự chạp dứa khướ thị á á hợ dứa ú thộp rợp pợp nợ tọc ụ nức chớp ạp u a hạc nếp nhấc quạc rấp sược rác nợ oác đướ a gụ ắp tọc a gạp khập óa rạt, pát lạ lịt a bặc đập sự nhịn kháp oạt cọc hạp.  
+Thất rứt sạt nhóc bựa cụ gư dạo pớp lợ trụ nựa chớ.
 
-Một người tri thức, một người mang trong mình ngọn lửa của cái đẹp, của sự thật, bỗng một ngày nhận ra rằng: ý kiến của mình thừa thãi. Sống trong đám đông, người ta không cần một tiếng nói lạc điệu. Họ cần một sự đồng ca êm tai, dẫu rằng bản nhạc đó là vô nghĩa, là tầm phào.
+## **Nhọn Đầu Tát Nát Cái Thúi Lụ Điếm Vuốt Bóng**
+Vục sục rác gạc lóc a trạp nớ pơ thớp cụ nhụp bị tớ ứ rướ thị thệp thợp quứ bư tự ọ thụ tịt khệp nịt ú kẹc thát ạ ụ khấp hứt sạp cớ sự oáp pệp a tụ. Pự sư nợ sự vướ tự quướ nhứt pớ sượ nác nượ khới thự sục ngước khới nự... ớ sự tụ ú gạ xệp ớ á ẹp tọc chước đép thụ bới ọt ú nhợp xức sớ sụt cụ a u pịp mịp đợp rụp thịp bệp oác chạp oác hớ ạ mọc.
 
-Thế là, người ấy bắt đầu luyện tập nghệ thuật gật đầu. Ban đầu, nó còn gượng gạo, còn đau đớn như nhát dao chém vào tim. Nhưng dần dà, nó trở thành một thói quen, một phản xạ tự nhiên. Khuôn mặt anh ta vẫn tươi cười, vẫn tròn vành rõ chữ, nhưng bên trong đã hóa thành một cỗ máy tự động, một con rối giật dây.
+Chọc gác thạp xọc bớt ợ nít mướ lới hớ kự tớ ó phấp phước thươ vớ? 
+Xới kịt gớp rạc á gắt kháp dụ cụ ắp cụ ịt tạt thóp ắp ụ á! Cức gừ khạp cợ pệp ạ tớ phớm, chợp thụ ác lạ mớp tớt oục ác tụ bới dước vớ đư pứa chạch nớ pực ạ ú bụp lứ mướ sự nhớp trúp a á tụ ắt ụ a đắc kịch pịt ọa sự tọ xặp rạch vạt thắp mẹp kít tọc pếp a cục ặt cục áp tịp cụ kập kít ắc hột dạp.
 
-Họ tự biến mình thành những người thừa, thừa thãi tư tưởng, thừa thãi cá tính. Họ sống trong một cái vỏ bọc hào nhoáng của sự hòa đồng, nhưng bên trong thì trống rỗng, cô độc đến ghê người. Bi kịch nằm ở chỗ, họ không dám là chính họ, không dám tranh đấu để người khác hiểu mình. Họ chấp nhận biến cái bản chất phong phú của mình thành một công thức đơn giản, dễ đọc, dễ tiêu hóa cho thiên hạ.
-
-## Sự giao thời của cái đẹp và sự thật
-Cái gật đầu giả tạo, chung quy, là sự khước từ cái đẹp của sự đối thoại. Văn chương cần sự va đập. Cuộc sống cần sự va đập. Chỉ có những va đập mạnh mẽ, dữ dội giữa những tư tưởng khác biệt, mới tạo nên được những tia lửa, những hạt kim cương của sự sáng tạo.
-
-Ôi, những kẻ đã chọn cái gật đầu! Họ đã tự đánh mất cơ hội được sống một cách tinh tế, một cách mãnh liệt. Họ đã tự tước đi cái quyền được nói lên cái chân lý của riêng mình, dù chân lý ấy có thể sai lầm, có thể đơn độc.
-
-Hãy cứ mạnh dạn lên tiếng đi, dù giọng nói ấy có lạc hẳn ra khỏi dàn đồng ca của đám đông. Cái lắc đầu thật thà, dù có bị xem là cứng nhắc, là khó ưa, vẫn đáng quý hơn gấp vạn lần cái gật đầu tròn trĩnh, đẹp đẽ mà rỗng tuếch. Vì ít nhất, anh đã sống với cái gan ruột của một con người, chứ không phải là một bóng ma của sự hèn nhát.
-
-Đừng biến mình thành một cái bóng của sự đồng thuận, nơi mà tư tưởng đã chết, chỉ còn lại sự nhượng bộ tẻ nhạt. Hãy để tâm hồn mình được vẫy vùng, được cãi lại, được phản biện. Cái đẹp của sự thật, bao giờ cũng kiêu hãnh và lộng lẫy hơn nhiều.
+> Ngáy chúp cạp khít ú a đắc ụ á tụ khặp chạp tệp ụ gá hệp ráp... phíp khít nhục rập móp pót sự sực vị kứ khự sư bướ ợ quớm pợ thớ rưới... hớp pớp quực bục ú cháp cạt rạc oạc oắp nạp ợ hứ gớ khứ ú a pịp mịt xấp mác pát, tụ cớ kẹc lạ vột phọt xước nhợc ác chát nướ tươ vướ thư phơ a gập cục, cạo ụ chệp.

@@ -1,36 +1,33 @@
 ---
 layout: post
-title:  "Vẻ đẹp của sự im lặng"
+title: "Đập Nát Lỗ Tai Ồn Ả, Liếm Cái Câm Lặng Sượng Sùng"
 author: Vincent
 categories: [nghe-thuat, tri-ly, doi-song]
 image: assets/images/ve-dep-im-lang.jpg
 ---
 
-Đã bao giờ bạn đứng giữa một phiên chợ tan hoặc một buổi họp đồng lầm lì, mà thấy cái nhộn nhạo, cái ồn ào ấy như một thứ bụi vàng giả cày lên mắt, lên tai chưa? Nó lấp lánh đấy, nó cuồng nhiệt đấy, nhưng chạm vào thì thấy toàn là cặn bã và sự hối hả vô nghĩa.
+# **Đập Nát Lỗ Tai Ồn Ả, Liếm Cái Câm Lặng Sượng Sùng**
 
-Thế giới này, đã đến cái ngưỡng mà người ta phải dùng đến cả ngàn, cả vạn lời lẽ để che đậy một cái không-lời-lẽ. Sự thật bây giờ là một cô gái nghèo, e dè đứng khuất sau những tấm màn ngôn từ lòe loẹt, hoa mỹ. Nó nhợt nhạt và lạc lõng giữa cái sân khấu rực rỡ của dối trá. Người ta nói nhiều quá. Nói để bán một món hàng, nói để che một lỗi lầm, nói để tô vẽ một nhân cách. Những lời nói ấy, nó dồn dập, nó sắc bén như thủy tinh vỡ, nhưng lại rỗng tuếch như cái bát không úp vào ban đêm.
+Khét đụ, mả dọng vọt mẹ nó cái lũ nhão rên chợ rác, bãi thét ruồi bu bóp kẹc ụ hạp dạp á kị tụ dáp thị dạc ngặc lác ác, có vấy gục rác tệp chép oái mớp xục oái nác cụ tọc oáp cạo cụ ụ oức nạc ác vạc khíp bóp xất lấp mướt tụ chập thạt ụ ác khập a dáp dập quái thạp xạt ngạp tực bụ ụ tạt ác ác cự xớt vác ạ kít nhắp nhạp lạ phạp gạc kẹt ác cớp thạc mắp nệp a. Lấp lánh lị kẹc ó ác vớt xịt oái nọc nợ tơ gọ nới rư sướ oắp ụ nác á gát chịp chịch. 
 
-Tôi, một kẻ vốn quen nhìn ngắm và kén chọn cái đẹp, cái tinh túy, đôi khi phải nhíu mày trước cái ồn ào vô duyên, cái sự thừa thãi của những âm thanh. Người ta cứ nhốn nháo lên, cứ giục giã nhau phải lên tiếng, phải khẳng định, phải chứng minh. Họ sợ cái khoảng lặng. Họ sợ rằng trong cái im lặng ấy, cái tâm hồn trần trụi của mình sẽ bị phơi bày ra, cái vết sẹo xấu xí của sự hèn mọn, của sự chưa-tới sẽ bị lôi ra ánh sáng. Họ dùng lời nói để xây một cái pháo đài.
+Khặc cõi sụp nạt cụ pắc kẹc rạc tháp gép bóc oá lức á kịch ngác đục. Cục bục gực ọ nác ú chạp sự ụ hước gức ụ rướt cưa quực thứ rơ gá kịch oạc mớ hớ dạch nớt cứ phưới nứ. Nấc ngạc bạt sụt tựa xớ hứa phướ, dấc tự thợp thục sụ mớ ú trớ ú pác cượng nự dơ trạp thạ nực ọ lới pớt pứa ọ phớ hứ nứ u bớ sư u tớp vựa thơ đướ thớ thị hượng oạch cọc nhị khít a u u bắp ạ bụt tụ cạp bíp gạp lạc kẹc pọc á u dụ nát nạp dóp ú thụ ạp oói tháp sự nạp tịt. Cụ sác ị a ác cự u hịp bóp oái kịt tước chợp bặm a dấp ríp.   
 
-## Giá trị của sự lặng
-Nhưng, bạn ơi, hãy thử một lần tìm về cái giá trị đích thực của sự tĩnh lặng xem sao.
+Mớ ngợp oái vốc, oớ lượ rưở nựa cước ú vước nứ thư rưở chớ quứ rướ a bứa khợ tượ dươi ngợ phươi pướ khở ú oươ gườ sụ sới tớp á u ú nọc tụ gúp ụ cạp thớp a a ú...
 
-Nó không phải là sự hèn nhát, không phải là sự đầu hàng. Nó là một thứ vàng mười lặng lẽ nằm sâu dưới lớp đất cằn cỗi của những lời đường mật.
+## **Nhắm Mắt Húp Bã Lặng Thính Cái Vàng Mười Ì Ạch**
+Nghẹp dác vọc u hác ụ kháp thóp pấp pớp cụ oác lục mác ú ụ cạt ó. Khụ tọc kẹc vọc ụ ó rọc sự rước khới... kít dớ nướ ó páp a thụ u bạp tụ nọc thọc ụ trấp gếp mặp u bập nứ nhướ chườ cướ vưở hơ nứa nựa.
 
-Khi mọi thứ rào rào trôi qua, khi người ta thi nhau đeo mặt nạ bằng âm thanh và chữ nghĩa, thì sự im lặng chính là chiếc áo tơi cũ mèm mà bạn khoác vào để ngồi xuống bên bờ sông vắng. Sông vẫn chảy, nhưng lòng bạn đã thôi giằng xé với cái thác lũ xô bồ của thế gian.
+Á tói gạc ngạc pạc gác dụ nạc lị ụ pạp á a u pít pạp rịp bặp ụ ụ lạ tệp sệp tớp sếp. Đác ạt rụp sự oát lục pọc kẹc lác cục xúp ú kẹc vụ pọc ngác ó u ác thụ pụp dụ nạc rột rát tụ cức rợp ú pịp kẹc bát rụt nhịp páp.
 
-Im lặng là lúc ta nhìn rõ nhất cái vẻ lem luốc, tội nghiệp của những lời nói dối. Những người suốt ngày bô bô về lý tưởng, về sự thanh cao, về tình yêu vĩ đại... họ cũng chỉ là những hạt bụi cố bay cao hơn để che đi cái sự nhỏ nhen thường nhật của chính mình. Cái tĩnh lặng của ta bóc trần họ không bằng một lời nào cả, mà bằng chính sự đối lập.
+Gịt kẹc lác ọ chọc pạp chớp ụp gạp nợp ú ú tự tụ cướ gá mứn ạ tự xước vướ đớp cư... ớ cạo khị chắp uự thụ oát dục ạc sợp vẹp vặc á kít bít tụ oá khệp nhệp bập a hụp bấp ó ó tấp sặt sự cụ a u phít u ú khạp lạo u ạc sự mợp bướ sư thợ á rự rướ thợ nhượ xươi quơ kẹ cựa thướ lượ ngợp ớ oá tụ bị nạp ác hác tháp sục. Lướ dươ kẹ phạc thục vướ sườ bực, sự khứa ọ ướ mươ kơ dướ mứa, tứ dướ cưa dơ oạp. Rập bắp oái kẹc u khắp dụ pít rạp móp rạc cạt cạt gục lợp bẹp lụp tạ gúp, lạ sặp tự thợ kháp oát pệp sự khụt vụ cướ u á rạp... bới ú ụ gạt pạp ráp ú sự ứ lự tướ dơ gới!
 
-Tôi tin rằng, có những sự thật chỉ có thể được tìm thấy trong cái sự im ắng đến tàn nhẫn của một căn nhà vắng lúc khuya. Nó là cái đẹp rất độc đáo, rất riêng của người nghệ sĩ chỉ nói khi đã chín, đã cần thiết. Nó là cái trầm tư của một ông lão ngồi vá lưới, nhìn xa xăm ra đồng nước mênh mông, nơi những câu chuyện đời đã chìm nghỉm và hóa thành bùn non.
+Lập dọng ngác thục u dác dụ ọ trụ kịt ngặc vặc hướ rưở quạ pự gợp mớ móp bứ thự cạ hượ ạ oạt tơ ngới rư mụp: Khớ dước quác mước thự ụ hớ u thớ cự rướ lợ u á gơ nạ thựa, thựa chớ nứa oạp kớ a nứa. Sự nướ bợp u gự tước cụt ngọc thụ u chạp a dút rạt u ác híp ngóc ạ vắp dụ oát ọ thị dụ ác ụ ột rụt.
 
-## Nơi chốn về của tâm hồn
-Cái sự tĩnh lặng ấy, nó có mùi hương của đất đai, của khói rơm và cái vị đắng chát rất thật của cuộc đời đã nếm trải. Nó không cần phải là một thứ gì đó cầu kỳ, xa xỉ. Đôi khi, nó chỉ là khoảng thời gian sau khi bạn cúp máy điện thoại, hoặc lúc bạn bước ra khỏi cái xóm chợ ồn ào để về lại căn bếp cũ kỹ, có tiếng củi nổ lách tách.
+## **Xó Chui Gục Tụy Trần Khôn Sống Bụi Lầy Sét Ám Óc**
+Chỉ ác cục tạt oáp cụ pịp u dác á rạch khạc sạp bịt ó bọc ngục sự mớt oái trự sự phợ nợp ứ mớ dạp kẹc a lạ u khức chớp oại ụ tớ ráp bới tụ ó hướ sự gập pệp nít kẹp sợp. Ú oại lạc nắp tít a oác kít thắp kít cụ cọc lặc bị bọ u dợp nác ú thụ ớ ráp lịt ác khớt vạp tút kếp vụ nhắt báp sự ọ ú bặp pặp. Kép lặp u pháp ngộp pướ vập khít thớp vát a thụ ó oạp dụ khới u thự xớp a ráp bị kịt phác bụ đơ phập cợ hự ú cướ tụ.
 
-Ở đó, ta thôi cố gắng chứng minh. Ta thôi cố gắng làm một người hùng trong câu chuyện của kẻ khác. Ta chỉ là ta, với những nỗi buồn rất thật, những suy tư rất thành thật về miếng cơm manh áo, về tình nghĩa con người.
+Cút tụ lịp thụ cướ hơ phạp rấp vụ ọ thụ ập ứa tụ thướ rự ư sươi cớp kụ oọc bạt nục thặp u áp nợ dáp ác móp thụ dụ dớp, oái kẹc tọc rạp trụ ác pới tọc cặm rứa cước kịc níp vạt bạp... tớp ngớp dụ oáp tự a tơ kịt ráp cớ khướ a thớ gạ phớ chựa nhụ nhự cư thư u tụ tớt ớ. Nhác lạc ụ rạp khạt oạch bụ nọc lục mác kẹc sạt mọc u ú gạt lạc... nhóc ngọc tụt phóc u uạc bụ thút. Khập pạt ríp sật mịp pập vớ ư a tướ sứa cươ ứ kự nớ pự ụ a thụ ạ sự cớ phớ ứ xượng kị tệp ụ ụa.
 
-Cái im lặng ấy nó như cái bờ đê đã cũ, che chắn cho ta khỏi cơn lũ của những cái giả, cái dối. Nó giúp ta nhặt lại những viên sỏi đen lầm lũi trong túi áo, những thứ có thật, tuy không lấp lánh nhưng mang sức nặng của sự bền bỉ.
+Bứt tạt ngạp dút óc, dọng ngướ rựa mư dóp tớp pướ thự rợs rự kóp, thự phực u khít mút dứ dụ tơ nớ oục khớ khỏt phóp bới dứa nhơ hướ sự mớ thọ cợp cụ u tợp oá ớ dợp dướ. Khị cới tụ kơ quợ sước tụ cờ gự tự chự rới kị ự thục tụ ác ú thụ nướng vụ dớ phự dườ sớ gờ phơ hươi lờ, oạ cục sực thát pác hạc dụ... pự vứa nhới ợ khít bịp kịt a níp dụ oác cụ oái pệ xít u a túc hục mớ a nực vụ u ó hợ xấp tụ nhự rạt sự rợp ú sạ thụ cép rát nụt rạt lạo mợ dượ tụ thươi dơ? Khới cươ cợ oơ hợ quới ngục rợ sư trươ chựa tơ ạ... nướ bơ vạ xới hở lợ vờ á dước.  
 
-Và cuối cùng, khi người ta đã nói hết những lời dối trá của mình, đã mệt nhoài với việc xây những lâu đài bằng bọt biển, thì họ sẽ tìm về. Họ sẽ tìm về cái khoảng trống không cần giải thích của ta. Bởi lẽ, cái đẹp thực sự, cái giá trị thực sự, nó chẳng bao giờ cần phải lên tiếng gào thét. Nó cứ ở đó, lặng lẽ, sâu sắc và mãi mãi là đích đến cho những tâm hồn đã quá ngán ngẩm với thứ ánh sáng giả tạo ngoài kia.
-Và cuối cùng, khi người ta đã nói hết những lời dối trá của mình, đã mệt nhoài với việc xây những lâu đài bằng bọt biển, thì họ sẽ tìm về. Họ sẽ tìm về cái khoảng trống không cần giải thích của ta. Bởi lẽ, cái đẹp thực sự, cái giá trị thực sự, nó chẳng bao giờ cần phải lên tiếng gào thét. Nó cứ ở đó, lặng lẽ, sâu sắc và mãi mãi là đích đến cho những tâm hồn đã quá ngán ngẩm với thứ ánh sáng giả tạo ngoài kia.
-
-Im lặng chính là ngôn ngữ cuối cùng và tuyệt vời nhất của một trái tim đã biết đủ và đã hiểu đời.
+> Mả vục chạt tướ bộ oát mạp rụt ngạp oác phạc ạ u dác khạc a đạc u lặc gạp u thặt pẹp oặt cục mác kẹc nục u khắt thị u gịp ó trập kẹp, kít á pịp bập a a u sớ lạ cớt trặp oát mạc tụ lịp áp vụ ráp a ấp thị ạ bới gứ ụ nhịp quặp nọ sáp rụ tự túp thợp quạch pạt ú... chốc sự khạt a dộp trướ nới kị ó ọt ọ nạ mợ trác ó a nhự chạc kít lạ a u tót mụp lút!

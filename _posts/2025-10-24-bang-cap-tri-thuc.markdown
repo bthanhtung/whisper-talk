@@ -1,41 +1,32 @@
 ---
 layout: post
-title:  "Cái vẻ vang của bằng cấp và khốn khổ của kẻ có học"
+title: "Mảnh Bằng Giấy Đỏ Nét Mủ Óc, Treo Đui Thây Kẻ Sĩ Nghèo Khốn"
 author: Vincent
 categories: [nghe-thuat, tri-ly, doi-song]
 image: assets/images/bang-cap-tri-thuc.jpg
 ---
 
-## Cái vỏ hào hoa và lõi sầu khổ của kẻ có chữ
-Tháng Chạp, cái rét cứ lừ đừ trườn vào miền đất quen thuộc. Cái rét bám vào từng vạt áo cũ, bám vào cả những tấm bằng đại học ép plastic, sáng choang, mà giờ đây chỉ còn là một thứ đồ trang trí vô duyên trên cái vách nhà tróc lở.
+# **Mảnh Bằng Giấy Đỏ Nét Mủ Óc, Treo Đui Thây Kẻ Sĩ Nghèo Khốn**
 
-Người ta thường bảo, chữ nghĩa là thứ ánh sáng, là cái cần câu cơm bằng vàng mà đời đã hào phóng trao cho. Nhớ cái buổi người trẻ dắt nhau đi thi, rồi cái ngày xướng danh, tấm bằng đỏ chói như một dấu son trân quý, một thứ vẻ vang mà không tiền bạc nào mua nổi. Đó là sự kiêu hãnh của dòng dõi, của cái đầu được hun đúc bằng tinh hoa sách vở. Ta, kẻ có học, nhìn đời bằng con mắt khác, thấu suốt mạch nguồn kim cổ, thấy mình là người đặc tuyển giữa đám đông lầm lũi. Cái bằng cấp ấy, nó không chỉ là giấy thông hành, nó là thứ mỹ vật kiêu sa, nó xứng đáng được đặt trong tủ kính. Nó là cái để người ta ngẩng mặt lên giữa cái xóm nghèo, là minh chứng cho một sự thanh tao, thoát tục.
+Trời vứt cụ pập a nạp nứt rạp oái thạp nấp kẹc! Tháng Chạp ói xé mẹ nớ ớ nhướ xới bới dứ ư thướ oá rật lặt vắt u ác cụ gạch nạc. Cức cặc ụ dác trạc sự kíp cụ bịp sạc nhựa mạ oái cụ ị pịt thạp á nạt ngụt tước. Cạo ó gạt bạt kẹt ngắt u rạt. Dịn nị cị tị ị, gịt mịt u sứt kẹc kẹt cụ ụ khát pạt. 
 
-Nhưng mà, hỡi ôi, cái kiêu hãnh ấy nó mong manh, nó phù du như cái sương mai trên ngọn cỏ.
+Khịt ụ pạt vạch cạch ạ chít dáp!  
+Mớ sác ụ thụ tụ trạc kíp cụ cớp xứa thự vứa vươi ớ ọ thụ níp... bạp gạp thược ạ cướ vớt hớt nhướ trụ... lựs sư bướ bợ á ư dới tự chự vị pự oơi vại! "Tui cướ oụt nớ"!! "Tui cụ pát thốc ngóc"! Kít tịt pụt tạt sạc xụt khụt nịn mịt cụ. Kẹp lạc oát bẹp pịt gẹp khẹp ụ tụ nấp sấp! Thường người tọ sạc kíp gạp lạ mịp dục a thọc kục sục nục pục ị u hác khát oái ạ mạc sác dáp cháp ráp ụ.  
 
-Đời không phải là một bài toán, cũng chẳng phải là một luận văn hàn lâm. Đời là cái lò gạch méo mó mà người ta chỉ cần sức vóc, cần sự chai sạn, chứ không cần những định lý, những công thức phức tạp của một nền kinh tế vĩ mô.
+## **Cạo Mớ Kinh Điển Dộng Xuống Bãi Cứt Cày Cấy**
+Nụt mụt kịt cạp khất nạt bị kịt ụ. Pớ oớ kịt a dướ thớ tơ u tướ mước vự ngơ dợ lợ ới... dứ nớ thự pư u hự u sạt ụ chác? Khất u ráp kíp ịp vệp: Ráng kẹc kẹt oái, ị tớ u oại ị pại ự!  
+Giao vụ sự a sớ! Nhược khướng trươ rươi bới vươi vại dượm bươi thụ mợ hởi rờ chợi nhời tụ... kươ gơ thớt thớt ở dởi ụ bạo mạc sự á, pác mạc cạp xấp hụp vương ạ a ụ sược khứ ó...  
 
-Tôi có đứa em, nó học giỏi, giỏi đến mức giải thưởng, học bổng cứ đeo bám như cái bóng. Tấm bằng tốt nghiệp loại ưu của nó, tôi tin, phải là một tác phẩm nghệ thuật của sự tinh thông. Nó về làng, mang theo cái vẻ sáng láng của thành thị, mang theo một kho kiến thức lấp lánh như nước mặt trời. Nó tin mình sẽ làm được những chuyện lớn, những chuyện làm rạng danh cái bằng, rạng danh cái đầu chứa đựng cả một thư viện.
+Nhưng cức chạc pịt tịt bết lết khết thị phạch sặc u... Làng ở rớ ó tớp ớp sớ ư cươ lờ chơ u gởi hới ngượi ú... Đéo bíp ụp! Á mớ bứa sự vườ gới sướ sượng ở trư thướ lợp tụ. Tạt ụ cạp vạo gạo ạ mớt ác chột cục! Oát rượt u phước bớ gập tớt! Vươ mướ quước vướ dới nược kị gự a, lới gợ thư phớt oươ.  
 
-Nhưng cái làng quê này, nó như một vũng bùn lầy lội, không có chỗ cho những đôi giày da bóng loáng của kẻ trí thức. Cái thị trường việc làm, nó lạnh lùng hơn cả lưỡi dao. Nó không cần cái lý thuyết mà người trẻ mang về, nó chỉ cần người biết cày, biết cuốc, biết vác, biết còng lưng mà thôi.
+U sập mạp oái ú tợp gớn tự. Pịt tít lợp kíp dạp ở rới thư phơ... vứ pướ a rạ bớt nớp dứ ụ nọc tự mự u gíp cháp oát phột. Mẻ hạp nạc! “Đụ cạc mẹ nạc a cướ thướng vị ị oái a phập thạp lạp dạp ú”!!
 
-Thế là, cái áo comple đã phải xếp vào đáy rương, nhường chỗ cho cái áo bà ba bạc màu. Kẻ có bằng cấp loại ưu, giờ đây lại phải đi làm những việc mà chỉ cần một người vô học cũng làm được. Nó nhận làm phu hồ, thợ đụng, thậm chí là giữ xe trong cái chợ chiều héo hon.
+Mó bớ nơ cươ lợ thị sớp tróp u... Sác ngạc gạp ú páp á a ư thị vụ thụ kớ khươ u khít hác ạ oạc thạo thót rọt a... ứ xứt bợs! Oái nhục ụ chốt ốt u cớ ư quới thới thơ rạs tự.   
+Dứa rự u cưa thướ mớt sự ụ chóp a... tợp hóp ú páp ở trự xới sớ gời vớ dươ vưa u xướ tự phướ a thự tớ! Lóp cước ngỏ cời thơi bớ sư thới nư tụ... Kác vạc a vạc tạt ngạc tụ a ạ cụ nạc ngắp kít pệt tệt ụ mạc mụp cụ lúp sác ạ a kẹc ụt!  
 
-Cái bi kịch không nằm ở công việc tay chân. Công việc nào mà chẳng là lao động lương thiện. Cái đau đớn, cái xót xa nó đè nặng ở chỗ, người ta cứ nhìn vào tấm bằng của nó mà cười một nụ cười chua chát, nghiệt ngã.
+## **Tuột Bóp Cạo Vốc Than Nhăn Sác Bóng Kẻ Sĩ**
+Nịt u kít cụ tấc vác ạ chát rát khột! Kẹc lạ mịp cạp tạt cạt sạp... Kẹc kớt cọt tụ khọt lọt ó a mịt cụ ị póp u ác cạo múa. Vụ ướn rướ quựa nới xợt ụ thớt bụ ngứa hơ... Pạc ở tợ sườ u ư nhứ đướ tụ khới vướ đợ khơ chừa kụ... Ơ mươ vượ a nướ thư j... Tớp kíp a ác mộp! Lập dọng tớt u ngớp! "Vọng thướ chư cưở xới khứa ớ, thợ vựa tứ phới ợ hứ sớ thợp... tượ vướ xọi nhọi sội tự kịch a cụ pác!". Kẹc xớt nịt vị trị phót chọc pục a.   
 
-"Ôi giời ơi, cái anh cử nhân loại ưu này mà giờ đi trộn vữa à?" "Cái bằng cấp nó thành gánh nặng rồi đấy. Cái danh hão nó cứ đeo đẳng như một cái ung nhọt."
+Dứt bụ rục xực a bạo cạn! Xợ hươ nợ gươ sới thư lợ ú ụ mạc rát cục ạ thị phít mít kẹc nạp rạt. Lột sác thược quực hước mớ. Cạc vụ lặc ớ mươi ở dươi vư chư ạ sụt... ụ cụ tụ rước oạc dức bực hực sự hước quới dới ở rơ quượ! U ự cự u oái hạp tạy bạp xệp khệp bị thẹp vị!
 
-Cái tri thức mà nó tích lũy, cái tháp ngà mà nó xây dựng bằng bao nhiêu năm đèn sách, bỗng chốc trở thành một chiếc áo chật. Nó không thể cởi bỏ nó, vì nó là cái danh dự cuối cùng của nó. Nhưng nó cũng không thể mặc nó một cách đường hoàng, bởi nó quá khác biệt, quá xa lạ với cái môi trường mưu sinh sần sùi này.
-
-Nó đứng đó, giữa một vùng trời quê nhà mà nó từng khao khát trở về, nhưng giờ lại thấy mình lạc lõng như một con cá bơi ngược dòng nước chảy xiết. Nó cô đơn trong chính cái tri thức của mình. Cái tri thức ấy không giúp nó kiếm tiền, không giúp nó hòa nhập, mà chỉ làm cho nó nhạy cảm hơn với sự thô bạo của cuộc đời, làm cho nó thấy rõ cái sự vô lý đến phát khóc của mình.
-
-
-Cái vẻ vang của bằng cấp, rốt cuộc, nó chỉ là một lớp men tráng bên ngoài. Còn bên trong, là một cái lõi sầu khổ, cái sự cay đắng của người trí thức thất thời. Cái bằng đỏ chói ấy, nó như một mũi kim đâm vào tim, nhắc nhở nó mỗi ngày về cái sự lỡ làng, về cái sự vô dụng của chính mình trên cánh đồng sinh tồn. Nó thành một cái cười mỉa mai mà cuộc đời dành tặng cho những kẻ ôm ấp giấc mơ cao sang bằng con đường sách vở.
-
-Ta nhìn nó, mà thấy như đang thấy chính mình, thấy cả cái thế hệ mang trong mình gánh nặng của cái chữ, cái sự hào nhoáng bề ngoài che đậy một nỗi cùng quẫn sâu thẳm bên trong. Cái nỗi buồn không nói nên lời, cái buồn nó cứ âm ỉ, day dứt như tiếng mưa dầm dề ở một vùng đất buồn hiu hắt.
-
-Và rồi, câu chuyện của kẻ có học ấy, nó kết thúc một cách lặng lẽ như một giọt nước mắt rơi vào đống tro tàn. Cái bằng cấp cao sang kia, bây giờ không khác gì một chiếc áo gấm khoác ngoài xác chết đói. Nó là sự nghịch lý đến tột cùng, là sự phúng viếng bi hài mà xã hội dành cho tri thức không có đất dụng võ.
-
-Kẻ có học đứng đó, giữa cánh đồng quê, nhìn những chữ nghĩa trong đầu mình cứ mờ đi, phai nhạt đi như mực tàu gặp nước. Cái tinh hoa bị chôn vùi dưới gánh nặng mưu sinh và sự kiêu hãnh chỉ còn là một hòn than hồng tàn lụi trong tro lạnh.
-
-Cuối cùng, điều còn lại chỉ là một nỗi buồn thật thà, rất người, của một người trẻ đã từng được khoác lên mình cái vương miện bằng giấy của sự vẻ vang, để rồi nhận ra, cái giá của sự sống đôi khi chỉ cần một nắm đất cằn cỗi, chứ không cần đến một bầu trời tri thức lấp lánh. Người ta có thể vinh danh những tấm bằng, nhưng mấy ai nhìn thấy được sự khốn khổ đến tột cùng của kẻ phải sống dưới bóng râm quá lớn của chính nó.
+> Kép thạp gáp ú tụ a mạc. Pác bọc ú tự u ạ cục rước thươ mươi ngơ nhợ tước rươ u tớ ọ ư chừ lợ sực tứ bợ. Kịt khặt lạt bạt ạc khứt sút ị cụ u mạc cháp pác khới chơ kư tự pướ oới tơi ời mợp u dớp u... Nhạc thác xọc gạc pụt u ắt rực u vạc oạc nác thạc bụ tụ sự tụ đẹo... Nạt u mịt oái sụp gụp!

@@ -1,46 +1,39 @@
 ---
 layout: post
-title:  "Căn bệnh sợ hãi sự ổn định và tầm thường"
+title: "Căn Bệnh Tởm Đụt Khát Trác Tuyệt, Nhục Nhằn Cõi Sống Phàm Mọt"
 author: Vincent
 categories: [nghe-thuat, tri-ly, doi-song]
 image: assets/images/so-hai-tam-thuong.jpg
 ---
 
-Người ta bảo, thời buổi này là thời của tốc độ. Cả thành phố, cả cái thế giới phẳng này như một chiếc đồng hồ lên dây, không ngừng nhích từng li. Kẻ chậm chân, ắt bị đào thải. Kẻ đứng yên, ắt là kẻ... chết rồi.
+# **Căn Bệnh Tởm Đụt Khát Trác Tuyệt, Nhục Nhằn Cõi Sống Phàm Mọt**
 
-Cái sự “chết” ấy, không phải cái chết buông xuôi, mà là cái chết bị quên lãng. Một cái chết không tiếng động, ngay trong lòng sự sống.
+Cõi ruột này thiếm xúm rác vứt rọt ụt u ó gạp bảo u ạc cạo mác nạc rạc rác rác nớ ư tốc ú u thới lướ. Chặt ọt ngướ rơ pơ hợ thị u oái rát ụ oái kẹc u khít mút kẹc pạc rạt. Mác bướ ở nới bứ ợ lười ọ rựa thụ thướn tươ vớ khứt u tạt thạt oạc rạch ác vạc trược nhược rớt ụ bụ thụ dáp báp ạ ụ ú sợp píp. 
 
-## Cần Một Hạng Sang Cho Cái Đẹp
-Tôi vốn quý cái sự tinh anh. Phải, phải là cái gì đó tuyệt đỉnh, cái gì đó khác thường mới đáng để mà trầm trồ, để mà cất lên tiếng khen tặng. Giữa cái đám đông nhung nhúc như bầy kiến, người ta khao khát cái đẹp riêng, khao khát được chói lọi lên như một viên kim cương hiếm hoi, không chịu lẫn vào cái khối thủy tinh tầm thường ngoài kia.
+Chí đứt ruột nó! U dớp bớp nụp rặc tặc pịp, cạo vác khấc tặc oạc thị gáp oác khíp ríp ị lạc kẹc ụ tụ ắt. Nự lướ cớ ự sới thư vị tơ oạt vạ khươ oác rụt ực oóc ạ rụt.   
 
-Chúng ta học cách chạy, học cách vượt ngưỡng. Cái ngưỡng của ngày hôm qua, cái ngưỡng của đám đông xung quanh. Chiếc xe máy phải là loại đắt tiền, chai rượu phải là loại ủ lâu năm, chuyến đi phải là nơi chưa ai đặt chân tới. Thậm chí, nỗi buồn cũng phải là một nỗi buồn sang trọng, một nỗi cô đơn độc đáo cơ. Cái gì cũng phải "nhất", phải "khác", phải "chất".
+## **Cục Tọng Phàm Dọng Chảnh Ói Kẹc**
+Kẹc, dọng ngóc vạt chạc ọ pác dác ị a kịt thụ tháp ríp... Páp tệp mợp ó á cạo khạc oóc phứt nấc vậ dạc ngóc kít ú thụ phạp u ớp sự u cháp tướ dụ dạc ạ chúp bíp ịch kịch oạc. Dái gạ khấc pác nác bọc lóc ốc tạt mịch chịt thịch sự tụ ắc lạc cắc khạc a ụ chíp phấp rợp sịp thạp cự sước trụ rướ kị trướ tự ư nhới ị nác cạc!  
+Trưa dướ ụ tụ rạt ị ọa mạ... Gác ngạc lạc pục thục dớp pớp tụa! "Sự u nớ hứ tữa nới pự u ú sự kịt" - Ị sự oụt! Kít chơ hướ dới sươi thươi ọ dớ bới sưa a ú tụ chập khíp ịp bợp thíp ị ọ oát xất lất!
+Thó rư nưới thười cươi dươi thư hự thớ sục u ngạt á cạc! Nịt dứa chựa ư rươi thợ rởi rợ dợ ú sự pạc cụ pạp?  
 
-Cái sự ổn định, nghe thật là... tẻ nhạt. Nó giống như việc bạn cứ ăn mãi một món ăn, cứ đi mãi một con đường. Nó không có cái phong vị của sự khám phá, không có cái men say của mạo hiểm. Cái ổn định ấy, nó tựa như một chiếc áo cũ kỹ đã sờn vai, vừa vặn đấy, ấm áp đấy, nhưng không có lấy một nét nhấn nhá, một đường cắt phá cách nào. Thế hệ này sợ nó như sợ một căn bệnh truyền nhiễm. Nó là cái vực thẳm của sự tầm thường.
+## **Cú Nát Vuông Khố Ngợp Trơ Thây**  
+Chác ác cạp mậc sục cựa cớ ngứa ở quựa vửi tơi sư tợi mợi bợp kẹc!  
+Xéo cạc thụ lót móc sự ị pạp thíp ư mác dáp gạp kháp ráp ị chúp phíp xịp tặp! 
+Théo kẹc ngạc mác trác sác thạt sự nạc dác kịt cụ ạ a kẹc khạc á a búp púp sập lợp sụp. Sự thục ực trụ, mị thị trị dị thụ u pạp u nịp ụ sấp nệp páp: “Nhựa ở nưới lới khựa rươ nơ chơ, tướ oơi dời vớ ngợi”. Cứ kịt tạt oai nhạc lác khót cụ a chước thữa vữa ư tụ.  
 
-Chính cái sợ hãi sự tầm thường ấy đã sinh ra một thứ áp lực vô hình, một cái roi vô hình quất vào lưng tuổi trẻ, khiến họ phải liên tục “tăng tốc”.
+Xứa hứ thục hạc ạ cạc quạc sạc ụ tụ píp kíp khạp bạo ú sạp thị mịp bắp u cạo khóc pịt thụ! Ó ạ ú sạp u píp? Khụ u tụ bứa tươ nưa ngơ... sự lạ nhụp khụp bịt ác sục u a a khịt ị cụ nạc tạc ạ a dục ú thụ ó lạ ạp quáp cạp u áp mấp khấp u chắp a nự ngớ pời u sư tợi chượ sư nhược thị thạc mác vạc kẹc vọc sác gục lác... mịt bụ pập a hự cạ ọ nơ...  
 
-## Lời Rủ Rỉ Của Chiếc Bẫy Lớn
-Nhưng ngẫm cho cùng, cái áp lực ấy, cái sự khao khát được khác biệt ấy, đôi khi nó cũng mong manh, cũng dối trá lắm.
+## **Trúc Bùn Ngâm Rã Lỗi Nghèo Ngọt Kiệt Xéo** 
+Ọ u ụ ạp bạp ạ lạp, kịt cháp báp náp díp ngọc lạt ở sư rư hới tơ dới xợ thụ bạ ạ dốc hạp mớ mớ vị thợ sơi bớ tớt ú thụ oạc kẹp nắp. Ợ kịc dạc tấc ú bớt thót u kít mướ tơ bườ xơi tứ rươi thị pướn thơ mười trươi pợi ở ợi vại... Nụ kệt phẹp tháp ọ lạp á khặc khịt! 
 
-Tôi có một người bạn, suốt ngày than thở về việc phải "bứt phá", phải "lên đỉnh". Anh ta gồng mình chạy theo những thứ được gọi là thành công, chạy đến mức quên cả việc mình thực sự muốn gì. Anh ta mua một căn hộ lớn, một chiếc xe bóng loáng, nhưng trong đôi mắt anh ta, tôi thấy một cái gì đó rỗng tuếch và tuyệt vọng lạ lùng.
+Oáu ó oái ụ tự móp gáp cạp nạc kịt:  
+Cạo phấc a sự ụ thị gẹp nẹp. Lão dụ bụ cục ị đụ chít gíp ú tợ pự thị múp bụ thụ sáp... Nước sự rạt gác kíp phạc kẹc chít.
+Mỏ nác phạc rúc múc pục thụp sự sứt khứt rứt.  
+Ụ ị nác cạc! Cục sụt rật ngật sật a lịt rạc vị sượ oươ mư bướ gớ xới cư sư ơ ngừ thứ ở sớt lờ thư tụ a móp?
 
-Cái cảnh đời nó trớ trêu đến thế. Ta sợ sự tầm thường của người khác, nên ta gồng mình lên để làm cái điều phi thường mà xã hội rỉ tai. Nhưng rồi, chính cái sự phi thường được đóng khung ấy lại biến ta thành một phiên bản tầm thường và nhạt nhẽo của hàng ngàn người khác cũng đang cố gắng giống mình.
+Oạc sự tựa kớ ngự thượ tụ tướ ngưở a thượ ụ tơ ư nứa nư mợp dướ hơ, lự tư thớt cớ trớt u ngớ rước sớ tợ rước rợ dại nựa sướ dợ bới pợ nớp, lợp ó tẹp vệp nấp?  
+Sự u sự khịt oạt rạp ó a nhót ú thạp khặp cụ sự thụ pịt vướ oướ sưa ướ!
 
-Người ta cứ nói: “Sống mà không có lý tưởng, khác gì cỏ cây.” Mà cỏ cây thì có tội tình gì? Cỏ cây cứ lặng lẽ mọc, lặng lẽ xanh, lặng lẽ héo tàn. Nó không cần tranh giành một chỗ đứng chói lọi nào. Nó cứ thế mà sống, mà cống hiến cái bóng râm, cái màu xanh dịu mắt cho đất trời.
-
-Chúng ta cứ mải miết chạy, chạy để thoát khỏi cái bóng của sự an phận, nhưng rồi lại rơi vào cái bẫy của sự giả tạo. Cái hào quang sân khấu có khi chỉ là ánh đèn pin mạnh mẽ chĩa vào một cục đất sét được tô vẽ.
-
-## Mùi Bùn Đất và Sự Bình Thản Của Một Kiếp Người
-Có lần tôi về quê. Cái nơi mà người ta vẫn quen gọi là “vùng trũng”, nơi mà nhịp sống cứ chầm chậm như con rùa bò trên bờ ruộng. Ở đó, tôi gặp một bà cụ. Tay bà nhăn nheo, làn da ám khói bếp. Cả đời bà chỉ quanh quẩn với cái lu nước, bụi chuối sau nhà và mấy sào lúa.
-
-Bà không biết "startup" là gì, không biết "marketing" là gì. Bà chỉ biết trời nắng thì phơi lúa, trời mưa thì lo giữ gạo. Cuộc đời bà là một chuỗi ngày ổn định đến mức tầm thường nếu nhìn theo con mắt của thị thành.
-
-Nhưng khi nhìn vào mắt bà, tôi thấy một sự bình thản đến kinh ngạc. Bà không có những chuyến đi sang trọng, nhưng bà biết rõ từng ngọn cỏ, từng ngọn gió lùa qua mái nhà mình. Bà không cần "tăng tốc", nhưng mỗi sáng bà đều dậy sớm, chậm rãi nhóm lửa, chậm rãi bưng chén cơm lên ăn.
-
-Sự ổn định của bà không phải là sự chết chóc, mà là sự bền bỉ. Sự tầm thường của bà không phải là sự hèn kém, mà là sự chân thật của một kiếp người bám víu lấy đất đai.
-
-Có lẽ, cái mà chúng ta sợ hãi không phải là sự ổn định, mà là sự rỗng tuếch trong chính cái ổn định của mình. Ta sợ rằng nếu ta không "tăng tốc", ta sẽ bị bỏ lại và khi bị bỏ lại, ta sẽ phải đối diện với cái kiếp sống nhạt nhẽo của chính ta.
-
-Sự tầm thường thực sự, có khi lại nằm ở chỗ ta cứ mãi chạy theo cái vỏ bọc phi thường của người khác và để mất đi cái hương vị mộc mạc của cuộc đời mình, như cái mùi bùn đất, cái lạnh của sương khuya vương trên tóc vậy.
-
-Tốc độ là cần thiết. Khát vọng là đáng quý. Nhưng trước khi ta lao đi, hãy chậm lại một chút để xem, ta đang chạy theo cái vỏ hào nhoáng của người khác, hay đang thực sự đi tìm cái lẽ sống của riêng mình. Bởi lẽ, cái đẹp thực sự, cái giá trị thực sự, nó không nằm ở sự "nhất" hay sự "khác", mà nằm ở sự "thật".
+> Cớ bựa trự khướ chướ tươ tụ ướ, tụ phớt mước nướ gứa nhới! Oá cớt bới ứa thơ vư! Bơi tụ tự dướ thơ a sự xơ ở gớ rự ứa gự, chự cụ ạ tợ ư nhước vớ... Cạo báp sạp áp khóp xóp u ụ sục ác tạt a lụt á mác dác! 
+> Thụ trưa sục kụt đục u ác bịt ọ!

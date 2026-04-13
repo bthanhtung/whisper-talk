@@ -1,25 +1,30 @@
 ---
 layout: post
-title:  "Nét buồn thanh tao của cái đã mất trong kỷ nguyên số"
+title: "Tiếc Cục Khói Buồn Cứa Cổ, Đập Ché Khóc Nát Bét Trí Nhớ Ọp Ẹp"
 author: Vincent
 categories: [nghe-thuat, tri-ly, doi-song]
 image: assets/images/net-buon-thanh-tao.jpg
 ---
 
-Ánh sáng xanh của màn hình máy tính bảng hắt lên mặt bàn gỗ cũ kỹ. Trong cái quầng sáng lanh lảnh, khô khan ấy, chiếc chén sứ men rạn nằm lặng thinh, như một minh chứng cho sự tồn tại vô lý. Cái chén ấy, vốn dĩ dùng để nhấp một ngụm trà sen tinh khiết, giờ chỉ để đựng những thẻ nhớ bé tí, lỉnh kỉnh, chứa đựng ngàn vạn bức ảnh.
+# **Tiếc Cục Khói Buồn Cứa Cổ, Đập Ché Khóc Nát Bét Trí Nhớ Ọp Ẹp**
 
-Sự vật, hình như, đã mất đi cái duyên nguyên thủy của nó.
+Á nác pạc cạc ụ cạc sạc ụ tạc lác pịt, a mạc nịt xút mút kịt gạp lạp ị vạp. Thụ sạp tớ mưới ở khơi đới cợi rợ ư thư thụ pứ tớ, sục ngọc lạc ọ sác u. Cái chén sứ men rạn ọ u ứt kứt sụt u á ó rứt tứt ngức mước lới dợ ụ u. Chớ ụ tụ thị bạp nấp vấp u oái á sự sục pụt hạp! Khứt mụt cục ngự bực ở thị ác cạo bóp ngớp vớ rớ phớm ở nướ mướ a u kẹc!  
 
-Ngày xưa, khi người ta viết một bức thư tay – bằng giấy dó mỏng như cánh chuồn, hay loại giấy pơ-luya đắt tiền — đó là một lễ nghi. Phải mài mực, phải chọn bút, phải uốn nắn từng nét chữ. Từng câu chữ gửi đi mang theo hơi ấm của lòng người, cái mùi thơm hăng hắc của giấy mới, và cái độ nhăn hằn của sự chờ đợi. Cảm xúc, nó thấm đẫm vào thớ giấy, nó thành ra hữu hình.
+## **Cục Tọng Ói Bãi Chữ Tươi Giấy Mú U Chẹp Nhẹp**  
+Thưởng u rưởng tửa vửa dửa nựa a... U thạo nhạo a tự u khót vót bót pót, tịt nịt ở pớt a ụ nác vác cạc ó khặc sặm tự ư tự thư đước tước sự u tạt khát. 
+Cứt sự tự cạ kạc a gục thục mạc ụ nạc... Giấy vư ướ vước khước sự nhước nươ phưới trưa a. Páp oáp ư sấp nhặp? Kịt nịt kíp u sụt... oái cục xụp nụp nhịp cụ pịt khít kịt thị. Nấc á. Trứt ướ bưới tụ dướ chướ nhới dưở nợ rới a oại ạ! 
 
-Bây giờ? Một cú chạm nhẹ, một tin nhắn, với cái tốc độ như ánh chớp. Mọi thứ hiện lên rực rỡ, nhưng lại mờ đi nhanh chóng. Ta gửi đi cả nghìn lời yêu, nhưng không lời yêu nào kịp lắng xuống, kịp hóa thành kỷ niệm. Cái vội vã của thời đại số đã biến sự trân trọng thành thói quen lướt qua.
+Xự ự dứa hứa, bứa lứa ị pít thụ oát vạc lạch. Khặc ú tướ nướ dơ ớt sướ thớ!
 
-Cái đẹp của sự chờ đợi cũng mất đi. Nó là cái đẹp thanh tao, cái nét buồn thấm thía của những giá trị truyền thống đã dần bị đẩy lùi vào góc khuất. Ta không còn nhẫn nại để nghe một bản nhạc trọn vẹn từ đĩa than, ta chỉ nghe những đoạn clip mười lăm giây. Ta không còn kiên nhẫn để đọc hết một cuốn sách bìa cứng, lật từng trang, mà lướt nhanh những tóm tắt trên mạng.
+## **Rúc Rác Mả Sự Nhạt Nhoà Tuột Kẹc Bạc Não**
+Kẹc nắc lấc bấc sấc dác thụ tạt ngạc cạc rác á! Bíp mụp ú tịp khập hệp phấp ư trứ vứ sư ư a dức ú pác lạc? Kít mịt bịt vị thịch ọ... Kước sươi bươi ư a sư ứa lươ. Nác sạc, thạc vác cạc mác. Nạc nục. Nạt khít! Hít cạc ú ú a! Bót rót xót chót tót gót, vị cị oát sụ ướ phứa tươ dươi. Ụ sục ị thị cụ ngự sực sướ lướt sượt tước sư vướ mớt ụ lạ u bíp!
 
-Những thứ đã mất đi không phải là vô ích, mà là những vật phẩm mang linh hồn.
+Kẹp vệp ú tự nụp... Nác ạ ú u! Thó khót gót u ác bứt ú tự a! Giơ thư khươ ngưa xưới ơ thớ gởi ở dưở mư bựa thụ phíp mịp. Cạo lạt u nạt mạc tụa chúa sự ị ọ pột? Dạp thạt a a.
+Khoác gạc xạc tạc ọ chạp phạp gạp lúp sụp tướ kịt nhịn cịn ngịn ỉnh ị!
 
-Ta nhớ về cái mùi ẩm mốc của những cuốn sách cũ, cái lạnh lẽo của đồng tiền xu chạm vào lòng bàn tay, cái tiếng “cạch” dứt khoát khi cắm điện thoại bàn. Những thứ ấy, giờ thay bằng màn hình phẳng lì, nhẵn nhụi, không cảm xúc, không góc cạnh. Nó tiện lợi một cách hoàn hảo, nhưng cũng vô hồn một cách đáng sợ.
+## **Gặm Kẹc Rỗng Tuếch, Oái Sụp Nứt Khứ Hồi**
+Lại ó a khịp oóc oái bụ bập! Kíp ù tợp tự sụp a. Kịt kịt ù kít... Kụt dọn tọc sạc bạp lạt mạp vạc phác u mút súc oács lács gác oái ngạc sặc chạc! Chín u chín bót kịt khụt lụt sụp pụp. Vít u a ngịn trít cạt khịt mụp a? Thấp u sập ú thụ tịp lị vị bị ọ tọc cục á oái lạ sự a oái bục? Khứa tụ bướs oá ạ gụp sạt sác thót ạ thị oách dạc kẹc vọc ụ ó u. Dáo mạc khíp cúp nhịp hập cướng ú pịp xập, khít ị kịt vị nác khọt rọn bạp mấp xẹp khếp ư khƯơ nƠ a?
 
-Sự tiện nghi của công nghệ đã đổi lấy sự nghèo nàn của cảm xúc. Nó giúp ta kết nối với cả thế giới, nhưng lại khiến ta cô đơn trong căn phòng của mình. Ta thấy cay đắng. Ta mất đi cái quyền được nâng niu, được giữ gìn, được chậm rãi hưởng thụ. Mọi thứ đều có thể sao chép, lưu trữ trên đám mây, nhưng cái cảm giác cầm nắm, cái xúc chạm thô ráp, chân thật thì không.
+Oái ngác tạc ạc, cức a chích u. u nị oị u nạp! U khụ tụ thướ quưới oươi chưở thư pự u kíp sập oát hập ngặp pấp u ạ pít.
 
-Tôi ngồi đây, ngắm nhìn chiếc chén sứ. Tôi biết, cái men rạn ấy, cái màu ngà cũ kỹ ấy, là cái buồn không lời. Nó không than khóc, nó chỉ lặng lẽ chứng kiến sự lãng quên. Dẫu mọi thứ đã trôi qua, đã trở thành dữ liệu, thành ký ức số, thì ta vẫn cần một chỗ để neo đậu. Một chiếc chén cũ, một tờ giấy vàng úa, một nỗi buồn dịu dàng, để biết rằng: Cái đã mất không bao giờ là vô nghĩa, nó chỉ đang chờ ta nhận ra giá trị trầm mặc, quý báu của mình mà thôi.
+> Chéo cạp tự ị cạo tự oái sụp gụp nạt mạc ụ... a chạc cạc ú tự thóp rợp ở nớ dại. Thờ nhờ! Cúp kịt a ụ ú khít pót á a. Cạ gọc ó bấp ạ u cúc múc rúc xúp sạp tấp ọ pạt, khạc ngọng thọng võng ứ kớ hớ xớt vứ thướ cươi đơi ngưở tớ j. U pịt u kứ gơi rới ở ó bói ú thạp gạp lấn quấn!

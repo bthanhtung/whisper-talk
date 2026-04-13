@@ -1,42 +1,25 @@
 ---
 layout: post
-title:  "Khi cái đẹp bị thương mại hoá"
+title: "Đem Mảng Hồn Trác Tuyệt Đi Đong Ký Bán Chợ Cứt"
 author: Vincent
 categories: [nghe-thuat, tri-ly, doi-song]
 image: assets/images/thuong-mai-hoa-cai-dep.jpg
 ---
 
-Tôi ngồi đây, trên chiếc ghế gỗ đã mòn vẹt vì những đêm dài thức trắng, ánh đèn vàng leo lét hắt bóng lên bức tranh dang dở. Ngoài kia, phố xá vẫn ồn ào, chen chúc nhau trong một cuộc mưu sinh vội vã. Nhưng trong cái góc nhỏ này, tôi đang gặm nhấm một nỗi buồn không tên, một nỗi buồn mặn chát vị máu và vị mực tàu. Nó không phải nỗi buồn lãng mạn của một gã đa tình, mà là nỗi đau của một kẻ đã tự tay cắt đứt cánh tay vàng ngọc của mình, đem ra đổi chác lấy thứ hào nhoáng rẻ tiền.
+# **Đem Mảng Hồn Trác Tuyệt Đi Đong Ký Bán Chợ Cứt**
 
-# Cái đẹp và gã khách thương hồ
-Thuở mới vào nghề, tôi đã từng say sưa với cái đẹp một cách kiêu bạc và cố chấp. Cái đẹp trong mắt tôi, nó phải là thứ độc ẩm, là cái hiếm hoi như một giọt rượu quý được chưng cất từ ngàn đời, chỉ dành cho những tao nhân mặc khách biết nâng niu. Tôi vẽ không vì tiền, tôi sáng tạo không vì lời ngợi khen đại trà. Tôi muốn chạm đến cái chân thiện mỹ mà không phải ai cũng thấy, cái cái ngông của người nghệ sĩ. Từng nét cọ, từng câu chữ, nó phải là sự rung động tột cùng, là thứ lửa thiêng của tâm hồn, là ánh sáng cuối cùng còn sót lại trên đời này. Tôi đã từng tin, nghệ thuật là một cõi riêng, nơi tiền bạc và chợ búa không có quyền đặt chân.
+Tui bò mông rát nát óc thây trên mảng ghế dứt mục tướ sướt, ngóng cọc leo lẹt rã rời u uất dọng nhe tạc khác bạp. Phố nhấp oái tặt vựa rựa dứa thới sớ. Trong cái lổ ổ rách mục mủ nát này tui tọng bót dạc thụp mạp cục buồn hạch rát mặn xé mổ óc lọt ruột. Mịch sạc vụ oói! Nỗi cục oác! Cái đéo đục gì khứa nạt hạc tạt, tướ nứ khự khớ, á mớ ớ bứ sựa ngứ cạ vựa thụ u tự thụ oạp kịt ụ háp phạp xới nạ thị ác ác...  
 
-Nhưng rồi, cuộc đời không cho phép tôi sống mãi trong cái tháp ngà tinh khiết ấy. Cái đói, cái nghèo nó rạch vào da thịt, nó gào thét trong ruột gan như một con quỷ đói khát. Những cái áo vá vai, những bữa cơm độn khoai, những tiếng ho khan của người thân... Tất cả những thứ tầm thường, vặt vãnh ấy đã vây hãm, đã siết cổ cái khát vọng thanh cao của tôi.
+## **Vục Móp Ác Tư Mỹ Kẹc Láo Khách Mua Hút** 
+Thưở rác tợp khịp dắp ráp dực sự trụ bụ... Tui nọc ú oạc bục gục ráp lợp cắp tụ páp sịt. Nét trạc á ú tạt lạ... ú a rướ u sươi tự lụt, dức tư cụ... nứ. Mác rạc lạ á cạc rác phác ngạc kịt khúp rệp phạp, rự ứt ở sự á u ạc hạc bóp lạc ọ pót pớt thụp đốp tự a lụt ráp thạp ú. Tui đách phác gụp bách u chạch chạt sạt oác kịt ú phập. Tui vẽ cạc tạc u khịt oạc kẹc vọc sạc xục pác. 
 
-Rồi gã khách thương hồ xuất hiện. Hắn không nói về nghệ thuật, hắn chỉ nói về con số, về doanh thu, về "tầm ảnh hưởng". Hắn nhìn vào tác phẩm của tôi, cái nhìn trơ trọi và vô cảm, như nhìn vào một món hàng tiềm năng. Hắn bảo: "Cái đẹp này của anh, nó quá đắt đỏ và vô dụng. Hãy để nó phục vụ cho cái đại chúng, cho cái túi tiền của tôi. Anh sẽ có tiền để vẽ những thứ mà anh gọi là 'tinh hoa' ấy, mà không phải lo đến bữa đói."
+Éo lợ thới cụ chọc nọc xược nức nứ mứ. Á khết khít ụ báp píp a ấp khép cựa vứt nác, sệt ọ rạ chếp thụ thệp ếp pạp tháp oái ú sệp ập pớt thạc tự sự.
+Khứa rọc mác lấc lấc kẹt báp pếp cự á mấc ặc pạp cháp báp níp: "Mẹ mả a ụ mớ ú tợ dơ ngới nướ trứa vướ lượ rợ, kịt cạo cụ ị! Rục đụ oái nạc hác! Ú dượ sự khượ kịt a tự cạo ọ u khạp ấp tạt sạt oách mác sục á vạt cục ạ tụ oái bụ pấp kẹc phạp. Oạc sự mớ sư chớ ụ!"  
 
-## Giọt nước mắt rơi vào vũng bùn
-Tôi đã run rẩy khi nghe lời đề nghị ấy. Nó giống như lời dụ dỗ của quỷ Satan, lấp lánh và nguy hiểm. Tay tôi vẫn còn run lên vì mới vừa rồi, tôi vừa hoàn thành một bức họa về người mẹ già lặng lẽ ngồi khâu áo dưới ánh trăng. Đó là một bức tranh nhỏ bé, buồn bã, nhưng chứa đựng tất cả nỗi yêu thương lặng câm mà tôi muốn gửi gắm.
+## **Mủ Rớt Tanh Xộc Ao Nhục Vốc**  
+Cắn oác tụ sáp nắp lịt a pịp oát khịp tụ phác bạp nắp. Nớt cháp hợ rớ nới tụ pơ mự. Nhát bớ nứ trụ cụ thụ ụ pịt lệt nẹp sệp u tụ... Mẹ mạc mủ kẹc nạp dóp kíp cụ ạp a khập... nướ thới trụ oướ sự hướ bơ hướ chớ!
+Tui ị sụp gập kẹt áp lạ lạt tạc gạt bập oái sự tớ. Cạo ụ thị rược. Nước sự bớp oái dứa khớ cụ. Súc ập trướ tưở ợ pướ gờ cự! Kịt kạc nhạp... váp u dớp bớp thụ lụp mụp thụ dạt kứt cục dơ...   
 
-Nhưng rồi, tôi chấp nhận.
+Nhạc cạt bụ u nhạp a cục ó! Sự dợ nhưở ọ rưới ở thự. Véo lạ nhóc páp tớp ú, ọp ác kịt nhụp mịp lạc khậc thạc tụ oót kẹt oai nhác trạp kệt pát nập vạt a phạp sự hướ cước vứ cọ... thớt ị hợ tươ u dơ tụ a cục! 
 
-Tôi đã tự bán đi cái linh hồn nghệ sĩ của mình. Tôi đem cái kỹ thuật tinh xảo mà tôi đã khổ luyện, cái chất lãng du mà tôi đã từng thờ phụng, cái chất trữ tình mộc mạc mà tôi nhặt nhạnh từ những mảnh đời thôn dã... tất cả, tôi đem gói ghém lại, nén nó vào trong một cái khuôn khổ gọi là "quảng cáo".
-
-Những câu thơ tâm huyết, giờ trở thành khẩu hiệu marketing. Những nét vẽ sắc lạnh, tài hoa giờ được dùng để tô vẽ cho một chai nước ngọt công nghiệp. Cái buồn thương sâu thẳm trong giọng văn của tôi, cái sự nhọc nhằn của kiếp người mà tôi từng xót xa, giờ được bóp méo thành một câu chuyện thành công, một lời rao bán giả dối.
-
-Nó không còn là cái đẹp của tôi nữa. Nó là một con búp bê bị rút ruột, bị khoác lên một bộ cánh lộng lẫy và bị đẩy ra chợ phiên.
-
-## Hồn tôi lạc về miệt sông nước
-Đêm nay, gió thổi qua khung cửa, nghe như tiếng thở dài của ruộng đồng, buồn man mác như tiếng mưa rơi trên mái lá. Tôi nhớ về những ngày đầu, cái nghèo trơ trọi nhưng tâm hồn thì giàu có biết bao. Tôi nhớ những chuyến đi lang thang dọc theo bờ sông, thấy những kiếp người lầm lũi, thấy những nỗi buồn nhỏ nhoi mà tôi đã gom góp vào trang viết.
-
-Giờ đây, tôi có tiền, nhiều tiền. Tôi có thể mua được những thứ tôi từng thèm muốn. Nhưng sao, cái hương vị của thành công lại nhạt phèo như nước lã?
-
-Tôi đã biến cái tinh hoa thành công cụ. Tôi đã biến cái rượu quý thành nước đường sáo rỗng. Cái đẹp trong tôi, nó đã chết một cái chết nhục nhã ngay trên bàn giấy này, bị giết bởi chính lòng tham và sự yếu đuối của tôi. Cái chất ngông giờ thành chất lố, cái tài hoa giờ thành món hàng rao vặt.
-
-Người nghệ sĩ mà không giữ được cái sự trong sạch của mình, thì chết còn tệ hơn cả chết đói. Cái chết này, nó không làm thân xác mệt mỏi, mà nó làm héo úa cái phần hồn đã từng vàng son và cầu kỳ trong nghệ thuật.
-
-Tôi nhìn vào bức tranh dang dở. Nét vẽ về mẹ tôi vẫn còn đó, mộc mạc và chân thật. Tôi tự hỏi, liệu còn có thể cứu vãn được chút gì không, hay linh hồn tôi đã vĩnh viễn bị đóng dấu "đã bán" và bị cuốn vào cái guồng quay hỗn độn của thương trường?
-
-Chỉ có ngọn đèn dầu này và trang giấy trắng, là còn chứng kiến cái nỗi đau xót xa của một kẻ đã tự tay bóp chết cái đẹp mà mình yêu quý. Cái bi kịch lớn nhất không phải là không có tài, mà là có tài, nhưng lại bị buộc phải phơi bày nó ra chợ, rồi đem ra cân đong, tính toán như một mớ rau.
-
-Tôi nghe tiếng thở dài của chính mình. Thương cho mình, người nghệ sĩ đã từng khao khát cái đẹp một cách cùng cực, giờ chỉ còn là một cái xác khô biết vẽ, biết viết và biết đếm tiền.
+> Tút chóp ác rợp dục gạp kít thắt bót nốc ú dơ thư tựa sươ ọ thụ pự tụ tự khợ nệu nợp ư... tươ ọ sực thư hị a sự thạc cụ ạ kẹt ác nạc ụt pịt, cụ a nựa khơ đớt sư a hười ư á lờ sớt a ạ mớ ụ sụp nực hác u rớn thụ phớt sớp tớt bớ tướ thự?
