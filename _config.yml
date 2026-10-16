@@ -1,9 +1,11 @@
 # Site
 name: "Whisper Talk"
-title: "Whisper Talk - Blog to share our stories"
-description: "Blog to share our stories"
-logo: 'assets/images/logo.png'
-favicon: 'assets/images/logo.png'
+title: "Whisper Talk"
+tagline: "Những trang viết chậm cho ngày lòng mình chông chênh"
+lang: vi_VN
+description: "Tản văn về đời sống, quê nhà, phố thị và những điều nhỏ làm mình thấy nhẹ lòng."
+logo: '/assets/images/logo.png'
+favicon: '/assets/images/favicon.svg'
 url: "https://whisper-talk.vercel.app"   # hoặc domain của bạn
 baseurl: ""    
 google_analytics: 'UA-46278016-1tungbt'
@@ -49,7 +51,7 @@ jekyll-archives:
     category: '/category/:name/'
     
 # Pagination 
-paginate: 6
+paginate: 10
 paginate_path: /page:num/
     
 # Other
@@ -60,7 +62,7 @@ kramdown:
   syntax_highlighter: rouge
   syntax_highlighter_opts:
     block:
-      line_numbers: true
+      line_numbers: false
 
 # Adsense (change to "enabled" to activate, also your client id and ad slot. Create a new ad unit from your Adsense account to get the slot.)
 adsense: "disabled"
@@ -70,4 +72,11 @@ adsense-data-ad-slot: "1363087678"
 # Lazy Images ("enabled" or "disabled")
 lazyimages: "disabled"
 
-exclude: [changelog.md, LICENSE.txt, README.md, Gemfile, Gemfile.lock]
+exclude: [changelog.md, LICENSE.txt, README.md, VAN-PHONG.md, Gemfile, Gemfile.lock, docker-compose.yml, vercel.json, vendor]
+
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post

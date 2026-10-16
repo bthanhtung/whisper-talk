@@ -1,0 +1,18 @@
+---
+layout: default
+---
+{%- assign slug = page.title -%}
+{%- assign info = site.data.categories[slug] -%}
+<section class="wrap">
+  <header class="list-head">
+    <p class="kicker"><a href="{{ '/categories.html' | relative_url }}">Chuyên mục</a></p>
+    <h1 class="list-title">{% include cat-name.html slug=slug %}</h1>
+    {%- if info.desc -%}<p class="list-sub">{{ info.desc }}</p>{%- endif -%}
+    <p class="meta">{{ page.posts.size }} bài viết</p>
+  </header>
+  <div class="grid grid-3">
+    {%- for p in page.posts -%}
+      {% include post-card.html post=p %}
+    {%- endfor -%}
+  </div>
+</section>

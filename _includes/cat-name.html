@@ -1,0 +1,1 @@
+{%- if include.list -%}{%- assign wt_slug = include.list | first -%}{%- else -%}{%- assign wt_slug = include.slug -%}{%- endif -%}{%- assign wt_cat = site.data.categories[wt_slug] -%}{%- if wt_cat -%}{{ wt_cat.name }}{%- else -%}{{ wt_slug | replace: '-', ' ' | capitalize }}{%- endif -%}

@@ -1,36 +1,24 @@
 ---
-title: "Categories"
+title: "Chuyên mục"
 layout: default
 permalink: "/categories.html"
 ---
-
-<div class="container">
-    <div class="row justify-content-center">
-        <div class="col-md-8">
-        <h1 class="font-weight-bold title h6 text-uppercase mb-4">Categories</h1>
-            
-        {% for category in site.categories %} 
-        <h4 class="font-weight-bold spanborder text-capitalize" id="{{ category[0] | downcase }}"><span>{{ category[0] }}</span></h4>
-            
-        {% assign pages_list = category[1] %}
-        {% for post in pages_list %}
-        {% if post.title != null %}
-          {% if group == null or group == post.group %}
-         
-            {% include main-loop-card.html %}
-          {% endif %}
-        {% endif %}
-        {% endfor %}
-        {% assign pages_list = nil %}
-        {% assign group = nil %}
-
-        {% endfor %}
-
-        </div>
-        
-            <div class="col-md-4">
-        {% include sidebar-featured.html %}    
-    </div>
-        
-    </div>
-</div>
+<section class="wrap">
+  <header class="list-head">
+    <h1 class="list-title">Chuyên mục</h1>
+    <p class="list-sub">Mỗi bài là một chuyện nhỏ. Chọn một góc hợp với lòng mình hôm nay.</p>
+  </header>
+  <div class="topic-grid">
+    {%- for c in site.data.categories -%}
+    {%- assign slug = c[0] -%}{%- assign list = site.categories[slug] -%}
+    {%- if list -%}
+    <a class="topic" href="{{ '/category/' | append: c[0] | append: '/' | relative_url }}">
+      <span class="topic-count">{{ list.size }} bài</span>
+      <span class="topic-name">{{ c[1].name }}</span>
+      <span class="topic-desc">{{ c[1].desc }}</span>
+      <span class="topic-latest">Mới nhất: {{ list[0].title }}</span>
+    </a>
+    {%- endif -%}
+    {%- endfor -%}
+  </div>
+</section>

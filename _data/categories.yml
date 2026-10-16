@@ -1,0 +1,16 @@
+# slug: { name, desc } - bộ chuyên mục cố định, xem VAN-PHONG.md
+chua-lanh: { name: "Chữa lành", desc: "Cho những ngày mệt, cần ngồi xuống một chút." }
+tam-su: { name: "Tâm sự", desc: "Mấy chuyện trong lòng, kể nhỏ thôi." }
+doi-song: { name: "Đời sống", desc: "Chuyện cơm áo, chuyện thường ngày." }
+gia-dinh: { name: "Gia đình", desc: "Ba, má, và căn nhà có người chờ." }
+que-nha: { name: "Quê nhà", desc: "Mùi đất, mùi rơm, con đường về." }
+tuoi-tho: { name: "Tuổi thơ", desc: "Thằng nhỏ chân đất năm nào." }
+sai-gon: { name: "Sài Gòn", desc: "Thành phố mưa bất chợt mà thương." }
+pho-thi: { name: "Phố thị", desc: "Những mảnh đời giữa phố đông." }
+am-thuc: { name: "Ăn uống", desc: "Miếng ăn, và chuyện quanh miếng ăn." }
+con-nguoi: { name: "Con người", desc: "Người dưng, người quen, người tử tế." }
+nghe-thuat: { name: "Nghệ thuật", desc: "Cái đẹp, chữ nghĩa, và người làm ra nó." }
+suy-ngam: { name: "Suy ngẫm", desc: "Ngồi nghĩ lại một chút." }
+ban-be: { name: "Bạn bè", desc: "Mấy đứa biết mình từ hồi chưa ra gì." }
+cong-so: { name: "Công sở", desc: "Tám tiếng mỗi ngày, và những người ngồi bàn bên." }
+tinh-yeu: { name: "Tình yêu", desc: "Thương, chờ, buông, và thương tiếp." }

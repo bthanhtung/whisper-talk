@@ -1,0 +1,18 @@
+{%- assign p = include.post -%}
+<article class="card{% if include.size %} card--{{ include.size }}{% endif %}">
+  <a class="card-media" href="{{ p.url | relative_url }}" tabindex="-1" aria-hidden="true">
+    {%- if p.image -%}
+    <img src="{% if p.image contains '://' %}{{ p.image }}{% else %}{{ p.image | relative_url }}{% endif %}" alt="" loading="lazy" decoding="async">
+    {%- endif -%}
+  </a>
+  <div class="card-body">
+    {%- if p.categories.size > 0 -%}
+    <p class="kicker">{% include cat-name.html list=p.categories %}</p>
+    {%- endif -%}
+    <h3 class="card-title"><a href="{{ p.url | relative_url }}">{{ p.title }}</a></h3>
+    {%- unless include.size == 'mini' -%}
+    <p class="card-excerpt">{{ p.content | strip_html | normalize_whitespace | truncatewords: 34, '…' }}</p>
+    {%- endunless -%}
+    <p class="meta"><time datetime="{{ p.date | date_to_xmlschema }}">{% include date-vi.html date=p.date %}</time><span aria-hidden="true">·</span>{% include reading-time.html content=p.content %}</p>
+  </div>
+</article>

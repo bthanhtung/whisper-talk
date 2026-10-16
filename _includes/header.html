@@ -1,0 +1,42 @@
+<a class="skip-link" href="#main">Bỏ qua, vào nội dung</a>
+<header class="site-header" id="top">
+  <div class="wrap header-inner">
+    <a class="brand" href="{{ '/' | relative_url }}" aria-label="{{ site.name }} - Trang chủ">
+      <span class="brand-mark" aria-hidden="true">
+        <svg viewBox="0 0 32 32" width="28" height="28"><path d="M6 21c3-9 9-14 20-15-5 3-8 7-9 12 3-2 6-2 8-1-6 1-10 4-12 9-1-3-4-5-7-5Z" fill="currentColor"/></svg>
+      </span>
+      <span class="brand-text">{{ site.name }}</span>
+    </a>
+    <nav class="nav" aria-label="Điều hướng chính">
+      <a href="{{ '/' | relative_url }}" {% if page.url == '/' %}aria-current="page"{% endif %}>Trang chủ</a>
+      <a href="{{ '/categories.html' | relative_url }}" {% if page.url == '/categories.html' or page.layout == 'archive' %}aria-current="page"{% endif %}>Chuyên mục</a>
+      <a href="{{ '/blog/' | relative_url }}" {% if page.url == '/blog/' %}aria-current="page"{% endif %}>Lưu trữ</a>
+      <a href="{{ '/about.html' | relative_url }}" {% if page.url == '/about.html' %}aria-current="page"{% endif %}>Về blog</a>
+    </nav>
+    <div class="header-tools">
+      <button class="icon-btn" type="button" data-search-open aria-label="Tìm bài viết (phím /)">
+        <svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true"><circle cx="11" cy="11" r="6.5" fill="none" stroke="currentColor" stroke-width="1.8"/><path d="m16 16 4.5 4.5" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/></svg>
+      </button>
+      <button class="icon-btn" type="button" data-theme-toggle aria-label="Đổi nền sáng / tối">
+        <svg class="i-moon" viewBox="0 0 24 24" width="20" height="20" aria-hidden="true"><path d="M20 14.5A8 8 0 0 1 9.5 4a8 8 0 1 0 10.5 10.5Z" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round"/></svg>
+        <svg class="i-sun" viewBox="0 0 24 24" width="20" height="20" aria-hidden="true"><circle cx="12" cy="12" r="4" fill="none" stroke="currentColor" stroke-width="1.8"/><path d="M12 2.5v2.2M12 19.3v2.2M2.5 12h2.2M19.3 12h2.2M5.3 5.3l1.6 1.6M17.1 17.1l1.6 1.6M5.3 18.7l1.6-1.6M17.1 6.9l1.6-1.6" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/></svg>
+      </button>
+      <button class="icon-btn menu-btn" type="button" data-menu-toggle aria-label="Mở menu" aria-expanded="false">
+        <svg viewBox="0 0 24 24" width="22" height="22" aria-hidden="true"><path d="M4 7h16M4 12h16M4 17h10" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/></svg>
+      </button>
+    </div>
+  </div>
+</header>
+
+<div class="search" data-search hidden>
+  <div class="search-backdrop" data-search-close></div>
+  <div class="search-panel" role="dialog" aria-modal="true" aria-label="Tìm bài viết">
+    <div class="search-field">
+      <svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true"><circle cx="11" cy="11" r="6.5" fill="none" stroke="currentColor" stroke-width="1.8"/><path d="m16 16 4.5 4.5" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/></svg>
+      <input type="search" placeholder="Tìm một chữ, vd: má, mưa, cà phê…" autocomplete="off" data-search-input aria-label="Từ khoá">
+      <button class="search-esc" type="button" data-search-close>Esc</button>
+    </div>
+    <ul class="search-results" data-search-results></ul>
+    <p class="search-hint" data-search-hint>Gõ không dấu cũng được, "ma" vẫn ra "má".</p>
+  </div>
+</div>
