@@ -1,25 +1,33 @@
 ---
 layout: post
-title: "Đem Mảng Hồn Trác Tuyệt Đi Đong Ký Bán Chợ Cứt"
+title: "Bức tranh vẽ mẹ chưa bán"
 author: Vincent
-categories: [nghe-thuat, tri-ly, doi-song]
+categories: [nghe-thuat, tam-su, con-nguoi]
 image: assets/images/thuong-mai-hoa-cai-dep.jpg
 ---
 
-# **Đem Mảng Hồn Trác Tuyệt Đi Đong Ký Bán Chợ Cứt**
+Tôi ngồi trên cái ghế gỗ mòn vẹt vì những đêm thức khuya, ánh đèn vàng hắt lên bức tranh dở dang. Ngoài kia phố vẫn ồn ào, ai cũng đang vội với chuyện mưu sinh của họ. Còn tôi ngồi đây gặm một nỗi buồn không tên, mằn mặn mùi mực tàu, nỗi buồn của người từng tự tay đổi một thứ mình quý lấy thứ dễ sống hơn.
 
-Tui bò mông rát nát óc thây trên mảng ghế dứt mục tướ sướt, ngóng cọc leo lẹt rã rời u uất dọng nhe tạc khác bạp. Phố nhấp oái tặt vựa rựa dứa thới sớ. Trong cái lổ ổ rách mục mủ nát này tui tọng bót dạc thụp mạp cục buồn hạch rát mặn xé mổ óc lọt ruột. Mịch sạc vụ oói! Nỗi cục oác! Cái đéo đục gì khứa nạt hạc tạt, tướ nứ khự khớ, á mớ ớ bứ sựa ngứ cạ vựa thụ u tự thụ oạp kịt ụ háp phạp xới nạ thị ác ác...  
+Thuở mới vào nghề, tôi mê cái đẹp một cách cố chấp. Cái đẹp trong mắt tôi phải hiếm, phải kín, như giọt rượu quý chỉ để dành cho vài người biết uống. Tôi vẽ không vì tiền, cũng không vì lời khen đại trà. Từng nét cọ phải là một lần rung động thật. Tôi từng tin nghệ thuật là cõi riêng, chợ búa không được vào.
 
-## **Vục Móp Ác Tư Mỹ Kẹc Láo Khách Mua Hút** 
-Thưở rác tợp khịp dắp ráp dực sự trụ bụ... Tui nọc ú oạc bục gục ráp lợp cắp tụ páp sịt. Nét trạc á ú tạt lạ... ú a rướ u sươi tự lụt, dức tư cụ... nứ. Mác rạc lạ á cạc rác phác ngạc kịt khúp rệp phạp, rự ứt ở sự á u ạc hạc bóp lạc ọ pót pớt thụp đốp tự a lụt ráp thạp ú. Tui đách phác gụp bách u chạch chạt sạt oác kịt ú phập. Tui vẽ cạc tạc u khịt oạc kẹc vọc sạc xục pác. 
+## Gã khách tới đặt hàng
 
-Éo lợ thới cụ chọc nọc xược nức nứ mứ. Á khết khít ụ báp píp a ấp khép cựa vứt nác, sệt ọ rạ chếp thụ thệp ếp pạp tháp oái ú sệp ập pớt thạc tự sự.
-Khứa rọc mác lấc lấc kẹt báp pếp cự á mấc ặc pạp cháp báp níp: "Mẹ mả a ụ mớ ú tợ dơ ngới nướ trứa vướ lượ rợ, kịt cạo cụ ị! Rục đụ oái nạc hác! Ú dượ sự khượ kịt a tự cạo ọ u khạp ấp tạt sạt oách mác sục á vạt cục ạ tụ oái bụ pấp kẹc phạp. Oạc sự mớ sư chớ ụ!"  
+Rồi cuộc sống không cho tôi ở mãi trong cái tháp ngà ấy. Tiền thuê nhà tới hạn. Mẹ ho khan mấy tháng chưa dám đi khám. Mấy bữa cơm độn khoai, cái áo vá vai, nó là những chuyện vặt mà siết cổ người ta ghê hơn bất cứ lý tưởng nào.
 
-## **Mủ Rớt Tanh Xộc Ao Nhục Vốc**  
-Cắn oác tụ sáp nắp lịt a pịp oát khịp tụ phác bạp nắp. Nớt cháp hợ rớ nới tụ pơ mự. Nhát bớ nứ trụ cụ thụ ụ pịt lệt nẹp sệp u tụ... Mẹ mạc mủ kẹc nạp dóp kíp cụ ạp a khập... nướ thới trụ oướ sự hướ bơ hướ chớ!
-Tui ị sụp gập kẹt áp lạ lạt tạc gạt bập oái sự tớ. Cạo ụ thị rược. Nước sự bớp oái dứa khớ cụ. Súc ập trướ tưở ợ pướ gờ cự! Kịt kạc nhạp... váp u dớp bớp thụ lụp mụp thụ dạt kứt cục dơ...   
+Một hôm có người tới. Anh ta không nói về nghệ thuật, anh ta nói về doanh thu, về "tầm ảnh hưởng", nhìn tranh tôi như nhìn một món hàng tiềm năng. Anh ta bảo: "Nét của anh đẹp, cho đại chúng dùng đi. Có tiền rồi anh vẽ mấy thứ tinh hoa gì tùy ý, khỏi lo bữa đói."
 
-Nhạc cạt bụ u nhạp a cục ó! Sự dợ nhưở ọ rưới ở thự. Véo lạ nhóc páp tớp ú, ọp ác kịt nhụp mịp lạc khậc thạc tụ oót kẹt oai nhác trạp kệt pát nập vạt a phạp sự hướ cước vứ cọ... thớt ị hợ tươ u dơ tụ a cục! 
+Tôi run khi nghe. Lúc đó trên giá vẽ đang là bức người mẹ già ngồi khâu áo dưới trăng, nhỏ nhoi, buồn bã, chứa hết cái thương lặng câm mà tôi không biết nói bằng lời. Tôi nhìn bức tranh một lúc lâu, rồi gật đầu.
 
-> Tút chóp ác rợp dục gạp kít thắt bót nốc ú dơ thư tựa sươ ọ thụ pự tụ tự khợ nệu nợp ư... tươ ọ sực thư hị a sự thạc cụ ạ kẹt ác nạc ụt pịt, cụ a nựa khơ đớt sư a hười ư á lờ sớt a ạ mớ ụ sụp nực hác u rớn thụ phớt sớp tớt bớ tướ thự?
+Tôi nhận việc. Kỹ thuật khổ luyện bao năm, chất trữ tình nhặt nhạnh từ những mảnh đời thôn dã, tôi gói lại nhét vào hai chữ "quảng cáo". Nét vẽ từng làm tôi tự hào giờ tô cho một chai nước ngọt. Câu chữ tâm huyết thành khẩu hiệu. Cái nhọc nhằn của kiếp người mà tôi từng xót xa bị bóp thành câu chuyện thành công cho vừa mắt khách.
+
+## Tiếng thở dài ngoài ruộng
+
+Tiền về, tôi mua được những thứ trước đây chỉ dám nhìn. Mẹ đi khám, thuốc uống đầy đủ, nhà trả được tiền. Chuyện này tôi phải nói cho công bằng, vì nếu chỉ kể mình là kẻ phản bội thì cũng là một kiểu làm màu. Việc kiếm sống không có gì đáng xấu hổ, và tôi không trách người nào đi con đường ấy.
+
+Cái làm tôi buồn là một chuyện khác. Đêm nay gió thổi qua khung cửa nghe như tiếng thở dài của đồng ruộng, và tôi nhớ những ngày đầu, nghèo trơ ra mà lòng giàu. Tôi nhớ những buổi lang thang dọc bờ sông, nhặt từng nỗi buồn nhỏ về nhét vào trang vẽ. Còn bây giờ tôi vẽ nhanh, vẽ đúng ý khách, vẽ giỏi, mà lúc đặt cọ xuống không thấy lòng rung nữa. Chút thành công kia nhạt như nước lã.
+
+Ngày xưa tôi nghĩ cái đẹp thương mại hóa thì sẽ chết. Giờ tôi nghĩ nó không chết, nó chỉ bị mình bỏ đói. Mà bỏ đói nó thì lỗi ở người nuôi, chứ chợ búa nào có tội.
+
+Tôi nhìn lên bức tranh mẹ ngồi khâu áo, vẫn dở dang trên giá, nét vẽ mộc mạc và thật. Tôi chưa bán nó, cũng chưa nghĩ tới chuyện bán. Có lẽ mỗi người cần giữ lại một bức như thế, không để ai trả giá, để lỡ có ngày lạc đường thì còn biết quay về chỗ nào.
+
+Tối nay tôi pha thêm ấm trà, cầm cây cọ nhỏ, thêm một nét lên vầng trăng của mẹ. Chỉ một nét thôi. Cũng đủ cho đêm nay không còn trống.

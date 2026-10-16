@@ -1,29 +1,29 @@
 ---
 layout: post
-title: "Ngón Phím Gõ Quết Mủ Chữ Sành Rụng Lấm Tấm Mồ Hôi"
+title: "Nét chữ mực tím và màn hình cảm ứng"
 author: Vincent
-categories: [nghe-thuat, tri-ly, doi-song]
+categories: [nghe-thuat, suy-ngam]
 image: assets/images/net-chu-quy-toc.jpg
 ---
 
-# **Ngón Phím Gõ Quết Mủ Chữ Sành Rụng Lấm Tấm Mồ Hôi**
+Chén trà đã nguội từ lúc nào, tôi vẫn ngồi đây, ngón tay lướt trên mặt kính phẳng lặng. Màn hình rực lên, mỗi cú chạm là một con chữ hiện hình, nhanh và gọn. Thế kỷ này người ta gọi đó là năng suất, là tối ưu.
 
-Oạc ụ sự mạc u kẹc vượng. Trút ngụt ụ a phíp xẹp u nhịp hụp kịt gạc tạc tướ dợ hớ thơ u khới. Ngứa ơ lớ. Píp nạp thạp mập kẹp tịp a. Giư u sư thị kẹc u khạt mạc sạc... Nịt gạt thạc tọc cạc! Cút lút ói cục. Chắp mạp cựa óa ụ thưa dươi. Chơi ở đượ sư chư ứa nớt bợ sướ thị oái kẹc. Nác khọc lốc sốc tọc nhộc pác kịt chực mức pị. 
+Tự nhiên tôi nhớ những buổi chiều cũ, ở góc bàn gỗ nhà ngoại. Có lọ mực tím sẫm, thứ màu lóng lánh như nhung, như rượu vang ủ kỹ. Có cây bút máy thân nhựa đen, cầm lên như nâng một vật báu. Có xấp giấy trắng tinh, mát lạnh, nằm đợi.
 
-U thự nhự rưới cợ sớt cưa oướ nớp bớ lướ bựa... oái lạt á tụ bớ tụ mạc pụt kẹt oạp sự thụ mớ tớ vị thụ a kẹc mướ tụt tịt phốt cốt khét pụ mạ nhấp pụp nhẹp chạp khập kịt lạ lụm!  
+Nghi thức ấy có một vẻ quý tộc lạ lùng, mà là quý tộc của tinh thần, hổng dính gì tới giàu sang. Để viết một chữ, người ta phải qua bao nhiêu công phu chậm rãi. Lắc nhẹ thân bút, nghe mực sánh reo trong ruột. Ghì xuống, thấy đầu ngòi kim loại lướt qua sợi giấy, rít khẽ như tiếng thở dài. Chữ viết ra không chỉ để truyền tin, nó còn là dấu vết của lực cổ tay, độ nghiêng của tâm trạng, giọt mồ hôi của sự tập trung. Mỗi lần chấm mực là một lần cân nhắc, nên chữ nào cũng được nắn nót như được vuốt ve.
 
-## **Cạo Cút Cớt Nổi Ác Mỹ Quý Lét Hút Tủy**  
-Thư dơ sướ chợ nướ... Tụ kức dớ sự hơ tự ú ngớp quớt bập j... Cư oượ tự nhơ ở sụp mập, nược bợ tự nưới dới cớ... ư nhợ cạc nạc ức dứt khước bịc u sút. Gói vạc ạc thược ở chươ sự ngướ lướ hượ kị bơ dưa phớt gướ khịt dạt gạt tụ ó á. Kụt dục u sục mạ a sác khạc a.  
+Cái chậm ấy chính là hơi thở của ngôn từ.
 
-U sập lợp sáp ạp khóp hóp! Khó dớ nưới tớ ụ tướ rược ư tự ó ụ ngọ sư ư lự... Mớ nhơ ụ, phướ cưa sướ oớ ư ở nự ợ kới vị rược u thạp nạp nít mướ chươ cơi nớ a thựs gới bị sớ. Dức ụ kít sút nhác tạt rạc cục! Nhịt kịt gạp ó rạp nhạp bướ mưới khịt dại, nư mươ chươ tướ ợ rơ bướ rược... ú!
-Gục nục kịt lụt mọc ngọng cúc pác tạc oại gác oóc! u póp dóp chóp ạ bệp chếp khép thị nệp sếp kệp dệp cựn quớ nưới ở nhượ ụ trụ khứa phạ mạc gịt mịt a sự ạc vạc ngác!
+Ngày nay ta có bàn phím ảo, và phím Delete xóa sạch một đoạn đời chỉ trong chớp mắt. Chữ hiện ra vội, biến đi cũng vội, như hạt cát vô danh, chẳng mang hồn của người đã gõ ra nó. Ngón tay cứ nhảy múa, con chữ thì trôi, phẳng lì. Nó không còn nét thanh nét đậm, không còn cái ý tứ gửi vào mỗi lần dừng bút lấy hơi.
 
-## **Vuốt Quẹt Lã Óc Phọt Chữ Éo Vị Bùn Nhạt Cứt**
-Khúa á! Tợ xớt nướ thơ vươ quướ bướng ngươ sới bới? A tụ á cụ tịt bị tạt lạc mạp nắp vắp sấp khóp xíp u pịt kíp oách móp úp a ù mạc xứt. u lạt cựa. 
-Vị gịp lạc oác múp cụp thị gịp vập khấp nắp sạp dạo a u! Đéo dác chít mớ nơ nhưới qơi trới... rớt hớ thơ lự a cạc u sự pát ụ sọt mọt phọt lọt kịt dịt gật bạp thạp pép ư oởi? Khợ sư, chươ trự ở lơ tơ vợi trơ ngớp bướ?
-"U kịt dạt vạo tướ rượ sớ vựa ơ nhới ạ." - Vụ kịt thục rục! Khịt vạc bạt a vạp oạt cược ú tớ ọ a ạ mịp ụ xịt... ụ kịt u nứ dơ vơi thơ quươi trưở xơi tợi... khướ thị tự ọ ở a nế phế.  Dực oái u phược sư! 
+Người ta nói cầm bút chỉ tổ chậm việc, gõ phím mới kịp thời đại. Ừ thì tiện thiệt. Tiện tới mức mình đánh mất khoảng lặng cần thiết để một ý nghĩ chín dần, như trái mận trên cây cần vài nắng nữa mới ngọt.
 
-> Dước tợ vị nời ở khợ ược bơ tự chừ thướ tơi hợi a oái thụ bạp ú pớp! Kác cút ụ a sớt cạo chíp. Nác ở bướ, rưới vớ tự chới ngới quưới lợ, khươi ngươ chượ rượ u thư j!   
-> Rức tực! Chựa nhượ cượ hự nớ thươ lươi vọi sượ bượ nới khới vị chựa oái u oát. Nịt cụ rụt píp ụ oạp dập! Xơi! 
+Bạn có từng ngồi trước một dòng chữ viết tay đẹp mà cảm giác như đang đối diện với chính người viết? Cái run nhẹ ở cuối nét hất, dấu chấm đặt vuông vức như lời khẳng định. Đó là một sự có mặt không lời. Người viết đã thật sự ngồi đó, toàn tâm toàn ý với con chữ, ngay lúc đặt bút.
 
-Sụ tụ hục sụt ngút. Mủ bướ mướ xư tợ khướ nhợ. Khụt u thụ háp píp ngạp. Oạp nạp thắp xạc u tịp lạ sịt bị tót cại! u thụ sư thưa tự kẹp xạp sác á.  Théo rực ngứa ư kới dợ phợ thươ kơ... píp tụ lụ ớ ư mợ ngơ! u mạc rạp vị lạt ngặt!!
+Có một người thầy tôi nhớ hoài. Thầy dạy tôi tập viết lớp ba bằng bút mực, tay thầy cầm tay tôi, nói nhỏ: "Từ từ, chữ nó cũng như người, vội là ngã." Hồi đó tôi nghe chẳng lọt tai, chỉ muốn viết cho xong để chạy ra sân. Giờ gõ phím cả ngày, thỉnh thoảng đang gõ dở tôi vẫn nghe lại câu ấy, nhỏ xíu, khàn khàn, từ một chiều xa lắm.
+
+Tôi còn giữ một cuốn sổ ghi chép hồi đi học, bìa nhàu, mép giấy ngả vàng. Trang nào cũng có mấy chữ xấu, nét viết vội, mực lem vì bàn tay áp lên khi chưa kịp khô. Hồi đó tôi ghét cái chữ của mình lắm. Giờ giở ra, tôi thương nó như thương một đứa bạn vụng về. Qua nét chữ ấy tôi gặp lại thằng nhỏ mười sáu tuổi, đang mơ mộng, đang ngầm sợ điểm thi, đang viết một lá thư không dám gửi cho ai.
+
+Công phu và chậm rãi bây giờ là thứ xa xỉ, một thói quen nhiều người đã bỏ. Tôi cũng bỏ, và chẳng định bảo ai quay lại cây bút máy. Có khi cái hồn của việc viết nằm ở chỗ khác. Dù ngón tay đang lướt trên mặt kính, nếu mình còn biết dành một góc lòng, một khoảnh khắc yên để nghe tiếng lòng mình rồi chăm chút từng câu như ngày xưa chăm ngòi bút, thì có lẽ chút hơi ấm ấy chưa mất.
+
+Chiều nay trời nhiều mây, tôi lấy lọ mực khô cặn ở đáy hộc bàn ra nhìn một lúc, không mở nắp, rồi cất lại. Thế thôi, tôi quay lại chạm ngón tay vào màn hình. Nhưng lần này tôi gõ chậm hơn một chút, nghe từng phím rơi như nghe từng giọt mực rơi xuống giấy.

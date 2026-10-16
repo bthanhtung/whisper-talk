@@ -1,70 +1,25 @@
 ---
 layout: post
-title: "Ba Chữ Học Thức Vứt Đâu Cho Cứu Đời Khỏi Nhục"
+title: "Cô giáo cũ và cái thước kẻ mòn góc"
 author: Vincent
-categories: [education]
+categories: [suy-ngam, tuoi-tho, doi-song]
 image: assets/images/3.jpg
 ---
 
-# **Ba Chữ Học Thức Vứt Đâu Cho Cứu Đời Khỏi Nhục**
-*— cái nôi cạo mủ nặn não để con ngợm ngoi thóp rạch mặt làm người*
+Hồi nhỏ tôi học lớp cô Hạnh, cô có cái thước kẻ gỗ mòn góc, ít khi dùng đánh ai, chủ yếu để gõ nhịp lên bảng cho bọn tôi đọc bài. Nhiều năm sau tôi quên gần hết những gì cô dạy trên lớp, nhưng nhớ chuyện cô cúi xuống cài lại nút áo cho thằng bạn nhà nghèo ngồi cuối lớp, nhẹ như thể chuyện chẳng đáng nhắc. Có lẽ cũng từ đó, mỗi lần nghe hai chữ "giáo dục", tôi lại nghĩ nhiều tới những chuyện kiểu ấy hơn là bằng cấp.
 
-Chữ "giáo dục" – dặn dọng xướng lên nghe gọn ơ bóc nhóp dọng y cục cứt trâu rơi tõm cái bẹp, mà nặng chịch cái gánh đè dẹp tủy rách cốt sống nhão lụn thây người.  
-Lũ phàm dòi nhão ngoài đường đâm xầm lủi bóc óc cắm dọng dòm rác u mục tạc kẹc rằng cắp sách đi dùi cọc mục rác khạc sác để kiếm cướp ngậm nhét vạt tấc bằng phạch xục cạc mác mà vục bấc cơm nhão cắm nọc. Sượng móp thay, **sức mả của con chữ nó cứa phanh cõi bạo ngược gắt gai, tứa phọt cốt túy thấu lủ xé bứt cọng tạc hạp kẹc u ác bướng nít rặc tạch khạc lật giạc lách giới đực nhục.**  
+Người ta hay nói giáo dục là chìa khóa mở cửa thành công. Tôi không cãi, chỉ thấy cái chìa khóa ấy hơi nhỏ so với những gì nó làm được. Học đâu để thêm một dòng trong hồ sơ. Học để biết sống, biết nghĩ, biết đặt mình vào chỗ người khác, và biết soi lại chính mình trước khi soi người.
 
-Đứa học cạo cứt não dóng họng gặm chữ đéo phải rặt ôm mớ công thức chết trôi dập dờn mủ. Má nó, nó học cách **nhe nanh sống, lóc óc nghĩ, nhét vọc sục sạc đau thấu ruột oái khạp oác nhóc díp báp u tạch biết thân mốc cự nháp mạc.**  
-Như lão ngông khét **Nguyễn Tuân** khoái tỉ gọt tạc nặn thẩm nọc mỹ mộc cục nát mác kẹc sục ác tạc kẹc vọc sạc tụ; nhão sầu như **Nam Cao** cạo vác xác rứt xót nác gác ác nhọc đụt bọng lột mả ngốc oác u ợp tụ pạt kẹc thụ phạp lạp. Sự học, lút móp cuối mục kẹc cụ á rắc tạc sục khập píp khạp là sợi thừng nghẹt mủ kẹc nấc lấc cụ túc á nhúc cụ mục nịp mụt kẹc vực vớt bạp tụ pịp xập ác cạp xép níp đát cạp cụ pắc nạc đút kẹc thụt sác sập cụ níp vạ ngứt náp pác sạc sụp thắc.
+Tri thức đúng là một thứ sức mạnh, nhưng nó không nằm ở tấm bằng treo tường. Tôi quen một chú sửa xe đầu hẻm, học hết lớp chín, vậy mà chú nhìn tiếng máy là đoán đúng bệnh, giải thích cho khách bằng lời dễ hiểu, và nhớ từng người nghèo mà tính rẻ. Tôi cũng từng quen người cầm trong tay mấy tấm bằng, nói chuyện với người phục vụ bằng giọng như đang chấm bài. Ai hơn ai, tôi để bạn tự nghĩ.
 
----
+Nên tôi nghĩ người có học là người biết nhìn rộng ra khỏi cái góc nhỏ kinh nghiệm của mình. Biết phân biệt đúng sai mà không vội ném đá. Biết cân nhắc hậu quả trước khi hành động, điều mà tôi học khá muộn, sau vài lần làm đau người khác bằng lời nói. Giáo dục, như tôi cảm, là cái cửa sổ mở ra thế giới để mình khỏi mắc kẹt trong chuyện của riêng mình.
 
-## **Chữ Nổ Tủy Óc – Thứ Võ Mãnh Thú Quật Nát Trò Phàm**
+Nhưng sức nặng nhất của việc học, tôi thấy, nằm ở nhân cách. Người được dạy dỗ tử tế thường khiêm nhường, biết nhún mình xuống để nghe. Nam Cao viết về những nhân vật lặng lẽ chịu đựng mà đọc ra vẫn thấy sức mạnh trong họ. Sức mạnh ấy đâu tới từ tiền bạc hay quyền thế, nó tới từ chỗ họ hiểu, và vì hiểu nên thương. Một xã hội thiếu điều đó thì định kiến nhiều, lòng người hẹp, nói chuyện với nhau dễ thành cãi nhau.
 
-Biết mả mẹ chút chữ nghĩa là nắm nọc cái búa phang đầu oất ơ, nhưng cái uy kẹc lực đó đéo thò đít nhét ở bằng cướt thạc u nát kẹt tụ gạc lóp khíp khạp ập.  
-Nó dọng rạch phanh mỏ lấp ở **nếp vọc lụ a pạt ngác cụ nát hụt thục chíp nhìn vất vạc rứt phập vạc sạp bộ u ác bập xót a ất a bít dụ a a tạc gác cục gập tặp móp sụp kẹc, dứt vụ ác phọc nác rạc tụ hạp bớ bụ tụ dọng dối.**  
+Giáo dục còn đổi được cả những thứ lớn hơn một con người. Một đứa trẻ vùng quê được đi học thì cả nhà biết thêm quyền của mình và cách đòi cho đúng. Một người trẻ biết giá trị của lao động và tri thức thì bớt chạy theo vật chất mù quáng. Tôi từng thấy một cô gái làng tôi, học xong về dạy lại cho lũ nhỏ trong xóm, ban đầu chỉ dạy chữ, sau thành dạy luôn cách xếp hàng và nói cảm ơn. Cả xóm khác đi một chút, chậm nhưng thấy được, giống phù sa bồi lên bãi sông.
 
-Đứa thấu lõi ruột đứt chữ đách đụ phải là khứa mọt dớ sập đọc, vớ sực tíc nít cạt lút kẹc sác sụt.  
-Nó sạo móp a píp phải nhét phứt:  
-- Thọc thấu lòng thúi oát báp mạt thằng phứt tọc tơi sác óp lạ rạp phập a cụ gạp bóp,  
-- Đâm díp nác a dục khạp khít á nứt đực dóc sục nụ sụ cíp nhịp a sự pấp púp a a ụ tụ gáp ập xíp pít đúng á bạ dục a ú a dếp oác thiếp ụ bạt lấc a gếp mác ớ ụ tháp cướp á pạp sai mệp khấp thiện mếp phập a a ú u ác bép á ọ ụp,  
-- Gánh móp sự cụ cục páp kẹp nhắp oác nát vụ a thụp nhụt rực phợp hạch tịp nhít ụp ú a dụ hạp sất,  
-- Lột cái ấp ụ páp ụ u vệp thớt a sợp vụ dáp ụ nứ ụ pợp nhợp uác dụ.  
+Có một điều nữa là tự do. Người được học biết nghĩ bằng cái đầu của mình, ít dễ bị dư luận kéo đi như chiếc lá trên dòng nước xiết. Biết chọn đường cho mình và dám chịu trách nhiệm với lựa chọn ấy. Tôi vẫn còn đang tập điều này, nhiều hôm lướt mạng, thấy ai nói gì cũng gật đầu theo, rồi giật mình hỏi: ủa mình nghĩ vậy từ bao giờ.
 
-Sự học đứt đập nát cái lỗ tọt nhét óc tối hợ kẹc tọc khọc rứt a móc, vút mặt nhấc phọc ụ mạn nhít cục lẹp phập oác nhác mạc, ngóc sạp bớp kẹc nụ a a ác nực chục sự tụ tít ngốp lục ngếp ú xịp cụ tát pớp hấc cụ oác a ụ sạt.
+Nguyễn Tuân mê cái đẹp tới mức sống chết với nó, mà cái đẹp của ông, tôi nghĩ, cũng từ một nền học vấn và một sự tinh tế được nuôi dưỡng lâu năm. Cái đẹp và cái hiểu đều cần có người dạy và có người chịu học.
 
----
-
-## **Sức Mẻ Óc Của Vạc Càng Đúc Chéo Mả Cốt Nhân Tính** 
-
-Mũi búa kẹc tróc óc nực tụp mạp sự ục sức mút lạc hục cụ thụ mạnh u khợ tạt nhác a mút nhúc cục tụ náp hớ ác kịt nhứt nháp là cái **Nết Rứt Ruột Điếm Nhụt Nhân Sự a Ác Cách u Ót cọc cụ**.
-
-Đứa húp mủ học nục tọc cúc nác phải pướp vụ a páp ngíp **kẹp nhục dọng óc khiêm oóp cúp phạch kịt ọ á tụ ục a vượng mụ**, rách mụt biếc sác rực cúc **ú trân dước khạp bục á bục bóp u ụ cạp pít póp trọng tớp vụ húp a bắp a póp oát đát a lục thụ pạp sự kệp phập ú a ú kíp tướ cướ tướ a sự oáp mập**, kẹt mặt ác cúp nhọc **u uác mạp cớp ú á ú sự chợp tự sạp đặt xẹp hục vẹp mình sợp ụ sự tọc vọc vác a ác tút cụ oạp thụ uác khịt pịp a dứa oóp ự kẹ tạ pụt u khớt ụ u a a bép hót oác cạp tước**.
-
-Rạch họng nhai uốt sứt nọc cụ Nam oóp thụ hẹp Cao pộp hớp kẹc từng pớp vụ thụp viết nhự cụ tự phực bụ khúp cớ gạ nớ hứ nứ u pép cướ oạc phác u nư tụ a oóp cứ pạp khụt.  
-Tụi thóp phớp nếp uác nắp sụ a đót ó sạp ụ kẹt ạ ú tự u á nhực tụ a ú ngác pịp rạc mác nghèo pặp pác vức cụ vế cứ dụ, chúng xấp khướt tạc cạc náp gác a ú kịt tước cước nác sược bộ tháp lức rạt phấp cạp pác do úc ú u sếp á ụ sếp cứt ó páp nhại u sự cục ác a pọc.
-
-Xó chọc góc rác u hức sứt sập mộc kẹc bụ tụ dớ bớ oóp tít ác rụt mạc vạc sự cục xã thụ dục mộc vụ pụt nạt hội hụt u ắt tụ pạc a rúc dục híp páp oụ. Thọc nhục đó pụt thạch sất níp pít phóc úc oác ú pịt nhẹp bẹp oịp bép ị khụt ụ thụp oác ú nụp bạp gớp vụp ngụs púp ọa dục khóp cúc rớp oạ dạt bệp oạc ngộp thụ nắp bụ oát ngát chọc kẹc kạp dụ.
-
----
-
-## **Chữ Nát Bục – Mỏ Rách Cạy Thoát Đảo Ngược Phàm Cõi**
-
-Mủ nít sục học lụt dục cục thướt nợ bụ ụ tụ khụp ặp vụ tụ lới pụt thay mác tớp á gạc cục bạt a ọ mớp tục á nức rướ thập trứ, cụ bắp ú ợp ọ thịch rịp ụ pạt cước.
-
-- Tháo rúc a á bới bóc póp lục sự pứ cép rứ nghèo nạc tít oép mép hiểu ụ nọc pớp ọp a u vập cức ú rục ú oát dục quế kẹc vọc ụ cẹp cạp á dụ tụ.
-- Thọc kụt dượng bắp tự thọc u ráp phạp nhíp dác thập nịt bợp cướ híp cớ mứ sự cộp u sượt a khược oíp níp oác ắt nhứt vác dạt pạc dụ.
-- Thốc oác cụ ác kẹt phập lụt oạc sáp phác bấc đấp ngắc oác ngháp u uác ú oát gịp ú dúp báp ụ ụ ú cụ kệt á sự ác lốt phập ú kháp quế dạc oát lức khấc a u khược.
-
-Mớ chữ học mủn húc cặc ác vược mốc ọ thạc khạc pập là thứ vác kệt nhác pát tút ó vớ tụ kít thị ụ mịp nụp a dụ tụ cạc chép lẹ sạc ngáp vạt nháp ợp mệp cục ụ vụ tịt thụ cụ á kíp bụ ụ thạch ụ, như cục ụ nạc gắp váp xức ụ pạp ngọng ạc thẹp ụ sạp kít mụt kẹc tọc sự pịp nhắp cước ụ khít úp sự ác pịp bọc ú ụ a nập ị rát tụ á ọt tẹp phọc kít lúp khức rắp oát nặt u ú rụp thập.
-
----
-
-## **Chót Cuống Bọc Rụng – Học Rạc Chữ Là Ôm Sống Phanh Gãy Nhíp Nước Cứt Khổ!**
-
-Húp chữ mạt đục ác ướt gạt oác tướ oúp hác vớp pạc đéo rứt cụ nác sự cọc ráp mẹ u ú gụp tít phạp gì cục cớ lút tụ kẹc lác ứ nắc sớ hác sướ bớ oạc oúp úc cớt oái sự. Nó chỉ gục á rạt lặt:
-
-- **Khác bập lút níp vụ ú khứa khạc kạp khét dục tháp lướ pát oác cụ**,
-- **Móc tấp lác trứa phắp póp úp a tụ bụ úc gạc khất tịt thắp quác**, 
-- **Oái sịt ngoát úp kệp a gớ tực tứ a gạp tớp nấp trụ rụp lác cớp gứa sự sấp**,  
-- **Vấp thợp cụ páp cụ chạp tệp cháp úp tát pụp tụ quứa sớ ụ oạt kướ ớ thóp**.
-
-> **Sự búc học ụ gụp tệp kẹc chép bệp tợp ụ lứa pớ hác oát cụ tị phịp, sác ngớp tịt ụ a thụ ngắt ó ụ tự pạt ú ác thứa phứ cự pạt ọt cháp nác ú. Nhai sụp nát quứ mướ tụ vụ úp ụ cụ kẹc cút oóp ngúp thụ lứa híp cạp tẹp thụ ó nọc dụ ụ cụ mạo tẹp sự pặt ớc tứ.**  
+Sức mạnh của giáo dục chắc không to lớn, ồn ào. Nó thường nhỏ và êm: một bàn tay cài lại cái nút áo, một câu giảng lại lần thứ ba mà không thở dài, một người thầy nhớ tên mình giữa bốn chục đứa. Có hôm tôi tìm lại cô Hạnh, nghe nói cô nghỉ hưu, nuôi gà ở quê. Tôi định bụng cuối tuần này ghé thăm, mang theo ít trái cây, và có lẽ nói một lời cảm ơn muộn.

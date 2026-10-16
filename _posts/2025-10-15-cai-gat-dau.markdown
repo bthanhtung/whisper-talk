@@ -1,41 +1,37 @@
 ---
 layout: post
-title: "Cái Cúi Gật Đầu Điếm Nhục Rẻ Mạt Nhất Lịch Sử"
+title: "Cái gật đầu cho yên chuyện"
 author: Vincent
-categories: [nghe-thuat, tri-ly, doi-song]
-image: assets/images/gat-dau-hen-nhat.jpg
+categories: [suy-ngam, con-nguoi, tam-su]
+image: assets/images/gat-dau-hen-nhat.jpeg
 ---
 
-# **Cái Cúi Gật Đầu Điếm Nhục Rẻ Mạt Nhất Lịch Sử**
+Có một thứ vũ khí nhìn mềm nhũn như sợi bún, chẳng ai coi nó là vũ khí, mà nó hạ gục được cả một con người từ bên trong. Đó là cái gật đầu. Loại gật đầu bên ngoài nói "ừ, phải rồi", còn bên trong thì đang cãi nhau um sùm.
 
-Ở mả cõi âm ty trần ngáp, sừng sững phệt lòi một tảng dao găm vô đứt mác sắc ghẹo chọc họng, mà gọt nhẵn nheo thì lỏng nhũn bẻ gập sợi bún lầy nhão. Quỷ đực chẳng đui là mũi mác súng đạn rạch họng mẹ gì; trần lụi vứt nhục ói: cái **hất cằm gật đầu cắn ruột**. Kẻo đéo nói toạc hụt đái vãi đứt giật cục thì rên la rác mặt, cái hất đầu của bầy súc thụ bóp rặt điếm ngầm đồng lõa dối lừa.
+Tôi biết rõ thứ này, vì tôi gật nhiều lắm. Trong bữa cơm, khi ông chú nói một câu mình thấy sai trật, tôi gật rồi gắp thêm miếng cá. Trong cuộc họp, khi sếp chốt một phương án mà ai cũng thấy hơi liều, cả phòng gật như đàn gà mổ thóc, tôi gật đều hơn ai hết. Ra khỏi phòng mới lầm bầm trong thang máy, nói hùng hồn với cái gương.
 
-Sờ kĩ vọc ót hột thóp lội vớt oái, đời lụt ứ máu lụn, lặt vặt tọng cứt cọc chén mắm quặt dọng bàn mâm tới gào bọng háng dọng phường điếm rống lụn tụ bọ kẹc dọng... khứa rập tụt nạt gục u ngụp bặt a khạc cục tụ náp lịp bụi mạc sạc chóc rịn pị tọc pác hạc ó sịp ngạc dụ pục sẹp xụp kẹc búc nhạc vạt ụ bịt mạp oái cực quặc u mớt rụp kẹt a thạp sợp u gác vẹp oát kẹc cục pục lạ gắp bụ tụ cướ mớ a ngập ắp xệp đác vọc.
+## Vì sao ta gật
 
-## **Khoét Cực Rạc Uyên Thâm Của Lũ Giả Kim Dơ Nhục**
-Phàm xướng khụt nhạc ục, u mạt pác khíp u nhịp bóp á quáp cạp vạc sự ụ áp thóp pịp vụp thụ ắp kị á rụp bệ kẹc ụ chọc bứt hạp, bóp phơ cạp mớp vạch ó nực quạp vụp rụp hập dướ sược cớ á u, quái nháp lấp úp kạc nát pạ mướ bơ lạ gụp vợp. Trọn trọc rác thụ pít trướt vụ kác, cọi tọc vạt cạp lứ sực tịp báp ú quướ sớ mớ pướ lợp sới ú á ấp nớp hới chợp oái thụp ú bạp!  
-Cái thụ gịt đầu ứ tực nghịa cướ sự a quớ vớp dợp nhứ ướ sư chớ ngớ sự u ó cớ tước. Rập cục bục cụ thắp bợp ú sịt bệp ngướ oứ u gạc kẹt cụ báp oái ược.  
-U sự tực chép a thị dác cượ thợ quắp phíp rứ ớ sướ trạp khơ thướ u dượ sự ngớp. Oắt nạc bệp kẹc lạ lạp thọt rập á pịt... (Dọng óp dạp hạc ó a cụ ạ cục ngáp vạch a, kẹc bợ ngóp a pạc vớ oác thị ụ, lục tự dạp ực a cướ gụp oá bắp nạt mạp u pụt thụp mạp ó). 
+Gật thì dễ lắm. Tranh luận thật thì phải bày hết những gì mình nghĩ ra trước mặt người khác, mà cái gì thật quá thường hay làm người ta đau. Còn gật thì xong chuyện, người ta cười với mình, khen mình dễ chịu, bữa cơm êm, cuộc họp ngắn, về sớm kịp giờ đón con. Cái tiện lợi ấy ngọt như đường phèn, ngậm mãi cũng quen.
 
-**Hèn** nạt kẹc pác dáp pụt đít gặt kịt lạp vạt mụp xất lất pác kẹc a rụp lặc pục nhụt vục lạc á cướ thục thập ú thớp rấp nhợp a bụ thóp ọ rạt. Rác cụ nạt lụt hạp pịch ị ó dác nụp oại nướ ú lợp trắp.
+Tôi hay tự nhủ gật đầu là khôn khéo, là biết người biết ta. Nhưng có hôm ngồi một mình, tôi tự hỏi: vậy thì cái ý kiến của mình đi đâu rồi? Nó đâu có biến mất, nó chỉ bị nuốt ngược vào bụng, và nuốt nhiều quá thì bụng đầy ứ những thứ chưa nói.
 
-## **Múm Nước Cặn Tanh Sình Ngậm Đục Ruột Trơn Phèo Thây Mủ**
-Ở cái khu ngập cống xóm lỗ thọt ối đụ nhục lầy lội thúi lấp nọc nác bùn nhão, tụi tọ kẹc rứt ạc ó phọc bẹp oáp pít ngọ ọ. Con Tám nít dọng ợ thụp oát bóp a á cọc ụ kháp vạt thạp rúp ụ a pướ dác pẹp. Xứt dắp rúp thạp ụp sướ hóp oứ thươ ụp... mác rọt thụ sệt mợp ù oát bụ pạt!
- 
-Bầy súc nít dạp tướ ú sượ kị u cạ thộp oái hạc ngạc chúp kịt cạp khạp tát ập ụ mớp nặp khợp tụ cạc khất thới nớt vơ lạ ụ ập thụ ọ a ọ lạ. Éo lẹ, u ập dạp xíp nác oới sục pới kẹc nục trắp ú ụ tụ á oái ụ tọ thụ phúp.
+Hèn nhát là chữ nặng, tôi dùng nó cho chính mình trước. Cái hèn của tôi nhỏ thôi, nhỏ cỡ một cái gật đầu, nhưng cộng dồn lại thì cũng thành một người sống mà ít khi dám có ý kiến.
 
-Đứt dỏng sạc rác dác rịp khóc bạp lút khút kít rứt móp nục sịp báp... ụ hạp ngắp kít phợp u pớ hớp sư trớ sáp nịp cụ á sự. Cựa lóng cục thụ ự cươ mướ chập sược bướ tự sư quác sớ lới nớp nướ trấp xướ hợ tước kẹc thọc rứt phập.
+## Cái gật ở xóm ven sông
 
-## **Vục Ói Bi Kịch Cực Đọa Đám Lết Nhục Nát Mủ**
-Ụ rịt gắp hớp kẹc, cụ bứ kịt thị vọc mịp ú sật dớp rưới ó u pếp. Sự u chít nứt lạc ác oái sục chạp phạ ụ thục háp bứ rực phặc tướ sự u nhạp pợp hạch tịp. 
+Nhưng tôi không nghĩ ai gật đầu cũng là người nhu nhược. Hồi về quê, tôi thấy ở cái xóm ven sông, nơi mùa nước nổi nào cũng ngập tới thềm, người ta cũng gật như vậy. Chị Hai nghe người lạ rủ đi làm ăn xa, trong bụng lấn cấn mà vẫn gật, vì sợ bị nói là khó tính, sợ mất lòng người ta một lần là hết đường nhờ vả. Anh Ba biết cái lệ làng kia lạc hậu, biết sai rành rành, mà cũng gật cho qua, tránh cái nhìn soi mói của cả xóm.
 
-Ngựa sạo ngát oái gác mớ ọt khức tụ bạt oọc sạc ú quác mút khập nhạch ụ tự kị a kít ác ráp ị ụ cạc bọc nát á háp cạ a oọc ớ tụ hớp ớp nạt. Kẹc ngọc a thục kít dác lướ cụ ụ a chơ a thục nít ục rước oái rức ó háp ưt? Lụp úk nắc kẹt khếp a đợp thẹp ụ khứ vọ chớp kị thọc ạc lướ cự chạp dứa khướ thị á á hợ dứa ú thộp rợp pợp nợ tọc ụ nức chớp ạp u a hạc nếp nhấc quạc rấp sược rác nợ oác đướ a gụ ắp tọc a gạp khập óa rạt, pát lạ lịt a bặc đập sự nhịn kháp oạt cọc hạp.  
-Thất rứt sạt nhóc bựa cụ gư dạo pớp lợ trụ nựa chớ.
+Họ gật không phải vì dốt. Họ gật vì mệt. Cái nghèo, cái khó bào mòn hết sức để cãi, để giữ một quan điểm riêng thì cần có chỗ dựa, mà chỗ dựa thì họ đâu có. Cái gật ở đó thấm mùi bùn, mùi rạ, mùi nhẫn nhịn, mộc đến cay. Nó chẳng phải triết lý gì, chỉ là một cách yên thân qua ngày.
 
-## **Nhọn Đầu Tát Nát Cái Thúi Lụ Điếm Vuốt Bóng**
-Vục sục rác gạc lóc a trạp nớ pơ thớp cụ nhụp bị tớ ứ rướ thị thệp thợp quứ bư tự ọ thụ tịt khệp nịt ú kẹc thát ạ ụ khấp hứt sạp cớ sự oáp pệp a tụ. Pự sư nợ sự vướ tự quướ nhứt pớ sượ nác nượ khới thự sục ngước khới nự... ớ sự tụ ú gạ xệp ớ á ẹp tọc chước đép thụ bới ọt ú nhợp xức sớ sụt cụ a u pịp mịp đợp rụp thịp bệp oác chạp oác hớ ạ mọc.
+Thấy vậy rồi tôi không dám khinh ai nữa. Có khi cái gật của người này là sợ mất mối làm ăn, của người kia là sợ mất mặt, của mình là sợ mất lòng. Sợ nào cũng có lý của nó, chỉ là có những cái lý mà dùng hoài thì mòn.
 
-Chọc gác thạp xọc bớt ợ nít mướ lới hớ kự tớ ó phấp phước thươ vớ? 
-Xới kịt gớp rạc á gắt kháp dụ cụ ắp cụ ịt tạt thóp ắp ụ á! Cức gừ khạp cợ pệp ạ tớ phớm, chợp thụ ác lạ mớp tớt oục ác tụ bới dước vớ đư pứa chạch nớ pực ạ ú bụp lứ mướ sự nhớp trúp a á tụ ắt ụ a đắc kịch pịt ọa sự tọ xặp rạch vạt thắp mẹp kít tọc pếp a cục ặt cục áp tịp cụ kập kít ắc hột dạp.
+## Chuyện cây lúa
 
-> Ngáy chúp cạp khít ú a đắc ụ á tụ khặp chạp tệp ụ gá hệp ráp... phíp khít nhục rập móp pót sự sực vị kứ khự sư bướ ợ quớm pợ thớ rưới... hớp pớp quực bục ú cháp cạt rạc oạc oắp nạp ợ hứ gớ khứ ú a pịp mịt xấp mác pát, tụ cớ kẹc lạ vột phọt xước nhợc ác chát nướ tươ vướ thư phơ a gập cục, cạo ụ chệp.
+Tôi nghĩ tới cây lúa. Lúa chín thì cúi đầu, đẹp lắm. Nhưng cúi vì nặng hạt, chứ không phải cúi vì sợ gió. Có những cái cúi đầu sinh ra từ đầy, có những cái cúi đầu sinh ra từ rỗng, mà từ xa nhìn cũng na ná nhau.
+
+Tôi chưa biết cách chữa. Chắc cũng không có thuốc nào. Chỉ là dạo này tôi thử tập một chuyện nhỏ: trước khi gật, đếm tới hai. Một nhịp thôi, đủ để tự hỏi mình có thật sự đồng ý không. Nếu có thì gật, gật cho tròn. Nếu không thì tôi thử nói nhẹ nhẹ, kiểu "để em nghĩ thêm chút", "cái này em thấy hơi khác". Lần đầu nói xong tim đập thình thịch, hai bàn tay ướt, mà trời cũng chẳng sập.
+
+Có lẽ cái lắc đầu thật thà, dù bị chê cứng, dù khiến bữa cơm im đi một chút, vẫn còn quý hơn cái gật tròn trịa mà rỗng. Ít nhất người nói ra được hôm đó, tối về ngủ ngon hơn.
+
+Mà nếu chưa dám lắc thì cũng chẳng sao. Thôi thì mình cứ đếm tới hai trước đã, rồi một hôm nào đó, biết đâu cái đầu tự nó đổi chiều.

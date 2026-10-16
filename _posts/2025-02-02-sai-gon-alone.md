@@ -1,81 +1,32 @@
 ---
 layout: post
-title: "Sài Gòn buốt dọc sống lưng – Rớt nước mắt phận người giữa chốn phồn hoa"
+title: "Đứng giữa chợ Bến Thành mà thấy lạc"
 author: Vincent
-categories: [doi-song, pho-thi, tam-ly]
+categories: [sai-gon, pho-thi, tam-su]
 image: assets/images/17.jpg
 tags: [featured]
 ---
 
-# **Sài Gòn buốt dọc sống lưng – Rớt nước mắt phận người giữa chốn phồn hoa**
+Sài Gòn có tòa nhà chọc trời, có đèn neon rực rỡ, có những con đường dài như không bao giờ hết và xe cộ ngược xuôi suốt ngày đêm. Vậy mà giữa chừng ấy ồn ào, tôi vẫn gặp một thứ cô đơn âm ỉ, len vào từng ngóc ngách, từng quán cà phê vắng khách, từng con hẻm lặng đi sau buổi chiều muộn.
 
-Sài Gòn – cái xứ bề thế hoa lệ lấp loáng những bóng cao ốc đâm rách trời, đèn neon phả vào đêm thứ nhan sắc rực rỡ đến man rợ, với dải nhựa láng mướt cuồn cuộn những kiếp người ngược xuôi.  
-Nhưng hỡi ôi, ngay thắp trên lớp phấn son ngồn ngộn của cái nhịp sống cuồng nộ ấy, có một giống **cô đơn âm ỉ nhức nhối**, len lỏi vào từng kẽ gạch ống xám xịt, lết qua từng cái ghế nhựa vắng tanh ở quán cà phê nhang mũi đá, và thõng thượt luồn sau lưng ai đó trong con hẻm chật chội rát bỏng lúc mặt trời tuột dốc.
+Người ta đến Sài Gòn với hoài bão, với ước mơ, và với một cái balo hay hai bàn tay trắng. Có người tìm được chỗ đứng, có người loay hoay mãi. Cô đơn ở đây ít khi là chuyện thiếu bạn, nó giống cảm giác mình không thuộc về nơi này hơn, kể cả khi đang đứng giữa đám đông.
 
-Thiên hạ xách mo cau lên Sài Gòn khệ nệ bao hoài bão, hăm hở bao mộng mị đổi đời, nhưng mèn đơi, **có phải ai cũng kiếm được cho mình một chỗ cắm dùi khỏi lạnh chân đâu**.  
-Cô đơn ở cái xứ này nó lạ lắm nghen. Nó hổng phải thiếu hơi bè bạn vác bầu rượu tạt lon, mà là nỗi bần thần, hoang mang, **nền gạch mòn vẹt này vĩnh viễn đéo thuộc về mình**, cõi ruột nát ngọc toái bơ vơ dẫu đang nằm kẹt rịt giữa cơ man vạn người.
+Có hôm tôi đi bộ trên đường Nguyễn Huệ, thấy dòng người cuộn trôi. Ai cũng bận, ai cũng vội, ai cũng bước thật nhanh như sợ chậm một nhịp sẽ bị bỏ lại phía sau. Nhìn vào mắt họ, tôi thấy một nỗi gì đó không gọi tên được, giống đèn xe hơi sáng mà bên trong tối. Tôi cũng đi nhanh như vậy, nên chắc mắt tôi cũng thế.
 
----
+Nam Cao từng viết về những mảnh đời cô quạnh giữa làng quê, và tôi nghĩ Sài Gòn cũng có mảnh đời như vậy. Chỉ là thay vì đồng lúa, thay vì ngõ nhỏ, nỗi cô quạnh ở đây trốn giữa tòa nhà cao tầng và quán xá đông đúc, im như cái bóng mà chẳng ai ngó thấy.
 
-## **Lạc lõng giữa mòi sống vội vã**
+Chiều nọ tôi ngồi quán cà phê nhỏ trên đường Lê Thánh Tôn, nhìn ra phố. Một cặp đôi ngồi đối diện nhau, im lặng, mỗi người một ly nước đã chảy hết đá. Một cậu thanh niên gõ điện thoại liên tục mà mắt cứ xa xăm như đang gõ cho một nơi khác. Ngoài cổng, một bà cụ bán vé số cười nhạt, bàn tay run run đếm mấy tờ cuối ngày. Mỗi người một kiểu cô đơn, không ai giống ai, cũng chẳng ai nhìn ai.
 
-Đâm chéo qua phố đi bộ Nguyễn Huệ, tui rùng mình dòm cái ròng rọc nhân gian cuồn cuộn đổ dồn.  
-Thiên hạ ai nấy mặt mũi đanh lại vì bận rộn, quờ quạng, đôi chân guồng hết cỡ như chỉ chực trễ một nhịp là đời nó nhả mình ra bìa bãi cỏ non.
+Cô đơn không phải lúc nào cũng ồn ào hay đau đớn. Nó thường lặng lẽ, thấm dần, như giọt cà phê sữa tan trong đá, vừa ngọt vừa chua, vừa ấm vừa lạnh, uống mãi mới nhận ra mình đã quen vị.
 
-Thế nhưng, xuyên qua cái vẻ bóng loáng đờ đẫn ấy, tui chép miệng tóm gọn được một chữ nhức buốt: **thói cô đơn ứa mật**.  
-Nó quỷ quyệt chui lách qua tiếng nẹt pô tức tưởi, trèo lên vạt đèn pha đỏ quạch, chầu chực nhai nuốt cái thứ gọi là phồn vinh mứa ứ.
+Người ta nói Sài Gòn là nơi cơ hội tràn ngập, và đúng vậy. Nhưng nó cũng là nơi bạn có thể đứng giữa chợ Bến Thành đông nghịt, mùi cà ri, mùi vải, tiếng chào mời cả trăm giọng, mà thấy mình lạc hẳn. Thứ thiếu ở đây thường là người nói chuyện với mình thật lòng. Thiếu ánh mắt thật, câu chuyện thật, nụ cười không để bán hàng. Thay vào đó là màn hình điện thoại, mạng xã hội, những quan hệ hời hợt, hẹn nhau rồi hủy.
 
-Nếu cụ Nam Cao thuở trước cầm viết mà đục khoét tâm can của những mảnh thi thực mốc thếch chốn lang vườn, thì giờ đây, tui dòm thấu cái điệu bộ thị dân trơ trọi Sài Gòn cũng thê lương không kém.  
-Chỉ trật có một nếp: Tỷ như dứt bỏ cảnh bãi chuối ruộng ngô hay lũy tre xác xơ vắt kiệt, cơn cô đơn thị thành chọn cách **nằm im lìm kẹp giữa rãnh tường bê tông và ly bia hơi lề đường**, hiện hồn như một trảng bóng ma mờ mịt mà dân tình cắn răng giả đui đi khỏi thấy.
+Tôi nghĩ Nguyễn Tuân mà ở Sài Gòn thì sẽ mê mải ngắm cái đẹp trong những chi tiết nhỏ, như cách ánh đèn đường rọi lên áo mưa của người chạy xe công nghệ. Và cái đẹp ấy cũng có chút cô đơn, vừa phức tạp vừa dịu, làm người ta phải ngoái lại nhìn mình.
 
----
+Cô đơn cũng không hẳn chỉ là nỗi buồn. Một buổi chiều đứng trên cầu Thủ Thiêm, nhìn sông Sài Gòn chảy lững lờ, nước nâu phù sa mang theo mấy cánh bèo trôi xuôi, tôi chợt thấy lòng tĩnh lại. Cô đơn khiến mình nghe được chính mình. Nó dạy mình để ý những thứ bé tí, như hơi ấm cái ly, câu hỏi thăm của bác bảo vệ chung cư, nụ cười của cô bán xôi mỗi sáng. Những khoảnh khắc gần gũi hiếm hoi, nhờ cô đơn mà tôi mới biết quý.
 
-## **Cay đắng bên ly cà phê đá giọt gian lao**
+Có những hôm tôi thấy mình giống nhân vật của Nam Cao, lặng lẽ, chịu đựng, ngồi quan sát. Sài Gòn dạy tôi bình tĩnh giữa hỗn loạn theo cách đó, dù chưa hẳn là cách dễ chịu.
 
-Tui vùi thỏm lưng ghế quán cà phê bạt phếch vỉa hè Lê Thánh Tôn, thả cặp mắt mòn mỏi ngó cái dạ dày đường phố ợ lên dòng xe.  
-Cặp trai gái ở phít bên kia ngồi đối diện thẳng tưng, chẳng buồn hé mõm.  
-Thằng nhỏ thanh niên bấm bàn phím quẹt quẹt hăm hở, nhưng ngước đôi con mắt đục ngầu vô hồn qua rặng me dằng dặc.  
-Rồi bóng bà má bán vé số trượt xẹo qua vỉa hè, tay sần sùi rút xèng mấy mảnh vé rách rưới thoi thóp ế khách sau bão giông, nụ cười nhăn nhó chưa kịp chín rụng tơi bời.
+Tôi nghĩ cô đơn là một phần của thành phố này, như khói bụi và mưa chiều. Nhờ có nó mà Sài Gòn mới thật, mới sống động, mới đáng thương theo cách riêng. Một thành phố cô đơn nhưng không trống rỗng, vì trong từng căn gác trọ, từng xe hủ tiếu đêm, vẫn có người đang nấu một bữa cơm cho mình, đang nhớ mẹ, đang tự nhủ ráng thêm chút nữa.
 
-Họ hiện hữu cả đó, rờn rợn mà đặc sệt sinh khí, song nhói một điểm chung: **mỗi thân hình đều nách một gánh cô đơn lầm lũi không ai giống ai**.  
-Cái thói cô đơn hổng cần phải la bãi bai rú hét thảm thiết xé lồng ngực.  
-Nó chảy âm, ngấm ngầm tàn nhẫn y như giọt cà phê đen kịt tan chầm chậm vào dăm cục đá xay dập, ngậm vào miệng thì vừa chua ngoét vừa đắng chát, bụng thì vừa nóng như đốt lại lạnh cóng như băng bó xác chết.
-
----
-
-## **Sài Gòn – Cù lao của những thân dạt sầu đong**
-
-Miệng đời chắp vá đồn rằng Sài Gòn ngồn ngộn "chum lộc cơ hội vàng rơi rớt khắp hang ngõ".  
-Song cái xứ này cũng vô tình dung chứa **những linh hồn dạt vòm lọt sàng xơ xác nhất**. Thiệt thòi tới độ, mầy đứng vùi ngập rốn giữa cái chợ Bến Thành chen chúc mua bán, vẫn rụng rời nghe tim đấm thùng thùng trống canh lạnh lẽo giữa trời hoang.
-
-Trơ trọi đất này hổng phải vì nghèo người, mà vì **lửa lòng sụt rỗng hổng tìm nổi bến đậu chân tu tu nối mạng thật sự**.  
-Đứt đoạn luôn cái ánh nhìn tóe lửa thật, cúp ngang vành môi trò chuyện thật, và thiêu trụi từng nụ cười rút ruột chân quê.  
-Vung thay vào mạn sườn là một đống màn hình vuốt ve mơn trớn, là những ảo giác xã hội phủ mạng, là mấy cái thói quen quan hệ vội vã, gặp nhau để toan tính lợi dụng dăm bữa rồi hời hợt chùi mép vác đít đi.
-
-Tui sực nhớ Nguyễn Tuân thời hàn vi từng điên dại lùng sục vẻ mĩ tú tàn tạ trong những vát chi tiết ám mùi xế bóng; ngó lại Sài Gòn hôm nay tui ứa gan mà phục sát đất:  
-Sự xơ xác dạt dẹo chốn này đẹp đến não nề, tàn nhẫn và đa bề đến nghẹt thở, ngắm nó khiến một gã chai sần cũng phải khựng lại mà lấy tay rờ xem rốn dạ mình lở loét ra sao kìa.
-
----
-
-## **Nỗi buồn là cái kính soi đáy rễ tâm can**
-
-Thế nhưng, ngẫm cho trót, mang cái trói cô đơn hông phải rặt là nhúm khói mù màu xám tang tóc.  
-Nó lại là cái mỏ lết quý báu nhất để con người ta **bổ nhào vào xả cái túi rác ở lòng mình**, để người ta còm ròm **chạmn mạch trần thiết với hồn Sài Gòn theo nẻo luân hồi cá biệt**.
-
-Cái chiều nắng quái tắt lim rím trên thành cầu Thủ Thiêm, đứng há hốc mồm dòm dải nước sông Sài Gòn lình bình trôi rác rưởi lục bình lẫn bóng chiều chập nát, tui vỡ toang một cõi:  
-Cô đơn ép lồng ngực ta **chìm lịm xuống tĩnh lặng mướt mồ hôi**, mài sáng trí khôn ráng **thấu thị cặn kẽ những vụn vặt tí hon hôi hổi quanh mình**, khiến ta tứa nước mắt vì phải **nâng niu cái khoảnh khắc sờn xơ hiếm hoi mà thường nhật ném toẹt**.
-
-Một sự cam chịu trơ trẽn đầy gai góc của đám thị dân khư khư chịu đòn mà ngẫm nghĩ cõi nhân sinh mỏi mòn, như thể gã Trí gầm gừ chờ bão lớn của Nam Cao đời nào sực tỉnh; Sài Gòn quả nhiên đánh người ta tơi tả, nhưng nhào lặn xong cũng độ cho người ta đôi chân trần **bình tâm vượt ải giữa dòng thác loạn ngầu đục trần ai**.
-
----
-
-## **Khép nắp đời – Sài Gòn buồn thiu nhưng ngùn ngụt lửa sống**
-
-Nỗi quạnh hiu bám rễ rồi, cạo chẳng đi, dứt chẳng ra đâu nơi thóp mảng tường Sài Gòn tì vết.  
-Thành thử, chính bởi cái nhức nhối ấy thì cõi đô thành phồn mắm dặm muối này mới vật vã sống, mới thật sững sờ, mới chua cay quyến luyến bằng cái lề tàn nhẫn đặc hiệu rặt nam bộ rảo buớc giang hồ.
-
-> **Sài Gòn buốt óc vô chừng, nhưng hổng có thóp lõm rỗng rênh rách rưới.  
-> Cái ruột nó nén chặt phồn thực cơ man những câu nói dân rã buông tuồng, muôn kiếp người lê lết giấu mặt làm thinh, vô vàn giọt phút êm lìm mà thắt ruột.  
-> Và giữa mâm nôi cô độc sình sình mùi rác cống ấy, loài người ta rốt cuộc vẫn trôi chảy, vẫn moi cách yêu thương vỡ lở, dậm chùi nước mắt ngó trời và ì ạch đi tiếp.**
-
----
+Nếu tối nay bạn cũng đang ngồi một mình ở đâu đó giữa thành phố này, thôi thì mình cứ ngồi vậy. Biết đâu bàn bên cạnh cũng đang nghĩ y như bạn, và chỉ cần ai đó cười trước.

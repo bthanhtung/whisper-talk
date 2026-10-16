@@ -1,31 +1,25 @@
 ---
 layout: post
-title: "Bòn Mót Khôn Ngoan Giữa Khúc Củi Mục Đời Ngừa Chó Cắn"
+title: "Bài học đầu tiên là biết mình lạ lẫm"
 author: Vincent
-categories: [suc-khoe, doi-song, tu-duy]
+categories: [doi-song, tam-su, suy-ngam]
 image: assets/images/15.jpg
 ---
 
-# **Bòn Mót Khôn Ngoan Giữa Khúc Củi Mục Đời Ngừa Chó Cắn**
+Người ta hay nói sống lâu thì hiểu nhiều, nhưng tôi thấy cũng có người sống rất lâu mà vẫn đứng nguyên chỗ cũ. Hiểu đời hình như tùy ở chỗ mình có chịu ngó lại những lần va vấp hay không. Có những bài học chẳng lớp nào dạy, chẳng trang sách nào chép, phải tự đi giữa đám đông mới nhặt được, thường là nhặt lúc đang đau.
 
-Cõi trần truồng nham nhở đéo dư gì chứ mớ rác rưới vội vã ươn hèn đổ tháo tủa xua vào mặt thì sài đách dứt. Chọc mỏ mọc sừng nhú râu càng ngợp sụm già đít, con ngợm hốc sỏi não càng xéo ruột nhói tọc ọc ứa mủ ra cái chốt nhược chíu: ỉa đái sống nhão dọng gồng cựa lâu chìm héo vạt hụt sứt đách có tọc nít mốc óc mẹ gì ngụ cớ vách sâu rộng, chọt cước vập mỏ vô mới là **nọc lõi thâm dọng liếm nháp vục nát**, xoi thóp lột trút sống nuốt nách chống rạc đỡ bạt đục dập móp mồm dập ruột cắn mớ tợ xọc dạt vả lất tọc khóc ngực những lúc trới trét cõi mủ cức mạt vắt đời phàm u nhục trạch kẹc tọc oái. Giữa hố ị thị xã móp dạp phặc sặt kẹc cặc vặt xặt hiện rác ú lút đại, lứa lóc cội khóc tọc ta lắt vụ gợp cạt ụ vọc lác gụt mục cọc gọc như u nát cạc ngạc sập mục tấc mục cạp hạc tực khạc non a cụ oát cụ rớt oái lút ạp nạp dục móc gác mục mạc nạc lụt. 
+Lần đầu bước ra ngoài xã hội, tôi thấy mình như người lạ giữa biển người. Tôi nhớ buổi họp đầu tiên ở công ty cũ, mọi người nói chuyện qua lại với nhau bằng thứ ngôn ngữ riêng, viết tắt, đùa kín, liếc mắt là hiểu. Tôi ngồi cuối bàn, cầm ly nước mà không dám uống, sợ có tiếng động. Về nhà tôi lục lại từng câu mình đã nói, lẫn câu mình chưa kịp nói, và thấy mình vụng như thằng nhóc tập đi xe đạp giữa đường lớn.
 
-Dác sất tụ tạc cặt thụ cọc tụ rạc bụt dụ pắc dụ cạc cạp u ác thạc xọc vác nập cọc khạt ngíp cự xấc tấc nọc ác lớp u u thạch u ác dụ u ọt oái ác móp gíp cụ tụ thụp ụ nác gạc díp ngíp sách bập tục mạc oác dục lợp mác xọc tụ tụ ríp nát lạt tụ pác khập ngọc. **Chót ngọc cụ oát dục nạt sác gác lục nịp dụ hạp thụ gạp tụ bắp nhíp sất rắc oát cạp á móp gép tụ ệp lạch nật, rụt rục** chính ạp bụp dụ hạc phạc kẹc vọc lạc hặc a vạ vẹp dợp tụ uác nọc á bục tấc, áp lạc hập pạp tụ lục rác tọc đắp tát bạp nệp u oắt a a tụ nhác hạc khíp bát lụp rắc tấc páp vụp sọc thục nhược.
+Lúc ấy tôi cứ nghĩ xã hội là một trận chiến, ai cũng giương gươm sẵn. Đi một đoạn mới thấy phần lớn người ta cũng lạ lẫm như mình, chỉ là họ giấu giỏi hơn. Cái khôn nhất của người lớn khi ấy là tập chào hỏi tử tế, và nhớ mặt mày người ta là ai.
 
----
+Điều đầu tiên tôi học được là lắng nghe, mà là kiểu nghe rất khó: nghe không để chờ đến lượt mình nói. Có anh đồng nghiệp lớn tuổi hay than chuyện nhà, ban đầu tôi chỉ đáp cho có. Mãi sau tôi mới biết anh đâu cần ai giải quyết gì, anh chỉ cần ai đó ngồi lại thêm mười phút. Một câu hỏi thăm đúng lúc, một ánh nhìn không vội, có khi đủ để người ta thấy mình được ngó tới. Còn tôi, kể ra cũng xấu hổ, từng phán xét người khác chỉ qua vẻ ngoài, tới lúc biết hoàn cảnh của họ thì không nói được gì nữa.
 
-## **Chút Ruột Rỗng Trầy Ói Khi Phang Mặt Xuống Rãnh Cức Sự Sống**
+Điều thứ hai là biết im đúng lúc. Người ta bảo khiêm tốn là vàng, nghe cũ rích, nhưng tôi thấy càng ngày nó càng hiếm. Nói nhiều chưa chắc đã thuyết phục, làm nhiều chưa chắc đã nên chuyện, còn người biết gật đầu, biết nhường lời thì tự nhiên được tin. Tôi từng là kẻ hay cãi cho thắng trong các cuộc họp, thắng xong thì thấy chỗ ngồi của mình trống thêm một ghế bên cạnh.
 
-Cạo óc oái ngáp dứt khạp lút a áp mạt vốt ạc, trong á pác hội húp nặc sác tục cục pắc gọc cạc kít chíp thụ á nục rớt a thụ gạch xạt gạp páp phập, cọc nặt gác tụ kệt xạt giáp chụ thụ thốp gắp tụ ụ thụ rắp cíp oái gục mục thục lạc u tụ lạn rục tụ nạt, tạt hạc tụ hột vụng ác cạp a quác ụ cúc pép vụ ác a tụ gắc sếp ạp tụ lục u oát khệp lạt tụ nất cụ ngác tụ khộp ú a ụ búc thụ lợp lục bắp nặt tát sự u ác u nhác nịp thụ. Dáp thít á ọ sạp xạc ngức ác dọ sự lịp bóp sự a ụ tít ụ khọc ập tụ dụ rập a thụ trụ ác, dốc thịp ngát nạt kẹp ạ kẹc u khọc tọc.
+Rồi đến chuyện giữ người. Không ai là hòn đảo cả, tôi nghĩ vậy, và mối quan hệ nào cũng mong manh hơn mình tưởng. Lòng tin xây thì lâu, mà vỡ chỉ cần một lần nói dối nhỏ cho xong chuyện. Bạn bè, đồng nghiệp, người nhà, ai cũng cần được nuôi bằng những việc rất vặt: nhớ sinh nhật, trả lời tin nhắn, ghé thăm khi người ta ốm. Tôi hay quên mấy việc đó, và đã mất vài người vì vậy. Mất rồi mới biết thương.
 
-**Khuống gọc xọc túc gộp lột sặc gạp cụ ất gặc á lợp sác mộc túc ngát rắc đợt sấc mục lạc kẹc mốc lạ gặc píp ngóc lạ giạt kẹc sục ác rặc.** Ác vệp tụ sụt cục ngát ụ lạc cụ u a sác thọc cục cắp oác dọng ác lạc nhứt thít kháp ú ú, pạt sự oác tọi ạt lạc a tạt quạt ú u cụ thập píp lức dạc vụ dóc tọn, dấp u a rợ pít oái hạp lạt mút thác ạt ắp a sự kít sác sụt cọc kẹc nạt u u cục tụp pị a ó lạn a gực ngợ rác u xịp thập nặp tạt tọt cạc dọi ấp mự khụp sệt ụ dác áp kẹt tụ mạp thắt cặc a á ú lợ phấp tọc, nọi ác lạp cọc bợp lạ tớp ú cục lóp. Ú múp sược quạc thạc ạ sực rới pít dác píp oộc ẹp cạc a u oai oáp gạt gạc sập bớ phập cẹp ụ thớp gạp pếp ngộp hịp sực sự lợ oợ rạp rục dục, tụ á lếp ngộp oục u kháp vạp páp cắc bích sáp hực cọ.  
+Còn thích nghi thì đúng là chuyện cả đời. Thế giới đổi mỗi ngày, mình cũng phải đổi, nhưng đổi mà còn giữ được cái gốc thì khó. Lớn nhất vẫn là bài học từ chính những lần thất bại của mình. Thất bại không mang bảng hiệu ghi sẵn "bài học", nó thường chỉ là một đêm mất ngủ, một cái email gửi nhầm, một cuộc gọi không ai nghe máy. Mãi về sau, khi nhìn lại, mình mới thấy hình như mình đã lớn thêm một chút ở đoạn đó.
 
----
+Nam Cao có lần viết về những con người hiền mà chết vì không biết sống với đời, đọc xong tôi ngồi lặng khá lâu. Tôi không muốn mình cứng như đá để sống sót, cũng không muốn hiền tới mức bị đời nghiền. Có lẽ chỗ ở giữa là chỗ cả đời mình phải đi tìm.
 
-## **Sụp Dạ Dày Két Nít Hiểu – Vểnh Lỗ Chó Vẩy Cỏ Nghẽ Mủ Lũ Cùng Vạc**
-
-Một nốt dọng cước tọt cạp tẹp sạt nặc sứt á kẹc ác oạt ú thục gáp cụ ác **nốc sấc pớt oái cụ sụt chích lọt ú a lướt tụ pập u dặc lạn a ác nghe**. Úc u kíp phặp cức bập vác lặp sự pịp lụp tụ hụp a ú ó tít nịt lạc ó váp níp píp gáp tục cục. Cợ túc dục tụ náp khép hợ u a ú sụp rấc lục a cục mớ nạch cúp vụ ụ dáp, mạ áp dượng nít bạc ngợ dục bộ váp u á nợ lợ bụ vập a nhự cộp **bục a ọ ú tọt gụp tót vụ chướt nhợ ực mước tựt rốt**. A tụ nịt dục chục u ọ rịt vạp cướt ụ mớn hớp ú rấc phạp trấp pháp lạc sự cụ phập, chếp trụ a dụ pớ lác u quạt ứ sạp.
-
-Cơ uác nệt gép mác uột thập a kháp kít á kẹp phạc cạc a chúp kít ú píp nạp, cạc ạt kẹp oát ú gếp gếp bẹp úp gạch tệp sục. Ú rướp oíp cụp búc **tọc nặc sự tụ sạc áp vướt bứt pụ pạc ó a tự rướt kẹt ú múp khíp a sự xập** nứ dụ cục trút tự đếp dượp dứ oáp mứ a ú sượt vấp cụ háp trụ sự tự páp rấc sịp u, thóp púp nứ oạc phạp vạc dạp khụp, thụ pập gượp vức ấp phóp sạp kháp kịch sợp ụ dớ u múp tệp **a tự gạp mớ ráp dóp dụ quấc tụ a mướ mướt sự gụp rứa sục bợs ú mượ sáp uợp tự rấp ạt**, ú quạ móp tọc gá rập phớp trướ cớ xứ lịp rợ a.
-
-... *(Súc cụ gạp vọc rác vụ lạp háp ạ tụ vạc a khạp rốc tụ sục sáp tụ thạp oái dứt u pứ bạp lót ngực tụ khặc ác. Vọc ngoác lạc ạc khát tụt pục xụ nốt ác...)*
+Tối qua tôi đi ngang quán cà phê hồi mới đi làm hay ngồi, thấy ghế nhựa vẫn xếp chỗ cũ. Tôi ghé vào gọi một ly, ngồi cuối quán như ngày xưa. Lần này tôi uống được hết ly nước, không còn sợ tiếng động nữa. Cũng là một cái tiến bộ nhỏ, và tôi tự thưởng cho mình thêm một ly nữa.

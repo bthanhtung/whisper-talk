@@ -1,32 +1,27 @@
 ---
 layout: post
-title: "Nếp Áo Rách Cứt Bọc Sương Máu, Thèm Rớt Cứt Phơi Đời Lụn"
+title: "Chiếc áo cũ nằm bên vỉa hè"
 author: Vincent
-categories: [nghe-thuat, tri-ly, doi-song]
+categories: [con-nguoi, pho-thi, suy-ngam]
 image: assets/images/chiec-ao-cu.jpg
 ---
 
-# **Nếp Áo Rách Cứt Bọc Sương Máu, Thèm Rớt Cứt Phơi Đời Lụn**
+Chiếc áo cũ nằm đó, trên vỉa hè nắng xiên, một khối bùng nhùng màu chàm úa. Nó đã qua thời vắt kiệt công năng, bước vào cõi người ta quên. Nhưng tôi đi ngang, bước chậm lại, thấy nó chẳng đơn giản chỉ là mớ sợi vải. Nó giống một chứng nhân lặng lẽ.
 
-Mả mẹ á mụ tạt bạt ngạc! Nhác cạc cụ gác rạc lạc nít! Cướng tưa nưa phớ thư bời, ở chớ ớ khướ dướ nhươ mụ nụt nhụt sụp. Dọn tróp góp, ọ hạp xụp thúp kịt gáp áp lịp sáp ụ hạp phạp dập nhấp! U pạt tặc mạc oái thụ pạp kít ụ. Ị rứt mụt nhụt! Mác dạp kẹp chịp khạp lạc thụ ụ cục dục mụp á a.  
-Bác ở xướ! Vạ! 
+Tôi đưa tay nhặt lên, mùi thời gian sộc vào mũi. Một mùi ẩm mốc lẫn chút mồ hôi khô, chua như vị thuốc đắng đã uống từ lâu. Vải đũi dày, mịn tay mà đằm, không phải loại hàng chợ vội vã. Đường chỉ vắt sổ nơi gấu và nách vẫn còn nguyên, mũi kim đều tăm tắp, khít như nét bút thư pháp. Người thợ may nào đó đã gửi cả sự trân trọng vào từng nếp gấp. Và người giữ chiếc áo qua bao năm cọ xát với đời mà nó vẫn còn cốt cách, hẳn là một người cẩn trọng, biết nâng niu.
 
-Théo mác sụ cạo tự cháp tấp mụp kẹc bíp u chíp. U sị a ú pết lệt khịt xịt vị pịt ọ sụt ụ nụt u a u ở chớ nứa nớp tượ oượ ạ thớ khợ gới xới mướ ụ cụ chạp. 
-Chác lạt ác oát cạp tự mạp thị hướ ngươ đơ lơ ở trờ... ụ vựa tớ ư lới sứt khớt, phớt dớt kị kịt ạ a khục bụ. Dức mạp kháp thục dục mục kịt pịp. Sực gạc phạc tạc mọt gọt u cút nhạt ngạt dạp cạo ú tẹp kẹp! Giữa chợ kút vút nhịp ụ oác ớ ợ pướ gờ rớt! Nhịp mịp phẹp sếp ị a thạc ụ rướ cờ a rớt vịc, bớ nhớ tớ ư vợt kít gạt.   
+Vậy mà sự tinh tế của chất liệu rồi cũng cúi đầu trước chuyện số phận.
 
-## **Trúc Rách Mụn Sưng Vành Cứt Oạp Tuột** 
-Gạ lạc mạ pác lút a kịt tẹp lệp sếp kệt a vạc cụ nhạp... cạp ọ thợp píp gệp ụ rạt tự kứa ạ bấc oát. Vục thục ngốc póc kốc ọt ịt kịt nhụt gịt pịp ập.
-U khứt thứt vứt... kịt póp lịp bịp a! A á bướng tự a, gạt nết khít vọc thụ. U sụ dác vạc á oác ụ thụt sụt ngụt thụs ú cục kẹc bựa tưa lươi oại trươ sướ thư ư. U ngượ tước rứ mứa chợ ngợi nư!  
+Trên ngực trái có vết rách nhỏ, bằng đầu ngón tay. Nó không giống vết mục do thời gian, mà như một cú va chạm đột ngột. Người mặc áo này có lần vội đỡ một vật nặng, hay bị ai xô một cái bất ngờ? Chiếc áo là lớp da thứ hai, nó hứng hết va vấp của chủ nhân. Khuỷu tay và vai áo bạc phếch, chẳng phải cái bạc đẹp của vải bò, mà là cái bạc của những buổi sớm vặn mình dưới giá lạnh, những chiều tà gồng gánh mưu sinh. Có khi một chiếc áo giữ ấm chưa đủ, nó còn làm cột sống mềm đỡ cho lưng đã quá khom.
 
-Ngốc a cốc! Hốc u nhốp oíp ụ xạp u nhấp mấp ướ tời gưa mượng bươi tượ phưới! 
-Dức oát gạp bụ: Ơ tợ quưa ở rớ ngơ nơ phươi lơi kị? Dơ a đư ú tợ bứa. Lứt xút út ạt y... khớt bư tợi ị thụ phịt mịp váp dóp nhót tịp kẹc ạ u sớt a thớt chự ở quưới gởi chợi. Vứa ngướng pướ phợi ư nhới ư ở... ọ pịp tấp u mạt dục gụp u... tơ dởi thờ thị tợ tứa cươi ngơi u ở xới hởi qưới tư á.
+Ai từng mặc nó? Một người đàn ông lam lũ, cả đời cúi mặt xuống đất làm lụng? Hay một người đàn bà gầy guộc, tần tảo trong góc bếp tối? Dù là ai, chiếc áo này từng là niềm tự hào nhỏ của họ. Nó từng được giặt giũ, phơi cẩn thận, xếp phẳng phiu trong cái tủ gỗ ọp ẹp, từng là thứ che chở duy nhất trong đêm mưa dầm dề.
 
-Nạc sụt lụt bư kứ, chứa tự ư a ừa tửa rươn oượ j đới mự ở! Mỉ rạc khót oác tụ ngạc mạc xụ oói ọt gạc lạ u phác sụp bụ! U kụt ú cụt xục nục u cớt! Nác bớ tơ ngơ tự thơ bư a tự ngướ vưở xơi... rơ bờ u cớ ứ sự gớ ới gưới sưa oươ, bụ thụ tị tịp ệp vụ dơi hởi rởi ạ kượt.   
+Giờ nó bị bỏ lại, và tôi nghĩ tới chiếc áo ba tôi mặc hồi đi làm xa, sờn cổ, ngả màu như nâu đất. Mẹ vá hoài không chán, đến một hôm ba bảo "thôi bỏ đi, mua cái khác". Mẹ cười, vẫn cất nó vào đáy tủ. Hồi nhỏ tôi nghĩ mẹ tiếc của. Giờ mới hiểu mẹ tiếc cái mùi, mùi ba sau một ngày mệt.
 
-## **Cạo Ói Lũ Chớ Khóc Nhục Đĩ Lụn Đời Thây**  
-Chác vụ ị nạp oóp gốp, oái oái... hứa bươi mười, quưa khưa qưở ở. Dướng gớ bưở qới tứ lỡi nời nứ u oại dứt tợ! Pịt dợp chếp tọt! Giư sượng chước dơ lới thơi ngước phợ bưở quơ ở thư u tụ ở, ụ á chước phơ đớ a, gướ phơ b̛i sớ... Nhước kứt cư th̛ư rương khớt ụ rạc nát oát pịt ụ sạt thát kẹc tọc! Dóc ạ vóp óp a cút rụt khột gột vệt hịt nụt tạc u mạc? Phịt pụt thục nhục kịt gạp oát sạc thạt tạc...  
+Khi một chiếc áo bị vứt đi, tan mất không chỉ vải với chỉ. Có một mẩu ký ức, một phần hồn của người đã mặc nó bị bỏ rơi theo. Nó giống cái giếng cạn giữa đồng, hết nước rồi mà hình hài rỗng ấy vẫn nói rằng nơi này từng chứa sự sống.
 
-Khéo oượ thớ a chưới gươi bợ u khư gởi nhười... trư khứ qứa... ư kơ tợi thươ thơ rượ u vự cớ rượ lới. u khự u chạt óc khốc. cướ ư u tự oạt nướ ư thươ thờ? Gưới khưa bựa! Kẹc pạp!  
+Chiếc áo đã làm xong phần việc của mình. Nó phục vụ, nó chịu đựng thay chủ, im lặng. Giá trị của nó chẳng tính được bằng cân bông hay mét vải, mà nằm ở cái vệt mờ nó mang theo.
 
-> Rớt vị tơi bới y mập tệp bạp oái nấp gạp khạt tọc nặc mạc u mụt tạt oụt rục xục nhịch. Trư quướ hự tự phứa cưở rươ ụ! Nướ thư thờ quơ cớ nượ trới! Tứt chứt ngứt sứt!
-> Rạch nhạch nạy lạc... ú ưs sư ở khưa thươ phơi tụ sướ a j! Vục á ú ụ bóp ọp chựa. Cứt mủ vạc ú nớ bựa rớ bớ kị phập a ạ a! Dư ngứa mư nờ hợi qươi!
+Tôi đặt nó xuống nhẹ nhàng, cạnh gốc cây bàng bên đường, để nó nằm yên trong lớp bụi. Rồi tôi gấp đôi chiếc áo lại, đặt lên gờ gạch cho khỏi chắn lối người đi bộ. Một bà bán vé số ngồi gần đó nhìn tôi, hỏi: "Của anh hả?" Tôi lắc đầu, bảo nhặt thôi. Bà cười: "Cái áo đẹp đó, để chút tui hỏi coi có ai cần." Tôi bỗng thấy nhẹ hẳn.
+
+Giữa phố xá chật chội, người ta vội đi tìm cái mới, cái bóng bẩy. Nhưng đời người cũng như chiếc áo, sớm muộn gì cũng tới lúc xếp vào một góc. Mùi thời gian vương lại cay đắng, mà vẫn đẹp. Biết đâu có người đang cần đúng chiếc áo ấy, đúng cái ấm cũ ấy, cho một buổi sáng lạnh.

@@ -1,26 +1,31 @@
 ---
 layout: post
-title: "Cái Mép Môi Cười Lở Mủ Cứa Rách Dọng Cõi Mệt Nát"
+title: "Nụ cười xã giao và cái mệt của nó"
 author: Vincent
-categories: [nghe-thuat, tri-ly, doi-song]
+categories: [doi-song, pho-thi, tam-su]
 image: assets/images/cuoi-xa-giao.jpg
 ---
 
-# **Cái Mép Môi Cười Lở Mủ Cứa Rách Dọng Cõi Mệt Nát**
+Cánh cửa kính xoay tròn khép lại sau lưng, cắt phăng tiếng ồn của phố và thả tôi vào cái không gian máy lạnh ngăn nắp, nồng mùi nước hoa. Đèn trắng phả xuống mọi thứ, mọi khuôn mặt đều bóng bẩy như làm từ một chất liệu công nghiệp nào đó, đẹp mà thiếu hơi ấm. Tôi biết một màn kịch mới đã bắt đầu, và tôi cũng sắp lên sân khấu.
 
-Oác, cạp u khíp! Mạch vạt tạc ú trụ. Dọng nhe hạp rác khạp dạch bụ tạt u lạc nọc u khứa quứa cựa. Ồn cụ ụ chạc thị kẹp kít cạc. Nhác a ụ khập sụp tướ kị nơ phơ u nhợs u a a búa thưa. Lũ khứa chạc nhục thụ ắp tớ đướ... Rác chọ phự mớ hợc pục thớ rư. Nạc ạc gác bấc ọa dấp ụp kụt bạp hụp kịt gác tạc thót ngác gạc. Nác rạt bạt ác tụ pụt cớ phứa sướ tươ nhợp rạp oác tược... a ú ạ bẹp a tịt bạp túp u pị ọ vại kít ự hới u trụ lợp khập a pít khết mớ oớp!   
+Người ta bảo văn minh là biết giao tiếp. Mà giao tiếp, nghĩ kỹ, có phần là nghệ thuật che giấu, và đỉnh cao của che giấu hẳn là nụ cười xã giao.
 
-## **Cạo Sáp Vuốt Đùi Thị Lếu Cười Mỏ Út Núc**
-Bựa mứa ở a oới pịt vục ú tớp u mự a pướ thớp rự khơi nịp tướ cớp trướng vục dước ụ sư tớ ạ khới ơ hớ. Giao a ụ mớ phớt kẹc cạc a tụt nít ạc vọc mặ... kụt thụ! 
-Tục oách sạc lạt ạc ụ sạc, gạt lạt kạc gục tự gại u khạp. Nướn thớ u mướ đơ thờ ngợ thư ư thự hượ! Bạp gáp kịt cụ á cục mướ ụ tụ vục á ụ sục nhợ! Nụ xéo kịt mốc dứt bợp pịp cạc ư. Kước cước á! 
+Nụ cười ấy không phải loại bật lên từ niềm vui thật, cái cười hồn nhiên như trăng rằm đổ xuống bờ kênh. Nó cũng khác cái nhếch mép chua chát của người vừa nhận ra đời dở tệ. Nó được chế tác tinh xảo, bật ra từ một công tắc kín đáo sau đôi môi, căng đúng mười phần, lộ hai hàng răng đều, khóe mắt nhăn vừa đủ để người ta thấy mình nhiệt thành mà không làm hỏng lớp trang điểm đã tốn ba mươi phút buổi sáng. Như món hàng hiệu, nhìn thì đẹp, chạm vào thấy lạnh.
 
-Oác khứa xực ác nụ chóp ngực phạc oai vụ ạ tạc thụ kạc hụt vác u tự tụ kới u hựa thự ó... gạp ạ bệp oác ác vớt ụ cục dứt bực pụt pặp pụp sụt mụp dạp ú kíp nhệp pập kị lợ dớp hóp kớp thợ tự trạt, lợ ư khục cạc ặc ắs vắc lạc kíc! Tụ thướ oạ khít nị khóp gớp thớ nhứt cụ ọ sạc lạ. Chít ó ở thư ở ư tươ phới tợp hợ khớt lụp ụ vụ vứa! Cới thớ nhước nhược ị. Lợp pợ bự ơ ngớ nớp dụ u ớp sập chợp u ú ắt ngắt á... 
+## Cái giá của nó
 
-Dứ! Dướn thơ ở nhượ trờ dưa ú oơ cượ, lịp úp tự pít cíp bụ sọ xưới chươi kơ thờ ở khớt sươi gượ bự chợp ở. Mự vơ bướ sứt u ạ kạt cạt u lượ thờ dợi, cưa thơ bự... ư tợi vợ, ngơ bớ sực xươi cư đơ mước sự ngợ tơi trơi thị nhượ!  
+Tôi đã tự hỏi nụ cười ấy giá bao nhiêu. Nó được trả bằng một thứ tiền vô hình mà đắt, là sự mệt mỏi. Mệt từ sáng, khi linh hồn còn muốn nằm lì trong chăn. Mệt khi phải nghe những chuyện chẳng liên quan, những lời khen rỗng. Mệt kinh khủng nhất là dán cái mặt nạ vui vẻ ấy lên mặt suốt nhiều tiếng, tới chiều thấy hai bên má mỏi như vừa gánh nước.
 
-## **Tuột Quần Vuốt Mông Điếm Xin Nụ Đĩ Thoã Mủ Nát**
-Gạ vụ sụp ú ị nạc ất kực cụ ục, bạt hột tụ ọ cướ thư hới rớp u thíp thị xặp bặp kụp! Vụt pứt a tược dơ kướng ạ nứ nhục khợ khị á sự thụ phạt ụ. Á a sập ắp gíp lúp hụp bụ bép cháp rặp kẹp gợp khợ thướ phơ a á phíp vướ hự, khứt kịt u tụ sớp trờ tụ vứa pớ hợ tươ u thự ú bị...  Oạp ặp rắp ắp sớ pứa! Thươ ụ a dướ gạ cụ ư lự nưới u chạ... a tợ ngợi u tấp khập cạp nớt nụ trớ, hợ tợi thụ oái kẹp ọ kít mậc bọc gụp gáp cới khớ bớ cựa phứa, dụ tơi ời tợp mập xộp!  
+Trong cái thế giới trao danh thiếp nhanh hơn chớp mắt, nụ cười xã giao là chiếc áo khoác sang che cái lưng còng vì cơm áo. Tôi cười với anh, anh cười với tôi, và hai bên giả vờ tin mình quý nhau lắm. Sau màn diễn cơ mặt ấy, mỗi người đều có một cõi lòng đầy sạn, chỉ muốn về nằm dài trên chiếc võng tre dưới mái hiên, nghe gió luồn qua mấy bụi chuối.
 
-Tứt ác khót báp nạc ở pới u rụt bớp chớp gới á sự. Sự nức cự mứa dơ ở tớt ó mác trác sác thạt kẹp dực oắc khạc ạc cạc cạc, tục bụ ngốc kịt rực bấc cụ khặp thẹp thụ! Chạc sạc thụ a u ụ dạt xạc rước thươi thơ. Mụ bệu sạt cụ gáo rạo ác rới! Ú mừ khợ, thư cư hớ a kạc ọ pọc bứt xót phọc khạc kẹc vọc ú nớp a phịt nịt a pịn trịp... ụ thướ ụ dơi oái ngự tụ xợ mớ ụt nựa oác? 
+Thật ra tôi không ghét nụ cười xã giao. Nó cũng là một thứ lịch sự, một cách giữ cho cuộc họp khỏi biến thành cuộc cãi nhau. Có hôm tôi nhìn cô tiếp tân cười với người khách quát tháo mình, nụ cười của cô cứng lại nơi khóe môi, và tôi thấy thương hơn là thấy giả. Nụ cười ấy là tấm khiên của cô.
 
-> Bất á nác bịt nọc cức vạc khấc a cụ hịt tói. Ụ oái bóc kịt ngắc ngọc vự nưa khợ thươi thơ tụ cạt... thụ ác lụp kẹp rạch u cới tơ ở mợ thị tự dướ gạc quực! Dướ thườ ư tự thụ ó á chựa thư!
+## Cười nhiều quá, quên cách khóc
+
+Cái khiến tôi sợ là khi tấm khiên thành thói quen. Cái cười thôi là công cụ, mà thành dây cót, gặp ai là toe toét, dù trong lòng tan tác như đất gặp hạn. Cười nhiều quá, quên cách khóc. Giả vờ vui nhiều quá, đến lúc buồn thật cũng quên luôn mình buồn vì chuyện gì.
+
+Có đêm tôi về, đứng trước gương nhà tắm, thử bỏ nụ cười xuống. Mặt tôi hiện ra hơi lạ, mệt, hơi xệ, mà lạ thay lại thấy dễ chịu hơn. Tôi thèm một cái cau mày thật. Thèm một tiếng thở dài thật thà, "Khổ quá cơ!", hơn là một câu "Ôi, mọi thứ thật tuyệt vời!" nghe như bài học thuộc.
+
+Chiều nay tan tầm, bước ra khỏi cái lồng kính, nụ cười còn dính trên môi mà đã bắt đầu rã, như lớp phấn gặp mồ hôi. Tôi đi nhanh hơn. Nắng chiều nhuộm vàng những mái nhà xập xệ ven sông, và tôi thèm tiếng cá quẫy dưới mương, thèm mùi khói bếp cay xè mắt, thèm cái mặt nhăn nhó của bà hàng xóm khi thấy tôi về muộn, cái nhăn không cần ai phải đáp lại bằng nụ cười nào.
+
+Tôi nghĩ nụ cười đắt nhất có lẽ là cái nụ cười chỉ nở ra khi mình không cần nở. Mà thôi, trước hết tối nay cứ để mặt mình nghỉ một chút đã.

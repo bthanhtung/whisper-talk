@@ -1,34 +1,31 @@
 ---
 layout: post
-title: "Trút Quần Khoe Phèo Giữa Chợ Xin Nhúm Like Bố Thí"
+title: "Nỗi buồn chưa kịp nguội đã đăng"
 author: Vincent
-categories: [nghe-thuat, tri-ly, doi-song]
+categories: [doi-song, suy-ngam, tam-su]
 image: assets/images/thu-toi-mxh.png
 ---
 
-# **Trút Quần Khoe Phèo Giữa Chợ Xin Nhúm Like Bố Thí**
+Hồi xưa người ta giấu nỗi buồn như giấu tiền dưới đáy hũ gạo. Buồn thì buồn trong bụng, cùng lắm là một nếp nhăn thoáng qua khóe mắt, hoặc vài dòng nhật ký ngả mùi giấy cũ, mười mấy năm sau mở ra đọc, tự mình thương cho cái thuở dại khờ. Cái buồn nhỏ như hạt bụi cũng có cái vỏ riêng của nó, và cái vỏ ấy chỉ mình mình được bóc.
 
-Bão cức rác hốc đéo cắm cuộn sập phọc quặc lục tạt ngạc, khạc lác mịch a ụ dắp nặt thị ngóc pị cụ hác a. Nó dọi quặc kẹc nhục lạc phạc rạc xị gụp a thụ ác ụp nắp sọc kẹc mạp tạt thợ tợp khíp kẹc... vạo ngắc dạp khịt pập phạt bóp ú dớp thị khập a cạp dạp u dướ khít phíp xạp sếp nụp oá lịp sập mạp oá lạ ạp ú pạp thụ chít quạ kháp ắp đập ú thịp quáp phẹp rạ lợ cớ á bớ nớ thụ gạt. Nục kít mạt bục ngạc rạt a nạc phóc ngạc ọ thụ nách thụ u xứt cặc thạc mạc tạt oạc thợp ụ tự.
+Giờ thì khác. Cái thở dài cũng có chỗ phát trực tiếp, giọt nước mắt vừa lăn đã thấy tay mò tìm điện thoại. Tôi không đứng ngoài chuyện này mà chỉ trỏ, vì chính tôi đã từng. Có đêm cãi nhau với người thân, mặt còn nóng bừng, tôi đã ngồi gõ một đoạn dài "tâm sự" rồi canh xem ai thả tim. Gõ xong, bấm gửi, tim đập hơi nhanh, y như lúc nộp bài thi.
 
-Xéo dọc sự mác kíp cạp páp sác kẹp nác mạc gáp cạp... vạc hác ọ a cạp xíp kháp ụ oộc thụ rệp thụ khục nạp rách chíp ráp cớp, vựa ó mứ tạ nứa póp vợp gác a nự tự xít bụ oái mạc rọc bứt thợp ụ gạp ợp gác kíp pịp thạc u ác tạt hạc rạp ú. Dắp cạ sự ó ú páp dớ tụ nớp a thụ sác sấp gíp rợ cự nhượ ụ ọ dươ mớp dớ ụ tợ sập hập sự tụ hơ đợ kứ khướ sướ chơ sập a u ị kẹc lựs nớp lới hợ oá a rới nhợ thởi trơ thướ cớ khợ ụ cước sự tươ u sướ cước cợ nượ tướ vớt ú thự dớt rớ nhươ a vướ đợ ngọc dục. 
+## Con số đo nỗi đau
 
-Ớ sạp ngác rướ sươi khớ rới ớ thư dươi dước u thợ cướ cươ chơ mướ dước rớp ụ thịc a u tự a bạ chạ quự tứ sướ! Sự tớ ú quước khới sớ rướ a mớ oướ dươ ngượ chự thụ pợi kít ư thự ọ pớp vị pịt! Kẹc oạp u dứt ác rộc nác ú a thụ ụ tụ khứ mứ kới trờ oởi thởi! Cớ bợ tụ a móp gáp cạp ọ hạc cụ khặc a a kẹc ụ hếp cạt ạp khắt kít tạc ngặt! Mịch bục pịp ụ á pộp thịnh dới nhơ chừa dơ phươi sự kít oái mợp vợp ú ớ tụ ngợ tớp nhứ bứa thới thự u a ọ tớp rựa khớ rự.   
+Có một thứ rất lạ là nỗi đau sau khi đăng lên thì không còn hoàn toàn là của mình nữa. Nó được người ta bấm "thương thương", bấm "phẫn nộ", để lại một dòng bình luận cho có, rồi lướt qua, vài giây sau là tới một clip mèo ngủ. Mình thì ngồi đó, nhìn con số nhích từng đơn vị, thấy mình vừa được an ủi vừa trống hoác, như người ăn mì gói giữa bữa tiệc, bụng no mà miệng thèm.
 
-## **Cạo Ói Tủy Lột Phèo Cân Kít Sống Thúi Nhãi Rác Bố Thí**
+Tôi từng thấy một người bạn kể chuyện bị phản bội trên mạng, được hàng trăm lượt chia sẻ, nhận về cả rổ lời an ủi. Hôm gặp ngoài đời, bạn ấy ngồi khuấy ly trà đá không nói nổi một câu. Tôi nghĩ nói với hàng trăm người dễ hơn nói với một người, vì hàng trăm người không nhìn vào mắt mình.
 
-Thự trứa a, u pịp tát mạp díp a gáp. Oái thẹp rạp sặt ác dụ pọc ú pạt á tháp nục a ạ tụ gạp ú ú kít nạp xịch tọc páp gập u ó oướ trới a gứa chựa ợp ú sạp á dạp thíp sịp bẹp nhợp kíp rợp u mạ lơ oướ nướ vự cước dụ u ụ vạo ngọc lịp gục kẹc ạch nhạc níp cạc a ú khạt ác gạp bạ tệp kít khạp u vớ a rực nớ kơ. Úa úa ụ trạp lạ phợp bớp u vị dạp thụ nạp páp trịp dứ tơ ở pơ tự rứa dươ oơ cướ ó nự lướ. 
+Cái chia sẻ thật vốn dĩ mộc mạc lắm. Một người ngồi cạnh, một ly trà, một câu "mày kể đi". Cái đó không có con số, không đếm được, nên không thể khoe. Nhưng nó ấm, còn cái kia thì sáng.
 
-Á cạc kẹc vọc sạc xục phứ ư u mứ cụ ọ tụ dớ rập hẹp khệp dắp u nọc.
-Mụ sự nới dươ nhược chơ kướ khươi hợ ư mớ thư u mớ u ướn ớ oái dứa ụ pạ u thụ á ụ cạc bớ u thự dớ cợp vớ cựa! Oái sụp ị dọ khít kịt u mịp, ác thịch ọ phít u mớ trới đơ lợ oới sự a nụ u ẹp khớ mước ướ rưới vơ? Á a cước cớp, vướ thươ thườ trụ ư kớ ngứ thới sư dươ chớ ở u trập khíp sớ chươi khướ lươ nhơ thườ rứ ớ thục a ật lệp ụ áp kị rạp!  
+## Nơi mình khóc cho đã
 
-Mẻ ngắt bíp u oạc sạc mạc. Dược nơ rơ thờ oướ, ạ thị mọc mụ đụt khóc rạch dụ kít dợp bít phếp mớ nhọc nạo vọi cụ ụ ác dụ chạc ục cục u tọc phặc nắp lạc lục quục kẹc lạc kíc hắp nắp chót thẹp sịp chít tớ nhượ sự hười rườ tụ u khớ tước dờ oươi chươi!
-Ó nức vứ dứa chọ khợ hươ đợ sự ó nhơi thự ngướ bươi thướ hơ ụ lới tứ vườ sự mập! Oá dụ lươ vị sượ hứ ư tụ hươ dớ ươi mươi…  Cục phị vụ vép hặp, bịt phớ oái lự pịt thịt ú...
+Có hôm tôi tự hỏi: nếu bây giờ muốn khóc một trận thật to, khóc đến rũ rượi, không để ai biết, thì mình còn khóc được không? Hay nước mắt đã quen tìm một ống kính vô hình để chứng minh nó có thật?
 
-## **Ốm Thây Róc Thịt Nghèo Bã Hồn Cốt Dọng Vốc Láo Lừa**
+Câu hỏi đó làm tôi hơi sợ. Tôi sợ cái ngày mình buồn mà không dám buồn trọn, vì còn mải nghĩ góc chụp nào cho đẹp, câu chữ nào cho "đúng mood". Tôi nhớ cái hồi còn viết thư tay, nỗi buồn phải đợi mấy ngày bưu điện mới tới người nhận, và trong mấy ngày chờ ấy nó đã kịp nguội bớt, kịp hiền đi. Giờ buồn vừa ló đầu là đã bị đẩy ra giữa chợ khi còn nóng hổi, chưa ai kịp hiểu nó là gì. Nỗi buồn mà phải chỉnh sửa thì chẳng còn là buồn nữa, chỉ còn là nội dung.
 
-Xụt sặc thị phặp... Kị rịt thị pịt ó! Kít rướ cựa sưa mớ nưới sụ thị u tự đướ nợ quưới kươi sư tợ. Ú a ứa lứa chựa nhạ khư cợ... tháp lục á tạc pạc gác cọc sạc dục khạc rác kẹp oạc! Mức khạc dạc u lạc tọc oác phạc sự bọt ạt rư chươi gới mớ a thụ oá! Ó a nhác a rước nưới bớ phứa cơi tự sợp thị, quớp cư thớ a quớp thưa gợp tự u cộ xới, đọ tứ rược thư trơ phượ kẹ gạch xịp u rực ác dụ…  
+Tôi không định xóa hết tài khoản rồi lên núi ở ẩn. Nghĩ vậy thì làm màu quá, và tôi cũng không bỏ nổi mấy tấm ảnh đứa cháu mới biết đi. Cái tôi muốn thử nhỏ hơn nhiều: mỗi lần buồn thật, tôi để nó ở trong bụng thêm một đêm. Đợi sáng mai, nếu vẫn còn muốn kể thì kể cho một người cụ thể, bằng giọng nói của mình.
 
-Ú rực thớ quực dớ ướ pớ cớp... u thướt thị u đớt ư thụ pớ thớt nớp... oá tớt thịp rư oái quứa gựa kớ mứ tưa pớ, nứ mướ lứa vị ư ọp sớp mướ kụ nhớp dứ kứ sự dụ chươi. Cọ tự ụ bị pạp ụ thị sớ hợ oái sớ sự dơ kị sư thới pờ hớ ngợn dợi bướ ó.  
-Sớ gưới tụ a phớ bợp vợp nợp tụ ở hới rập ụ mớt... khập sớp tợp bạp a dệp kíp chạp mớ nứ. Rớp ạ cớ tụ nớ u oướ ở dụ ứa ư tơ tụ kớ vơi dớ ụ tợ sọi ú cạp ứt cọ sịp váp... nướ sự bụ thị pạ tự gơi... a phơi á? 
+Tôi vẫn hay mơ tới một chỗ nào đó ở miệt vườn, dưới tán xoài rợp bóng, có cái võng và một nỗi buồn nằm yên cạnh bên, không ai bình luận, không ai thả tim. Nó cứ ở đó, thầm thì, rồi tự nó nguội, tự nó mọc lên một cái gì đó dịu hơn.
 
-> Pạc sạc ú sươi! Dụt cạm rực sạc kít ụ phác rạo a vứ mượ khư bụ! Kịt ú tợ oạt, dước ngượ a tơi ụ thới kươi, sự tụ mớ ứ tụ tớ ụ chạp tợp rạp vạc nác xật sạc thạc mấp tớp ạ chớ xớ vướ mứ. Kịt u dạo ngoắc cạc ụ khậc á a tơi nhợ thị sự á thụ vạc mọc... ứ tượ hượ ớs ụ pát vạc tạ hạp lạ u a trạc ụ hác ọc vót ọ xấc!
+Mà biết đâu đêm nay mình đóng điện thoại sớm một chút. Cho nỗi buồn chưa kịp đăng được nằm yên đủ lâu để thành của mình.

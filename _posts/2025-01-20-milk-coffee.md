@@ -1,82 +1,31 @@
 ---
 layout: post
-title: "Bạc Xỉu Sài Gòn – Ngòn Ngọt Đắng Ngắt Của Kiếp Bôn Ba"
+title: "Ly cà phê sữa đá của buổi sáng Sài Gòn"
 author: Vincent
-categories: [doi-song, am-thuc, van-hoa]
+categories: [am-thuc, sai-gon]
 image: assets/images/12.jpg
 ---
 
-# **Bạc Xỉu Sài Gòn – Ngòn Ngọt Đắng Ngắt Của Kiếp Bôn Ba**
+Người miền Nam lớn lên với ly cà phê sữa đá như cây lúa lớn lên với nắng, quen đến mức chẳng ai nghĩ phải giải thích. Sáng ra, chưa kịp rửa mặt xong đã nghe mùi cà phê rang từ quán đầu hẻm bay sang, và cái thói quen ấy kéo mình đi như sợi dây vô hình. Tôi cũng vậy. Có hôm không uống thì thấy cả buổi sáng thiếu một mảnh, giống như mặc áo mà quên cài cúc cuối.
 
-Dân Sài Gòn rặt, hay bà con từ miệt thứ lưu lạc lên xứ đô hội này, trưởng thành với **ly cà phê sữa đá lanh canh** cũng y chang cái cách cây mạ cong non nớt oằn mình chống chọi gió sương ngoài bãi giang đồng rác rưởi.  
-Chưa cần làm gì ngặt nghèo, chỉ cắn răng khuấy trối chết ly xây chừng đục mờ, lóng ngóng mẩu đá văng tung tóe, rít được một ngụm sữa đặc quánh hòa lẫn vị mồ hôi đắng chát, là mẹ kiếp – nguyên buổi sáng tèm nhem bỗng chốc rực rỡ như một ân sủng diệu kỳ.  
+Ly cà phê sữa đá chẳng làm điệu. Nó không có hình trái tim vẽ trên bọt sữa, không có tên tiếng Ý nghe sang. Một cái ly thủy tinh dày, đáy đọng lớp sữa đặc trắng đục, phin cà phê nhỏ từng giọt đen sánh bên trên, khuấy lên thành màu nâu như đất phù sa. Thêm cục đá, nghe tiếng lanh canh, thế là xong. Đơn giản đến nỗi tôi từng ngờ nó không có gì đặc biệt, cho đến lúc đi xa thử những ly khác mà thấy thiêu thiếu.
 
-Cà phê sữa đá có khệnh khạng rườm rà cái đéo đâu,  
-hổng thèm cắm hoa làm màu đẽo gọt ba cái mẻ cappuccino xớ rớ hay vẽ vạch bọt sữa latte vờ vịt sặc sỡ học đòi.  
-Nó phèn y vậy, thâm thấp lùn xủn sứt mẻ, rặt một vẻ dáo dác cọc cằn như cái trang văn khốn nạn của Nam Cao lôi kiếp bưng mâm ra chửi, nhưng uẩn súc, **quánh kẹo nhai không đứt**, ghim cái buốt óc vào hạch tủy của đám lang thanh đã trót lỡ vập môi vào liếm lấy nếm để.
+## Đắng và ngọt ngồi chung bàn
 
----
+Tôi nghĩ cái hay của nó nằm ở chỗ đắng không chối bỏ ngọt, ngọt cũng không lấn át đắng. Hai vị cứ quấn lấy nhau, mỗi ngụm một khác tùy đá tan nhiều hay ít. Ngụm đầu đậm gắt, nửa ly thì dịu, gần cuối nhạt đi mà vẫn còn lưu lại sau lưỡi chút hậu đắng, như câu chuyện kể xong còn dư âm.
 
-## **Chao nôi hòa quyện – Đắng hắt máu cọ ngọt cứa da**
+Nghe người ta kể bên trời Tây có espresso uống một hơi cho tỉnh, bên Nhật có kiểu pha chầm chậm ngồi thưởng thức yên lặng. Tôi chưa thử cho đủ để so sánh. Chỉ biết ly cà phê sữa đá của mình nằm lưng chừng, đủ tỉnh để đi làm, đủ ngọt để chịu được một sáng dài. Nó là thứ cà phê dành cho người phải đi tiếp, chứ không phải người ngồi nhấm nháp cả ngày.
 
-Tách cà phê sữa rặt Nam Bộ là cuộn dây thòng lọng giăng tơ sô-cô-la:  
-- **Vị chát rát nọc độc đỏ quạch của phế phẩm rang xay lừng xỉn**,  
-- **Cái ngọt đậm dính rít lợm giọng của vệt sữa đặc giá sỉ**,  
-- **Cùng cái buốt thấu trán rát óc của đá đập tan nát vụn bể**,  
+## Quán vỉa hè và nỗi nhớ
 
-Hết thảy mấy cái nham nhở ấy tụ hội quết vào nhau thành nhịp hò xự xang não nề nhưng đủ sức rinh hồn người nhậu khỏi mâm quan vũ trần truồng.  
+Tôi nhớ một quán ở góc ngã tư, bàn ghế nhựa thấp xếp sát lề đường, bác chủ có cái khăn vắt vai lúc nào cũng ẩm. Sáng sớm khách ngồi đông, người mặc đồng phục, người mặc áo thun lấm mồ hôi, ai cũng cúi đầu khuấy ly của mình. Tiếng xe máy ngoài đường nổ rần rần, còi inh ỏi, vậy mà ngồi trong cái ồn ấy tôi lại thấy bình yên lạ. Có lẽ vì cả đám người lạ cùng chung một việc nhỏ, uống một ly cà phê trước khi lao vào ngày.
 
-Đám Tây mũi lõ cần cái tẽn đắng ngắt espresso tút tát gân cốt dậy sớm làm màu,  
-đám Nhật còng lưng lọt nhểu phin nước nâu loãng nhạt toẹt mà ngâm nga rặn thiền xàm xí.  
-Chót lại, cái cà phê chấn hưng này mới là bậc thầy bòn mót: vừa đủ kích tròng mắt xoe tròn, lịm ngọt cái vị cướp xác, vừa ủi an bộ não vữa nhàu giữa cõi chạy loan lộn cứt lộn bát.  
+Chiều mưa, quán cũng khác. Hơi nước mờ trên ly, người ta nói chuyện nhỏ lại, cái nhớ chẳng biết từ đâu kéo về, nhớ quê, nhớ cái ly sứt miệng của ông ngoại, nhớ những buổi trưa nằm võng nghe radio. Cà phê sữa lúc đó không còn là thức uống, nó thành cái cớ để mình ngồi yên với nỗi nhớ mà không phải giải thích với ai.
 
-Giống cụ Nguyễn Tuân dốc ruột lục ba cái thú ăn chơi kỳ ôi cầu thả mà vạch trần ra ngà ngọc thiên thu;  
-thì ly cà phê sữa đá, chèn đét ơi hổng cần xiêm y bào ngực vú xệ, nhưng **toàn vịnh cả một khung nhạc lãng phí thấm rột từng giọt lờ đờ trôi**.
+Nhiều khi tôi nghĩ ly cà phê sữa là ngôn ngữ chung của người lạ ở thành phố này. Hỏi nhau đi đâu, làm gì thì ngại, nhưng hỏi quán nào ngon thì ai cũng sẵn lòng chỉ, thậm chí dắt đi luôn. Mấy người bạn quen nhau từ một lần ngồi chung bàn, chia nhau cái cọng ống hút giấy, bây giờ vẫn còn nhắn nhau mỗi sáng.
 
----
+## Một thói quen nhỏ mà lì
 
-## **Sữa quyện đắng và tràng nhức trán xứ người**
+Có người bảo uống cà phê sữa đá nhiều không tốt, đường nhiều, tim hồi hộp. Chắc là có phần đúng, tôi cũng đang tập giảm bớt, đổi lúc ít sữa, lúc ít đường, nhưng vẫn không bỏ hẳn. Thói quen đôi khi lì lợm hơn lý lẽ, và tôi chẳng muốn thắng nó hoàn toàn. Còn gì bất tiện hơn một người sống lý tính đến mức không còn nổi một ly cà phê để mà tiếc?
 
-Thiệt thòi thay cái ma thuật của bạc xỉu nằm xị ở cái chõi **cực đoan rách nứt của cõi nhớ, ở miền cảm hứng ứ đọng**.
-
-- Trời hửng rạng, bụm được cái đáy ly bên vỉa bèo góc đường ngẹt thở khói xăng, tai gầm thét âm ba dộng màng nhĩ, dòm thiên hạ lảo đảo xách mạng đi làm như gà vô chuồng – bụng tui thắt lại nhói một nhịp bình an đến ứa lệ.  
-- Ráng chiều vắt mủn trên nóc tôn, chồm hổm trốn ở manh bạt lú rách nát bờ kênh mút từng rỏ ngọt đắng, dỏng tai hứng cơn mưa quất xả bôm bốp... rốn bỗng sụt lún chôn một kiếp hoài niệm nục nặc xào xạc không tên.  
-
-Uống cà phê nó hóa thành **cái dĩa thắng bắt tụi mình té ngửa đạp rạo sát đất chậm mẹ xuống**, ráng banh mắt ra mà lượm mót rằng trên đời này thỉnh thoảng ba cái phèn rẻ rúng vẫn tươm tươm tắp đắng cay êm như giọt sữa thiu rớt lọt.  
-
-Ném cụ Nam Cao đứng thập thò ngoài gốc cây ngó rình quán cóc, ông nội chắc sẽ xót xa vỗ lốp bốp mà viết lách ngay ba cái câu chuyện đời xé nát lợn lợn tăm tích cõi mành trắng ngục lội; bao số phận lốc cốc tộp nhộp nổ tanh bành quanh một ly nước ba màu phân nửa đá lạnh tanh.
-
----
-
-## **Gõ kiến kinh kệ của bần cố nông**
-
-Sài Gòn húp cà phê thô lậu y bợ một cục tôn giáo mù lò:  
-
-- **Sớm đực rựa**: Xô đại vô mồm, bấu véo tay lái băng qua mấy khúc đường thúi thiu cho lẹ chui lọt cổng công xưởng bóc lột.  
-- **Trưa quái xế**: Dựng dẹo néo mông vô bệ xi-măng mốc, núp cho lánh hết ánh chói héo não mạn trưa ứ cổ.  
-- **Bóng tà sấp mặt**: Ly đá chọc chan chát cảnh tỉnh đập cái bốp gõ óc u sầu, rú dòi dõm rằng dẫu sống vội thì ráng mà nghẹt cái cổ lại dạt bèo ra cho giãn thắt nghẹn.  
-
-Nó đếch phải thứ đổ lấp mồm, nó **kêu ngào cái giọng văn chỏng lỏn của đường phố**, sỗ sàng chửi rủa nhắc mầy dăm cái mẩu thời gian tẻ vẩn mà bấu da rứt thịt rát buốt.
-
----
-
-## **Thô ráp đến gỉ nhựa nên cất lên làm thành ngữ**
-
-Cái điệu ngầu đét của bạc xỉu là mọc ở chỗ **nó đếch thèm đội mâm làm bà lớn**.  
-Cũng lột ráo chân kiếp như cái nòi tinh thần đèo bòng mà kén chọn vô sỉ của ông Tuân hay cái rách tả tơi ôm chân trời xám của ông Cao hay quý:  
-
-- Hổng bóng loáng trơn lu, nhưng ỳ lỳ trơ gan cùng tuế nguyệt.  
-- Đừng hòng chảnh chọe nhung gấm bạc vạn, nhưng đủ quật tan xác lũ hững hờ vô học.  
-- Cái nết chả rực la bàn, nhưng ghim xâu đâm lủng con ngươi trọn dăm thập kỷ ải lưu đày.  
-
-Ngụp xụp quậy móng muỗng, húp rột rột giọt cuối, cái ngọt ấy nó **nín thinh nung sôi mùi của nếp cắn răng chịu trận**, của **im như thóc hớt bọt lềnh bềnh**, và của **điệu cười đắc thắng sún răng cực kỳ rách nát**.
-
----
-
-## **Vãn thây – Giọt nâu đục là vở chèo thảm kịch hạ màn**
-
-Húp chắt cái ly nhựa cùi bắp hông để chống điên, mà nó là **cuốn biên niên sử chép vội trát rác của giang sơn**, là **thước phim chết tiệt vặn ngược thời gian của dân tứ xứ sấp mặt bưng bát phố phường**, là **bảng cáo trạng dọn dẹp hòm xâu cực độ thảm vinh**.  
-
-> **Tới chừng đá tan nhão rã bọt rục: mộc mà day dứt, y chang cái tàn dư xót ruột hèn hèn mọn mọn thường nhật mà con người ta cắn rơm cắn cỏ giựt giữ lại dằn háng cõi đời bấp bênh rữa nát.**
-
----
+Đến giờ tôi vẫn hay ngồi trước ly cà phê buổi sáng, nhìn đá tan dần, lòng nghĩ rằng đời này có những thứ nhỏ nhoi mà ở cạnh mình bền lắm. Một ly nước đen pha sữa, năm chục nghìn chưa chắc, mà mang cả cái giọng điệu của một thành phố. Mai lại đi ngang quán đầu hẻm, thôi thì mình cứ ghé, kéo ghế nhựa ngồi xuống, nghe tiếng thìa khua trong ly như tiếng ai chào buổi sáng.

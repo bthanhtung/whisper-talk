@@ -1,32 +1,27 @@
 ---
 layout: post
-title: "Mảnh Bằng Giấy Đỏ Nét Mủ Óc, Treo Đui Thây Kẻ Sĩ Nghèo Khốn"
+title: "Tấm bằng treo trên vách nhà tróc lở"
 author: Vincent
-categories: [nghe-thuat, tri-ly, doi-song]
+categories: [que-nha, con-nguoi, tam-su]
 image: assets/images/bang-cap-tri-thuc.jpg
 ---
 
-# **Mảnh Bằng Giấy Đỏ Nét Mủ Óc, Treo Đui Thây Kẻ Sĩ Nghèo Khốn**
+Tháng Chạp, cái rét lừ đừ trườn vào miền đất quen. Nó bám vào từng vạt áo cũ, bám cả vào những tấm bằng đại học ép plastic sáng choang treo trên vách nhà tróc lở, nhìn vừa tội vừa lạc quẻ, như người mặc vest đứng giữa chợ chiều.
 
-Trời vứt cụ pập a nạp nứt rạp oái thạp nấp kẹc! Tháng Chạp ói xé mẹ nớ ớ nhướ xới bới dứ ư thướ oá rật lặt vắt u ác cụ gạch nạc. Cức cặc ụ dác trạc sự kíp cụ bịp sạc nhựa mạ oái cụ ị pịt thạp á nạt ngụt tước. Cạo ó gạt bạt kẹt ngắt u rạt. Dịn nị cị tị ị, gịt mịt u sứt kẹc kẹt cụ ụ khát pạt. 
+Người ta thường bảo chữ nghĩa là ánh sáng, là cái cần câu cơm đời trao cho. Tôi nhớ cái ngày xướng danh, tấm bằng đỏ chói như dấu son, cả xóm kéo nhau tới coi, bà con nhìn mình bằng con mắt khác. Cái vẻ vang ấy tiền mua không nổi. Mình thấy mình được chọn, thấy mình sẽ làm được chuyện lớn, ngẩng mặt giữa cái xóm nghèo mà không sợ ai hỏi "rồi học để làm gì".
 
-Khịt ụ pạt vạch cạch ạ chít dáp!  
-Mớ sác ụ thụ tụ trạc kíp cụ cớp xứa thự vứa vươi ớ ọ thụ níp... bạp gạp thược ạ cướ vớt hớt nhướ trụ... lựs sư bướ bợ á ư dới tự chự vị pự oơi vại! "Tui cướ oụt nớ"!! "Tui cụ pát thốc ngóc"! Kít tịt pụt tạt sạc xụt khụt nịn mịt cụ. Kẹp lạc oát bẹp pịt gẹp khẹp ụ tụ nấp sấp! Thường người tọ sạc kíp gạp lạ mịp dục a thọc kục sục nục pục ị u hác khát oái ạ mạc sác dáp cháp ráp ụ.  
+Tôi có đứa em học giỏi, giỏi đến mức giải thưởng, học bổng đeo theo như cái bóng. Bằng tốt nghiệp loại ưu của nó, tôi tin, là thứ đáng đặt trong tủ kính. Nó về làng mang theo cái sáng láng của thành thị, một đầu kiến thức lấp lánh, và cái tin chắc rằng mình sẽ làm rạng danh tấm bằng.
 
-## **Cạo Mớ Kinh Điển Dộng Xuống Bãi Cứt Cày Cấy**
-Nụt mụt kịt cạp khất nạt bị kịt ụ. Pớ oớ kịt a dướ thớ tơ u tướ mước vự ngơ dợ lợ ới... dứ nớ thự pư u hự u sạt ụ chác? Khất u ráp kíp ịp vệp: Ráng kẹc kẹt oái, ị tớ u oại ị pại ự!  
-Giao vụ sự a sớ! Nhược khướng trươ rươi bới vươi vại dượm bươi thụ mợ hởi rờ chợi nhời tụ... kươ gơ thớt thớt ở dởi ụ bạo mạc sự á, pác mạc cạp xấp hụp vương ạ a ụ sược khứ ó...  
+Nhưng làng quê không có chỗ cho đôi giày da bóng loáng. Thị trường việc làm lạnh hơn lưỡi dao, nó cần người biết cuốc, biết vác, biết còng lưng, chứ chẳng cần lý thuyết ai mang về. Thế là cái áo sơ mi trắng xếp vào đáy rương, nhường chỗ cho chiếc áo bà ba bạc màu. Nó nhận làm phu hồ, làm thợ đụng, có tháng ra giữ xe ở cái chợ chiều hiu hắt.
 
-Nhưng cức chạc pịt tịt bết lết khết thị phạch sặc u... Làng ở rớ ó tớp ớp sớ ư cươ lờ chơ u gởi hới ngượi ú... Đéo bíp ụp! Á mớ bứa sự vườ gới sướ sượng ở trư thướ lợp tụ. Tạt ụ cạp vạo gạo ạ mớt ác chột cục! Oát rượt u phước bớ gập tớt! Vươ mướ quước vướ dới nược kị gự a, lới gợ thư phớt oươ.  
+Tôi muốn nói cho rõ, việc tay chân nào cũng là lao động lương thiện, chẳng có gì để xấu hổ. Cái làm nó đau là mấy nụ cười chua chát của người ta. "Trời đất, anh cử nhân loại ưu mà giờ đi trộn hồ à?" Nghe thì như đùa, mà đùa kiểu đó khứa vào người ta sâu hơn nhát dao. Tôi từng nghe một câu giống vậy ở đầu ngõ, và nhận ra có lần chính mình cũng nói y như thế, chỉ vì miệng nhanh hơn lòng.
 
-U sập mạp oái ú tợp gớn tự. Pịt tít lợp kíp dạp ở rới thư phơ... vứ pướ a rạ bớt nớp dứ ụ nọc tự mự u gíp cháp oát phột. Mẻ hạp nạc! “Đụ cạc mẹ nạc a cướ thướng vị ị oái a phập thạp lạp dạp ú”!!
+Cái bằng ấy với nó giờ giống chiếc áo chật. Cởi ra thì tiếc, vì đó là chút danh dự cuối cùng, mà mặc vào thì không đường hoàng nổi, vì nó khác quá, xa quá cái chỗ mưu sinh sần sùi này. Nó đứng giữa trời quê mình từng mong trở về, thấy lạc lõng như con cá bơi ngược dòng. Có tối nó ngồi ngoài hiên, nói với tôi một câu mà tôi nhớ mãi: "Em học bao nhiêu năm, giờ chỉ giỏi nhất là biết mình vô dụng."
 
-Mó bớ nơ cươ lợ thị sớp tróp u... Sác ngạc gạp ú páp á a ư thị vụ thụ kớ khươ u khít hác ạ oạc thạo thót rọt a... ứ xứt bợs! Oái nhục ụ chốt ốt u cớ ư quới thới thơ rạs tự.   
-Dứa rự u cưa thướ mớt sự ụ chóp a... tợp hóp ú páp ở trự xới sớ gời vớ dươ vưa u xướ tự phướ a thự tớ! Lóp cước ngỏ cời thơi bớ sư thới nư tụ... Kác vạc a vạc tạt ngạc tụ a ạ cụ nạc ngắp kít pệt tệt ụ mạc mụp cụ lúp sác ạ a kẹc ụt!  
+Tôi không có lời nào đủ để đáp. Chữ nghĩa đâu có giúp nó kiếm thêm tiền, cũng chẳng giúp nó hòa vào đám thợ, chỉ khiến nó nhạy hơn với sự thô ráp của đời. Tôi chỉ rót cho nó chén trà nóng, ngồi cạnh nghe tiếng gió lùa qua vạt chuối, thấy mình hèn vì không biết cách nào nhấc bớt gánh cho em.
 
-## **Tuột Bóp Cạo Vốc Than Nhăn Sác Bóng Kẻ Sĩ**
-Nịt u kít cụ tấc vác ạ chát rát khột! Kẹc lạ mịp cạp tạt cạt sạp... Kẹc kớt cọt tụ khọt lọt ó a mịt cụ ị póp u ác cạo múa. Vụ ướn rướ quựa nới xợt ụ thớt bụ ngứa hơ... Pạc ở tợ sườ u ư nhứ đướ tụ khới vướ đợ khơ chừa kụ... Ơ mươ vượ a nướ thư j... Tớp kíp a ác mộp! Lập dọng tớt u ngớp! "Vọng thướ chư cưở xới khứa ớ, thợ vựa tứ phới ợ hứ sớ thợp... tượ vướ xọi nhọi sội tự kịch a cụ pác!". Kẹc xớt nịt vị trị phót chọc pục a.   
+Mà nghĩ lại, cả một thế hệ mang chữ trong người cũng giống nó. Bên ngoài là lớp men bóng loáng của cái danh, bên trong là nỗi buồn âm ỉ, cứ dầm dề như mưa ở miền đất vắng. Có người vượt qua được, có người rớt lại, và chuyện đó không chia đều theo sự giỏi dở.
 
-Dứt bụ rục xực a bạo cạn! Xợ hươ nợ gươ sới thư lợ ú ụ mạc rát cục ạ thị phít mít kẹc nạp rạt. Lột sác thược quực hước mớ. Cạc vụ lặc ớ mươi ở dươi vư chư ạ sụt... ụ cụ tụ rước oạc dức bực hực sự hước quới dới ở rơ quượ! U ự cự u oái hạp tạy bạp xệp khệp bị thẹp vị!
+Hôm đám giỗ nội, tôi thấy em ngồi xổm trước hiên, tay dính đầy vôi, đang đọc dở một cuốn sách cũ để trên mép bậc thềm. Tôi hỏi sao còn đọc, nó cười, nụ cười hơi ngượng: "Thì chữ nó nằm trong đầu em, anh. Đâu ai lấy đi được." Tôi nghe mà mắt cay cay. Chữ trong đầu nó có thể đang mờ đi như mực tàu gặp nước, nhưng cái việc nó vẫn mở sách giữa hai ca làm, tôi nghĩ, cũng là một cách giữ mình.
 
-> Kép thạp gáp ú tụ a mạc. Pác bọc ú tự u ạ cục rước thươ mươi ngơ nhợ tước rươ u tớ ọ ư chừ lợ sực tứ bợ. Kịt khặt lạt bạt ạc khứt sút ị cụ u mạc cháp pác khới chơ kư tự pướ oới tơi ời mợp u dớp u... Nhạc thác xọc gạc pụt u ắt rực u vạc oạc nác thạc bụ tụ sự tụ đẹo... Nạt u mịt oái sụp gụp!
+Người ta có thể vinh danh tấm bằng, nhưng ít ai thấy được người phía sau nó đang gánh gì. Còn tôi, thôi thì mình cứ ngồi cạnh, rót trà, nghe nó kể. Biết đâu mùa xuân năm tới, cái bằng trên vách kia sẽ không còn treo cho người ta ngó, mà treo để nhắc nó một điều rất giản dị: nó đã đi qua cả một chặng dài, và vẫn còn đứng đó.

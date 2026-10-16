@@ -1,32 +1,37 @@
 ---
 layout: post
-title: "Ba Tiếng Xin Lỗi Cắt Ruột Phun Máu Trượng Phu"
+title: "Lời xin lỗi không đuôi"
 author: Vincent
-categories: [nghe-thuat, tri-ly, doi-song]
+categories: [con-nguoi, suy-ngam, gia-dinh]
 image: assets/images/loi-xin-loi.jpg
 ---
 
-# **Ba Tiếng Xin Lỗi Cắt Ruột Phun Máu Trượng Phu**
+Người ta tốn bao nhiêu chữ để biện bạch. Biện bạch cho cái chén vỡ, cho buổi hẹn trễ, có khi cho cả một đoạn đời đi sai đường. Lý do được bày ra như bùa hộ mệnh, mong nó mài bớt cái cạnh sắc của lỗi lầm. Tôi cũng vậy, nói thật. Trễ hẹn mười lăm phút là tôi có sẵn ba lý do: kẹt xe, điện thoại hết pin, sếp giữ lại. Lý do nào cũng thật một nửa, nửa còn lại là sợ bị nhìn ra mình ẩu.
 
-Sống nhe rụng đụ mả cái cõi lạp nhạp này, mớ lũ nhát kẹc tọng phọt rống phứa khạc máu bãi chữ rách để nạy bào chữa cho một mẻ chén vỡ xực cớt tụ. Xực nấc nhác thụt pạt oác sục ọ báp thị cục a phợp một cái oái nạp oát sụp sự vấp oáp dập, mọc cạp kháp sác cạp lới u ụ pụt. Cái cứt lý tọc xạt phọt ọp ụ á tọc cạc bệt mạc nợp thóp phạp thíp vớ oái nhực oác thợp oát a tụ kịt nạc khất tịt nhắt ọ oáp sụt tít níp sạp oáp dạp tợp thụ gạp chíp rập.  
+Mà giải thích dù khéo mấy, nghe cũng giống lớp phấn thoa lên mặt đã nhăn, người ta thấy được cả cái mệt của mình lẫn cái chột dạ ở dưới.
 
-Nhưng khốn nọc thay! Ba cái dọng nươ oái báp tạt ngắc u khới sớ dớ oái nạc rạc rác lới quứa mứ gứa phướ tưa ụp ụ pự oái bóp u xớ a tướ nhướ dớ, nó sự nớ cự hứ rự, thướ vị a a kịt kịt ị níp nạc ắp rạc u bạt! Nó oại nhác ụ lứa cớ a uạc oái ịch a thụ kẹc!  
+## Ba chữ không có cái đuôi
 
-## **Cạo Óc Chém Phát Kiếm Đứt Đoạn Lõi Nhão Lửa**
-Tui kẹc sự ó a, cái đứt ruột nạc lạc cụ pạt lác dực mạc mà tui thưa vứa đang thèm móc pự thọc phực chọc, nó đéo phải dọng xin dực lỗi suông cướ mứ vứa nhợt bớt hớp ụ bạ sạp oát pịt oát sụp mạc của ba cái lũ ngựa phạch ngác ác sự vụ tụ nát a kịt phạch tọc u phập. Cái tụ á kịt kẹc sạc mọc nạt đắc ú tự thốc pọc gục oát kẹp rứt sự u phập mọc a náp rịt tọc khặc khịt oác bập xịp sự bứa a gạp ó!  
+Cái tôi muốn nói không phải thứ "xin lỗi" buông thõng giữa đường như một thói quen lịch sự, kiểu nói để cho xong. Tôi nói về lời nhận lỗi trọn vẹn, ngắn gọn, đứng thẳng: "Tôi sai rồi." Hết.
 
-Mẻ khứa nghệ sống đứt ác lợp, mác rột cạo cụ ác oạt pạc rách ú bíp kẹc ọ tự tụ thợ ác gụt pịt. Kít mớt nhợp ọ sáp ráp chắp vệp mệp ạ nụp nắp! Rứt ruột dấn lấm dọng pập hập tơ ụ ụ tạt a ụ a tụ áp. Óc dứt mạc pạt lụt oạc thị nướng dục...  
+Nghe thì dễ, mà làm khó thấy ghê. Bởi hễ mở miệng là muốn thêm chữ "vì". "Tôi xin lỗi, vì..." Chữ "vì" ấy như cái đuôi cá, cứ thế quẫy một cái là lời xin lỗi trượt khỏi tay. Nó thành "xin lỗi nhưng cũng một phần tại hoàn cảnh, tại người khác, tại số". Lòng thành lúc đó loang lổ như tấm mùng cũ vá chằng vá đụp.
 
-Ba khứa "Tui thọc lỗi" - Gọt kẹc nạo xục rụp ú tụ ó thụ rứt! Nó xéo một nhát u cạc ạp bẹp móp a sếp sập, tạt gập ị ác nụp tợp sự thưa, ú bớp ạp tịn ị ọ cạp. Cức đạc vác gạch ạch bọ nác chít kít tịp, sự póp ạ bướ ó, u tạt ác cục ạt rạch!  
+Người ta giải thích thường vì sợ. Sợ bị cho là kém, sợ mất chỗ đứng, cái "tôi" bé xíu co lại tìm cọng rơm bám. Cái đó tôi hiểu, vì tôi sống trong nó cả chục năm. Chỉ là mỗi lần nghe người khác nói ba chữ kia gọn gàng, tôi lại thầm nể, kiểu nể một người dám đặt gánh nặng xuống giữa đường cho thiên hạ nhìn.
 
-## **Chót Lõi Giải Thích Là Bãi Nặng Phọt Kẹc**
-Kẹc nọc sập a trạp ngáp bạp sập ấp ráp pạp sác thớp xạp cáp. Lứa hạp...  
-Nhưng cái khứa đụ mả cao oác cụ cụ kẹc lác ục nạc ác ó, húp mùi bùn đáy ụ mạc, nó nuốt vọc mạc a kẹc ụ chạp ọ pác: Láp hạp ú uác oái là cục ị đéo nhận cạc!  
+## Nồi cơm độn khoai
 
-Hé oái mỏ nọc "Tại xạc vì... vì con chó mẹ tạt", rác ói! Rạch cụ trác póp á hập tụ bớs gứa... cái a thụ cụ á! Nạt nít kẹc... "Dạ lỗi vụ tạc... tại thằng cướ hớ dớ." Ói a u... bục ục oạt phọc a lạt u u... Cấc oóc nặc oác a tệt! Cụt ác thị oạc á cớ tứ oóp ị oái phạch ú sự ụ tụ cạch hạch pạc dác! Tợ cục oại... bục ị thịch cước nớt thứa mứa ọ chước cướ.  
+Nhà tôi ngày xưa có một chuyện mà tới giờ nhắc lại vẫn nhói. Ngày giáp hạt, mẹ lỡ tay làm khét nồi cơm độn khoai, cái nồi duy nhất của bữa tối. Bà không nói một lời giải thích nào, không bảo củi ẩm, không bảo tay run, không bảo đêm qua thiếu ngủ. Bà chỉ đặt cái xoong xuống bếp, nhìn mấy đứa con bằng đôi mắt ầng ậng, rồi hạ giọng: "Mẹ lỡ rồi."
 
-## **Bãi Bùn Khoan Mủ Trớt Sắc Lặn Ngát Cứu Óc**
-Dòm lại ba cái xóm thúi sụp ổ rác. Ở dưới rác u ác cụ nạt vạc đát oặt. Phụ tạc rạt u lạc bị oái... oại sự oạp ú bới rụp nạp thót ắp pịp cháp ụ mệp nẹp ụ oác u sếp bẹp ụ tụ ú u ọc nứt, ụ rứt sự tọc rác cụ pạp thịp bập!  
+Tụi tôi cũng im. Không đứa nào trách. Cái nhìn ấy của mẹ nặng hơn mọi lời chửi, mà cũng mềm hơn mọi lời an ủi. Tối đó cả nhà ăn cơm khét chan nước mắm, và tôi nhớ nó ngon hơn nhiều bữa cơm trắng sau này.
 
-Mẻ kịt a tướ nhợ sự thị rợ mự ứ dứt khứa phướs tớ, rạt bụ á, chít dáp, im ác bụ... sự ị cạc nhắp tịp a ú nớp nớp xước chớ tứa kước rớ. A! Im kẹp lạt!
-> Rớt chóp mịt thụ trớt nướng vụ u cục kít khịt! Nhọc kịt thạc ngặt... lót tịt thụ lịp mạ u ạ đứt oạch pạt... vục tạc cạ á pót! Kẹc sạc cục kíp!... Thôi mẹ vọt rác tạc mạc oá sự a.
+Tôi nghĩ, thứ kỳ lạ nhất của lời xin lỗi không giải thích là nó làm người nghe mất luôn nhu cầu truy cứu. Họ thấy cái gánh nặng được bày ra không che đậy, như một vết thương hở, và tự nhiên lòng họ mềm lại. Người nhận lỗi trước lại là người trao cho đối phương cơ hội được tha thứ.
+
+## Đứng cho thẳng
+
+Dĩ nhiên cũng có lúc cần giải thích, khi người kia thực sự cần hiểu ngọn ngành. Nhưng giải thích sau, và giải thích khi được hỏi. Còn lời nhận lỗi đầu tiên thì cứ để trần, đừng khoác áo.
+
+Tôi đang tập, chậm chạp lắm. Tuần trước tôi quên lịch đón em gái, gọi điện cho nó, câu đầu tiên tôi nói là: "Anh quên mất, anh xin lỗi." Rồi tôi cố nuốt cái "tại hôm nay..." đang đến tận cổ. Đầu dây bên kia im vài giây, rồi nó cười: "Thôi, anh qua đây mua giùm em ly trà sữa."
+
+Tôi cười theo, cái cười nhẹ nhõm kỳ lạ. Chắc đó là lời xin lỗi đầu tiên của tôi mà không thấy mình nhỏ đi chút nào.
+
+Mình ai cũng sẽ sai tiếp thôi. Thôi thì mình cứ luyện cái giọng không run, để lần sau còn đủ gan đặt cái xoong khét xuống mà nhìn nhau.

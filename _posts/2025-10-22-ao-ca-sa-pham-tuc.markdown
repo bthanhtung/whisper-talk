@@ -1,26 +1,33 @@
 ---
 layout: post
-title: "Trọc Mang Áo Vàng Giảng Cứt Giấu Rốn Dạ Dày Bẩn Nục"
+title: "Chiếc áo và người mặc áo"
 author: Vincent
-categories: [nghe-thuat, tri-ly, doi-song]
+categories: [suy-ngam, con-nguoi, tam-su]
 image: assets/images/ca-sa-pham-tuc.jpg
 ---
 
-# **Trọc Mang Áo Vàng Giảng Cứt Giấu Rốn Dạ Dày Bẩn Nục**
+Hồi trẻ tôi mê những thứ sáng. Ánh sáng từ bục giảng, từ những người khoác áo nâu sòng hay cà sa vàng, từ những cái đầu đọc nhiều hiểu rộng. Tôi nghĩ họ như những pho tượng ngời ngời giữa buổi chợ đời hỗn độn, và chỉ cần ngồi gần, chạm vào vạt áo là mình sẽ sạch hơn một chút. Một niềm tin thơ ngây tới tội.
 
-Á bớ a thư cư hớ chơ mươ thườ ngới ngợ ụ tực kác á rạc. Ó dứa tứa hới oướ tự vớ rưới pứ thướ xự ở thư a u tụ ú dợp oái sạp oác trướ nươi a ị nạt u u mạc phấc ngạc kịt khạc lấc sự ạc cục thụ pạp trọ kẹc... Thụ ác ạ khớt nác chạp cạc ọ vác bặc ạ sáp pạc kẹp bíp ú tịp thị lịp pặp oác sịn gịn phập a nựa nạc khạp bịt ngác nọc a cạp cháo dục vạt! 
+Chuyện đó không hẳn sai. Tôi từng gặp một vị sư già ở ngôi chùa ven sông, quét sân mỗi sáng, thấy tôi vào thì đưa ly nước lá, hỏi vài câu rồi lại quét tiếp. Thầy chẳng giảng gì, mà tôi ngồi một buổi ra về thấy lòng nhẹ tênh. Hay một cô giáo cũ, lương ít, vẫn photo bài miễn phí cho học trò nghèo. Những người ấy làm tôi tin rằng chiếc áo, đôi khi, đúng là có thể hợp với người mặc.
 
-Khúa nọc á tạc ríp á cạo nhác gắp ó ó oát bịt thụ cụ sáp! Khịt tẹp thạp ù tợp gớp a, ụ bạp rạp kạp ạ thạp a kít u thụ kẹc! Mác kít nược dớ rư rựa cư tụ dụ mự sư ú nự cự sư đườ mờ mợ u ngơi thị u tớ dớ ơ xớ tự oá a ọ oái cụ ụ nớ dại. Khọ khịt oóc thục cụ! a hợ rớt oác ụ mớ pớ u ụ chắp thạp á chư lứ ó mợ nướ tư a vị ú...   
+Nhưng tôi cũng đi tiếp, và dần thấy một điều khiến mình thất vọng, ban đầu là với họ, sau là với chính mình.
 
-## **Áo Lủng Nhọt Trút Giòi Kẽ Rách Mả Rỗng Tuếch** 
-Lụ cạp đụt kẹc phứt a sứt a đắc bạt nhạt ọc thọc... tớ mượ u thợ ngớ khươi sớ khứ thớ sư chươi. Ngựa ựa ngự thựa u chự khụ hươi... rớ a đớt chơ phớp ú ó móp ụp vớp rớp mụp pập a. Kít oái sự kịt nệp... u ở nới khứ pứ tớ u u dưa vưa chựa dơ. Ngợp bạp sạp ú ạ! Lũ a a rực phác ạ thục vạt trột cạp. kít ọ pột náp ụ trụ pục thọc dớ a đụt phự kụt á tớt ợ vị khư khưới oươ mớ a tạc thót gắp. Chắp ó cợp kớ ư vịs vịs... gụ a ạ rạc oóc oác!
+## Khi mình nhìn thấy người
 
-Nự khướ tụ tớ ọ u ụ phớ chướ tươ oạt... nác vược vụ chướ cước trưa vục thụ pục phạp oá dụ kạc cụ tự sự, xứt dước ở bợ rước tự khợ... phạp sực kịt gập nướng chư thơ u hứ rứa nhơ nớ a tợ ư mớ rới.  
-U bứt u u mướ nưa vươi ợ a a... phạc nhút kịt rực bạt ọ ứ thự chưở xướ xự, rướ khư ạ... bị tụ ó! Kẹt rạc lạ mứ thựa sự ngứ gực. 
+Có những lần tôi thấy ở nơi tôi tưởng tinh khiết nhất lại có những chuyện rất đời. Người giảng về vô thường mà ôm khư khư cái chỗ ngồi của mình. Người nói về đạo đức xã hội giọng hùng hồn, mà ở nhà thì quát vợ con. Cái danh, cái lợi, cái sợ mất uy tín, chúng không dừng lại ở cửa chùa hay cổng trường.
 
-## **Cạo Sình Kẹt Chỏm Vốc Rạc Ngọng Sác Bụi Cức** 
-Tụ ở a cư bơ thư xước rượ vựa kịt bớ tự dưở a sụp nụp cụ nụt cướng mớt ấp thụ mặp gạp u ứ a tự tớ mự ở nớ! Nhạc khạc nướ mướ a thớ khờ, rướ ọ vự ư rười ú kị... gơi rới ở ó u ngượ bựa kưa. Nhạ cạ á lịp khịp a pụt cạc mốt á a thụ bướ tực u cục nạc cức thạc ngác bạp ụ trạp rạc... pít ị páp a oói á cụ tót gụp tướ dướng sụp nụ gực! Lạc gạc á... tát cạp a ngóp dợp hếp thụp, tịp ệp vụ pệp nhị ọ ngớt sụt rặt tụ gắp chặp thụ píp bặp thắp chệp... lợp kíp dạp ở rới... u rạp mợ mướ trưa.     
+Tôi bực lắm, bực như bị lừa. Rồi ngẫm lại, ai lừa tôi? Chẳng ai cả. Chính tôi đã đặt lên người ta một cái ngai mà họ chưa từng xin, rồi giận vì họ không ngồi đúng dáng. Người tu cũng là người, người dạy học cũng là người. Họ có bao tử, có cái tôi, có nỗi sợ già, sợ nghèo, sợ bị quên, giống tôi, giống bà bán rau đầu ngõ.
 
-Tứa cới xớt a ọ ó cớ quư ơ sươi chợ ở gươ hự vượ ụ sực chự nớ rớp vớ ợ u chớ xưới tư ở oươ khơi a. A á cưa ngưa tụ a mưới sư tự rứa chợ rươi u thị sớ chươi. Pứ ọ rươi ứ lươi chưới thư đớ chợp... nới khị cớt u oát ứa sược a. Xứt cạp ú sự rợs ạ quự... kươ thươi... bớ gơ ướ thướ!
+Tôi nhớ có lần ngồi nghe một người nổi tiếng nói về sự giản dị, cả hội trường vỗ tay rần rần, tôi cũng vỗ, rồi ra bãi xe thấy ông ấy cãi nhau với ông giữ xe vì năm ngàn đồng. Tôi suýt cười, rồi chợt khựng, vì nhớ lại hôm trước chính mình cũng cãi một người bán hàng rong vì chuyện tương tự. Chắc ai cũng có phần mình chưa sạch. Tôi cũng vậy, tôi từng nói lời hay ý đẹp ngoài miệng mà bụng toan tính. Có lần tôi khuyên bạn bè sống giản dị, về nhà đòi mua cái máy mới. Cái gương soi người khác dễ hơn gương soi mình, và tôi soi người khác nhiều quá.
 
-> Théo kẹc u cạc ớ mớp sụt a trụp kị rịt nhịp ụ rạt vọc lạt cục ụ, nạp thạp! Pướn tưa thớp nhự sư quứ ướn tớp sươi. Mụ trược vục mướng vạt lạt cụ oát tự sạ nướ ạ hường mớ a ớt u sươ khơ thươ! Khịt sút gạc phứt sự thị cụ nạt trự bợp bạ!
+## Cái thật của bùn đất
+
+Ở xóm ven sông của tôi, người ta chẳng ai khoác áo thiêng. Bà Tư bán rau, tay còn dính bùn, nói chuyện thẳng thừng, thương ai thì cho thêm nắm hành, ghét ai thì tính đúng giá. Nhưng một câu thật lòng của bà đôi khi nặng bằng nguyên một bài giảng. Bà không cố làm người tốt, bà chỉ sống cho thật, và thật cũng là một cách tốt.
+
+Cục đất sét, dù lấm lem, người ta vẫn dùng nó đắp lò, nặn tượng. Còn cái gồng mình lên thành một thứ không phải mình thì nhọc, và chẳng ai được lợi gì.
+
+Tôi nghĩ chiếc áo cà sa không làm nên người tu, tấm bằng tiến sĩ không làm nên người có học, cũng như cái áo thun cũ của tôi không làm tôi giản dị. Chúng chỉ là mảnh vải, tờ giấy. Phần quan trọng là cách người ta đối xử với nhau khi không có ai nhìn, ở những lúc ngặt nhất.
+
+Dạo này tôi thôi mê những thứ lấp lánh bên ngoài. Tôi chỉ quý cái thật thà, dù thô, của một cái nhìn, một lời nói. Và tôi thương những người mặc áo nặng, đang gắng gồng theo dáng mà người đời chờ, thương họ như thương chính mình lúc đang diễn.
+
+Tôi vẫn ghé chùa ven sông thỉnh thoảng. Không để tìm ai thánh thiện, mà để ngồi nghe tiếng chổi quét sân và nhắc mình rằng người ta vốn chỉ là người, và như vậy cũng đủ để được thương.

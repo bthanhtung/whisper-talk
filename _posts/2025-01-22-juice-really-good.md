@@ -1,137 +1,34 @@
 ---
 layout: post
-title: "Cái Nết Ngọt Dối Trá Của Cốc Nước Ép Phồn Hoa"
+title: "Ly nước ép và chuyện vừa đủ"
 author: Vincent
-categories: [doi-song, suc-khoe, tu-duy]
+categories: [am-thuc, doi-song]
 image: assets/images/14.jpg
 tags: featured
 ---
 
-# **Cái Nết Ngọt Dối Trá Của Cốc Nước Ép Phồn Hoa**
+Dạo này đi đâu cũng thấy nước ép. Quán cà phê sáng có, phòng tập có, chị đồng nghiệp ngồi bàn bên có cả chai màu xanh lá cây để cạnh bàn phím, nói là thanh lọc. Người ta bảo uống nước ép mỗi ngày thì da đẹp, người nhẹ, bao nhiêu mệt mỏi tan theo. Nghe thì thích, mà tôi nghe hoài nên bắt đầu thấy tò mò, không biết thật hay chỉ là cái thời thượng khoác áo lành mạnh.
 
-Giờ ra lộ, quẹt mắt đụng chỗ đéo nào cũng rặt một tuồng nước ép: tụi oắt tì ưỡn ẹo múa may trên mạng, vác mình mẩy bóng nhớt ở phòng tạ, hay chễm chệ vắt giò lên góc cà phê máy lạnh. Thậm chí, thọc tay vô mấy cái giỏ da sần sùi ngàn đô của đám tiểu thư chốn đèn màu lúc nào cũng ợ ra rành rành một chai nước màu mè lòe loẹt, bảo là "de-tốc mẹ gì đấy thanh tịnh rửa lòng phàm".  
-Người cõi này mê tín lú lấp rằng **uống thứ nước chắt ép là liều thuốc tiên**, nốc tỳ tỳ cho rụng bớt tuổi già, vuốt cho thẳng nếp nhăn, và nạm cho cái thân hình dặt dẹo khỏi mục rã trước cái thời.  
+Tôi không phải bác sĩ nên chẳng dám nói chắc điều gì về sức khỏe. Chỉ kể những gì mình thấy, mình nghĩ.
 
-Cơ mà sượng trân thay, có đôi cái nách khuya buốt lạnh, tui bóp trán tặc lưỡi:  
-**Cái thứ mủ trái cây lèo tèo bòn mót bằng thứ răng cưa thô bạo kia, có mẹ gì là vẹn toàn như thiên hạ bưng bô?**  
-Hay rốt cuộc ráo trọi lại, nó chỉ là một khúc phế phẩm què quặt của nếp sống láo nháo, đem nhai nhồi nuốt vội bốc lột bằng sạch cái xác thô kệch nhả lại?
+## Ly cam của má
 
----
+Lần đầu tôi nhớ mình uống nước ép là ly cam má vắt. Hồi đó nhà chưa có máy, má cầm nửa quả cam xoay xoay trên cái vắt nhựa, nước chảy ra lẫn vài hạt, má vớt hạt rồi đưa tôi. Chua chua ngọt ngọt, còn có cả tép cam li ti. Tôi nhớ vị ấy như nhớ ánh nắng đổ trên vai ngày hè.
 
-## **Sự xé xác tàn bạo của cái gọi là tinh hoa**
+Ly nước ấy khác ly nước ép tôi mua ngoài tiệm sau này, và khác ở chỗ tôi không ép hết trong một lần ngồi. Một quả cam vắt ra chừng một ly nhỏ, còn quán bây giờ bưng ra ly to, bên trong chắc phải ba bốn quả. Tôi uống một hơi mà không cần nhai gì, lúc đó mới thấy cái ngọt này đến nhanh quá, đi cũng nhanh, lát sau lại thèm thêm.
 
-Ngày xửa thuở nào, cái lúc má tui bưng rổ cam sành nhăn nhúm rẻ rề ngoáy cái vá đục lồi lõm rặn ra vài muỗng chua chua chè chè,  
-tui nếm vớt giọt phèn ấy mà mát tê gân phổi, y hệt giọt mưa rớt lộp bộp lọt phên lá dừa giữa mùa nắng quái.
+## Cái ngọt dễ gây hiểu lầm
 
-Nước ép dăm ba lúc đầu nó thiệt tình là dòng cốt máu trân quý nặn từ lồng ngực mẹ thiên nhiên.  
-Nó ứa ra bưng bít:  
-- Mớ sinh tố lóc xóc chua lè từ cục cam sần sùi rụng cuống,  
-- Cái ngọt lờ lợ đứ đừ từ chùm nho chát xít bầm dập,  
-- Cái ềnh oang giải hỏa rột rột của miếng dưa hấu đỏ nghét rụt thịt cắn miếng chỏm,  
-- Và cái văng vẳng thanh tao rờn rợn tự chóp củ dền hay táo úa.
+Tôi từng nghe người ta nói trái cây ép lấy nước thường bỏ lại phần xác, tức là phần chất xơ, nên uống vào khó no lâu bằng ăn cả trái. Tôi không rành khoa học, chỉ nghiệm ra từ bụng mình, ăn một quả táo thì no, uống nước ép ba quả táo thì chẳng thấy đã gì, lại còn thèm. Cái ngọt mượt mà đó dễ khiến mình tưởng uống nhiều cũng vô hại, trong khi cái gì dễ uống quá thì thường nên uống chậm.
 
-Đẩy dời cặp mắt mổ xẻ của cụ **Nguyễn Tuân** lách vào soi rọi, hẳn ngài khoác lác bảo rặt thức khát rách họng này là "mủ thiêng nghệ thuật", chém gió gọt từ tinh huyết bọc bã của lá hoa.  
-Đúng, nó có ngon... nhưng cái nết tốt ấy, khốn nạn thay, chỉ **thu lu cắm sào ở cái ranh giới rào hẹp ngạt nghẽo của sự thiến hoạn tự nhiên**.
+Nhìn người thành phố uống nước ép như một nghi thức, sáng cần tây, trưa cam mật ong, chiều dưa leo bạc hà, tôi vừa buồn cười vừa thương. Buồn cười vì có người bảo mình đang sống khỏe mà bữa cơm chính thì bỏ. Thương vì tôi cũng từng như vậy, cầm chai nước ép đi làm như cầm bùa hộ mệnh, tin rằng nó gánh giùm những đêm thức khuya, những bữa ăn vội của mình.
 
----
+Tôi cũng không loại trừ khả năng mình hiểu chưa đủ. Người hiểu rõ hơn chắc sẽ nói được điều chính xác hơn, và tôi sẵn lòng nghe. Cái tôi giữ lại là thái độ, uống thì uống bằng cái đầu tỉnh, tránh thành người mua cả lời hứa trong chai, chứ nước thì có đáng bao nhiêu.
 
-## **Cái ngọt xé cật – Thằng lừa bịp điếm thúi giả nhân giả nghĩa**
+## Một cái ly không gánh nổi cả cách sống
 
-Thiên hạ nhát cáy lấp liếm cái mảng dơ dáy trắng trợn dối lừa lù lù ra đấy:  
-**Mày thò mồm nốc cái mủ hoa, mầy nhổ toẹt mẹ nó cái mảng giáp sắt mộc mạc và trung thành nhất – cái xác bã chất xơ.**
+Nói vậy không có nghĩa nước ép xấu. Tôi vẫn thích, và những hôm trời nóng hay hôm ốm chán ăn, một ly nước ép tươi còn là sự cứu rỗi nho nhỏ. Cái tôi muốn nói là mình đừng mong một ly nước làm thay việc của cả cách sống. Ăn uống đủ bữa, ngủ đủ giờ, đi bộ ít bước, mấy thứ cũ rích đó lặng lẽ làm việc nhiều hơn mọi loại trào lưu.
 
-Bã cặn nó là bà má nghèo ôm giữ:  
-- Giữ cái bụng lép xẹp no lâu ấm kẹt,  
-- Giúp cái ruột lủng lẳng lùa cứt qua nhẹ hều,  
-- Nén nghẹt mấy ống máu hổng sôi vọt lên điên loạn tăng xông vì đường phèn càn ngập,  
-- Ngót ngoắt kìm nén dằn cái mạng gầy rọc y chiếc xuồng ba lá cạ bùn trôi thẳng láng rạch.
+Ông ngoại tôi chẳng bao giờ nghe tới chữ detox. Sau buổi làm đồng, ông ngồi dưới gốc cây bổ trái dừa, uống từ từ, nhìn ra ruộng, rồi ăn luôn phần cơm dừa trắng mềm. Tôi chắc ông chẳng biết mình đang làm điều gì thông thái, chỉ là ông uống cái mình cần, đúng lúc mình cần, và dừng ở chỗ vừa đủ.
 
-Vứt trái tươi vô miệng cái cối xay đứt gân cưa máy, mày móc ngoe vớt "hồn ngọt lủm" và ném thẳng vựa "khung xương chịu trận" vào sọt rác của loài trọc phú giãy đành đạch.  
-Cái hớp tọng xuống cuống bào tử kia cắn nướu **quá ngọt tới độ điếm thúi độc dược**, dộng xộc đường gắt lên gan ruột mau hơn thằng xe ma chạy trốn công can rượt nắng Sài Thành vắt óc.
-
-Hỏi gã **Nam Cao** còng lưng chứng kiến bộ mặt thị dân bưng cái ly rỗng tuếch nước xanh đỏ lè hớp ừng ực nhe răng tự mãn, cụ ắt tợp cái tẽn chua cay móc họng mửa câu chốt:  
-> *“Phàm giống gì ở đời mà ngọt nhũn thơn thớt, y rằng giấu một phường gian xảo lừa mặt móc ruột.”*
-
-Hổng phải củ quả bị sâu tội lỗi,  
-mà giống người tự phác họa tạc đắp cho rốn cái ảo ảnh bóp nghẹt nhai nuốt cái mật thô thành **nguyên lý thanh cao rách rẻ của trần bì**.
-
----
-
-## **Rót sao cho đặng kiếp – Nhuận tràng hay thuốc độc**
-
-Y xì mâm cỗ trần ai lở loét kia,  
-nước xay cấm rặt **tốt ròn**, cũng hổng mớ gì **ác rứt nọc**.
-
-Lỡ húp bằng cái thóp biết trân trọng:  
-- Hổng quăng cục đường phèn chết dịch,  
-- Nạo củ trái lóc da mới ngâm bùn moi lên,  
-- Uống xích mích vừa ướt mỏ họng lọt hầu,  
-- Đệm luôn cắn tọng cái xác rỗng cồm cộp thỉnh thoảng cho đỡ cóng...  
-
-thì mớ nước đó ỉm lại thành **kẻ bạn hữu đầm đè chăn rách**,  
-êm lịm dịu dàng, chui vô cuống óc như câu vọng cổ xé nát tim mây dạt bụi chuối lụi tàn.
-
-Nhưng cứ nốc thóa mạ rạch họng:  
-- Vác làm nước lạnh nốc thay trời,  
-- Lừa cái nết ngọt ngập răng đụng tới,  
-- Quậy siro, tọng mứt kẹo trùm nhão kẹo,  
-- Bợ dọng lấy nó như phao độn cái thùng mỡ chảy bầy hầy ở eo bành hông xệ...  
-
-thì cái diễm lệ tinh tươm ban mai biến cmn thành **cục tạ đá cột cổ nhấn nước**,  
-hệt như món chầu báu ban rớt rơi hớ hênh lọt tay một phường dốt nát.
-
----
-
-## **Mùi chua xót về lớp thị thành lừa mị học nết thanh thao**
-
-Lũ ở phố máy lạnh vớt ly nước xay tọng như một cái lễ bái đền đài:  
-Rạng sáng – dốc cái cốt cần tây tanh rình tanh rọng,  
-Trưa nắng quái – cam chua pha mật ruồi rắc nùi quế,  
-Chao chiều – quặp chai de-tox vắt dăm miếng dưa leo, bóp lá the mát chanh héo hắt nhạt nhẽo.
-
-Đám phàm hờ hợt tọng vỗ ngực rên rỉ tao đang sống xanh thấu cốt, thế chó nào rặt lại là phèng bơi xềnh xệch rượt bóng một cái chữ hư ảo khoác lác để phô trương.
-
-Ngặt rớt nước mắt, **cái cỗ máy rên xiết thịt xương nát này nó gào đòi thập cẩm thô lậu**,  
-Nó xẻng nĩa nhai banh rễ xơ, cúp răng ngấu cuống vỏ dai lách nhách cho trọn vẹn chứ thèm đéo gì ba cốc nước súc ẻo lả đeo tòng ten móc xích vô cặp da Gucci?  
-Đứt ruột một lẽ sống cuồn cuộn vùn vụt trôi tuột,  
-khiến loài phàm quên ráo trọi cái chân mệnh: **Lành lặn hổng rớt từ cái quầy Bar xanh nõn trào phúng đéo chớp kia**,  
-mà ươm lừ lừ qua cái đít nồi biết mình biết lỡ mỏ trần thân thế nào.
-
----
-
-## **Vãn khúc cho giọt ngọt – Biết tọng cạp ráo vỏ mới chòi mầm**
-
-Khóm nước ép xôm nhất hổng nằm lọt ở ly cúp đá chỏm chọc đắt lọi mỏ,  
-mà sất bất nằm ở cái tích tắc rót tọng vô, lúng túng khi ruột réo khát bòn mót rớt rụng.
-
-Yếm trên đung đưa cành khô quắp nẻ mòn, cốt lõi ấy rặn ra mùi thiên mệnh:  
-**Hổng ê hề mứa họng, đéo còm cõi mót trộm rót lừa;  
-Đếch chanh chua lường rành, hổng lừng lẫy rống mõm khoe mẽ;  
-Chỉ câm bặt tứa nước vuốt mạng sống quắp quéo.**
-
-Trường hợp mầy nuốt tọng cái đó bằng điệu ông lão nông dân ngồi rệp gốc tràm nín nhăn đục dừa nạo nốc ực xả mồ hôi chua nồng — thẩn thơ lủi lủi trôi rịn chân phác đéo hắt đòi,  
-thì nó mới vớt mẹ ra một **hột trần ai lương hảo**,  
-còn bợ đít nó làm da mặt cho loại triết học giả cầy “heo-thi” vứt bục, thì cũng rác phế rập khuôn cả lũ hắt xì.
-
----
-
-## **Cút chót – Mủ ép bổ thật, nhưng nhét não khôn mới là thứ sống còn**
-
-Gút lõi mọt gặm vô: Ngập nước ép có ngon mẹ gì đặng tút lại cái trần ai này hông?
-
-Buông lời trả dép mặn quéo gan óc tàn nhẫn:  
-**CÓ – nếu mày bưng húp bằng cái thóp sọ trơ lì lõi gạo óc sống.  
-ĐÉO mẹ – rớt khi mày rúc đầu nhét vô sọt rác của cái lũ tin phép mộng làm tiền mù lòa mù câm.**
-
-Mủ ép nào ác, trái nào độc.  
-Vung dao đâm xẻ ngược dòng nhét mồm ẩu tả mới vạ lây gánh mòn đứt xương chậu.
-
-Úp thêm cọc Nam Cao, vạt thêm chiếu khét nhà Nguyễn Tuân mủm mĩm buột miệng rằn dọi chép xót dằn miệng móc ruột phanh ngực, dẫu sao thì cái chữ lý nhét trơn ở đời phải ghim chằng cắn lợi:
-
-> **Cái ngon cái bùi thế cuộc chả phải loại lòe rực dán mác lóng lánh phủ bụi đèn xanh đỏ rực,  
-> Mà trệu trạo nhão đứt nhưng lòi ra trần thô mộc ruột nát đoan chính và thiệt tình sần sủi biết điều của loài nhai nuốt rơm rạ.**
-
----
-
-*Cạn ly mủ ép rách nghèo – róc rành sẽ là trộ xôi ngọt gáy mặn.  
-Còn cắm mặt phang ngập vào cái thùng tôn ti mụ mị xu thời khoe cốt, thì rút ráo lại chỉ ồ hộc một khạc hắt thở não mề rên rỉ trong cái nôi mục đã oằn đít bao phần.*
+Có lẽ vì vậy mà lúc này tôi chọn uống ít hơn, chậm hơn, đôi khi chỉ nửa ly. Hôm nào thèm thì ép một quả cam như hồi má còn vắt, ngồi hiên nhà nhấp từng ngụm. Không mong nó trẻ ra, đẹp hơn hay sạch hơn, chỉ mong còn nhớ cái vị chua ngọt của ngày nhỏ, và còn một người nào đó ngồi cạnh để chia nửa ly còn lại.
