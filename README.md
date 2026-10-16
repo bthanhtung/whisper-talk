@@ -1,6 +1,6 @@
 # Whisper Talk
 
-Blog tản văn về đời sống, quê nhà, phố thị. Jekyll, deploy trên Vercel: https://whisper-talk.vercel.app
+Blog tản văn về đời sống, quê nhà, phố thị. Jekyll, deploy trên Vercel: https://blog.tungdadev.com
 
 ## Viết bài
 - Bài mới đặt ở `_posts/YYYY-MM-DD-slug.md`. Front matter mẫu và giọng văn: xem `VAN-PHONG.md`.

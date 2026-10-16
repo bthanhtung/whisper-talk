@@ -7,7 +7,7 @@ timezone: Asia/Ho_Chi_Minh
 description: "Tản văn về đời sống, quê nhà, phố thị và những điều nhỏ làm mình thấy nhẹ lòng."
 logo: '/assets/images/logo.png'
 favicon: '/assets/images/favicon.svg'
-url: "https://whisper-talk.vercel.app"   # hoặc domain của bạn
+url: "https://blog.tungdadev.com"
 baseurl: ""    
 google_analytics: 'UA-46278016-1tungbt'
 # disqus: 'demowebsite'
@@ -22,8 +22,8 @@ authors:
     display_name: David
     gravatar: e56154546cf4be74e393c62d1ae9f9d4
     email: WhisperTalk@gmail.com
-    web: https://whisper-talk.vercel.app/
-    twitter: https://whisper-talk.vercel.app/
+    web: https://blog.tungdadev.com/
+    twitter: https://blog.tungdadev.com/
     description: "Author of Whisper Talks"
   vincent:
     name: Vincent
@@ -31,8 +31,8 @@ authors:
     avatar: 'assets/images/avatar.png'
     gravatar: b1cc14991db7a456fcd761680bbc8f81
     email: WhisperTalk@gmail.com
-    web: https://whisper-talk.vercel.app/
-    twitter: https://whisper-talk.vercel.app/
+    web: https://blog.tungdadev.com/
+    twitter: https://blog.tungdadev.com/
     description: "Author of Whisper Talks"
 
 # Plugins
