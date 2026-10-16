@@ -8,11 +8,11 @@
       <a href="{{ '/categories.html' | relative_url }}">Chuyên mục</a>
       <a href="{{ '/blog/' | relative_url }}">Lưu trữ</a>
       <a href="{{ '/about.html' | relative_url }}">Về blog</a>
-      <a href="{{ '/feed.xml' | relative_url }}">RSS</a>
+      {%- comment -%} Tạm ẩn RSS: <a href="{{ '/feed.xml' | relative_url }}">RSS</a> {%- endcomment -%}
     </nav>
   </div>
   <div class="wrap footer-bottom">
     <span>© {{ site.time | date: '%Y' }} {{ site.name }}. Viết bởi TungDaDev.</span>
-    <a href="#top" class="to-top">Lên đầu trang ↑</a>
+    <a href="#top" class="to-top" data-to-top>Lên đầu trang ↑</a>
   </div>
 </footer>

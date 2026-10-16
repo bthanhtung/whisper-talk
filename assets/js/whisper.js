@@ -90,6 +90,73 @@
     });
   });
 
+  /* --- lên đầu trang --- */
+  document.querySelectorAll('[data-to-top]').forEach(function (a) {
+    a.addEventListener('click', function (e) {
+      e.preventDefault();
+      window.scrollTo({ top: 0, behavior: 'smooth' });
+    });
+  });
+
+  /* --- ủng hộ từ thiện: hộp thoại + mã VietQR --- */
+  // Chuỗi VietQR theo chuẩn EMVCo của Napas: mã ngân hàng (BIN) + số tài khoản.
+  function tlv(id, v) { return id + (v.length < 10 ? '0' : '') + v.length + v; }
+  function crc16(str) {
+    var crc = 0xFFFF;
+    for (var i = 0; i < str.length; i++) {
+      crc ^= str.charCodeAt(i) << 8;
+      for (var j = 0; j < 8; j++) crc = (crc & 0x8000) ? ((crc << 1) ^ 0x1021) & 0xFFFF : (crc << 1) & 0xFFFF;
+    }
+    return ('0000' + crc.toString(16).toUpperCase()).slice(-4);
+  }
+  function vietQR(bin, acc) {
+    var merchant = tlv('00', 'A000000727') + tlv('01', tlv('00', bin) + tlv('01', acc)) + tlv('02', 'QRIBFTTA');
+    var p = tlv('00', '01') + tlv('01', '11') + tlv('38', merchant) + tlv('53', '704') + tlv('58', 'VN') +
+      tlv('62', tlv('08', 'UNG HO TU THIEN')) + '6304';
+    return p + crc16(p);
+  }
+  window.WT.vietQR = vietQR;
+  var qrLib = null;
+  function loadQR() {
+    if (qrLib) return qrLib;
+    qrLib = new Promise(function (ok, fail) {
+      var sc = document.createElement('script');
+      sc.src = 'https://cdnjs.cloudflare.com/ajax/libs/qrcode-generator/1.4.4/qrcode.min.js';
+      sc.onload = ok; sc.onerror = fail;
+      document.head.appendChild(sc);
+    });
+    return qrLib;
+  }
+  var donate = document.querySelector('[data-donate]');
+  if (donate) {
+    var lastF = null;
+    var openD = function () {
+      lastF = document.activeElement;
+      donate.hidden = false;
+      document.body.style.overflow = 'hidden';
+      donate.querySelector('.donate-x').focus();
+      loadQR().then(function () {
+        donate.querySelectorAll('[data-qr]').forEach(function (el) {
+          if (el.firstChild) return;
+          var q = window.qrcode(0, 'M');
+          q.addData(vietQR(el.getAttribute('data-bin'), el.getAttribute('data-acc')));
+          q.make();
+          el.innerHTML = q.createSvgTag({ cellSize: 4, margin: 2, scalable: true });
+        });
+      }, function () {
+        donate.querySelectorAll('[data-qr]').forEach(function (el) { el.textContent = 'Không tải được mã QR, bạn dùng số tài khoản bên cạnh nhé.'; });
+      });
+    };
+    var closeD = function () {
+      donate.hidden = true;
+      document.body.style.overflow = '';
+      if (lastF) lastF.focus();
+    };
+    document.querySelectorAll('[data-donate-open]').forEach(function (b) { b.addEventListener('click', openD); });
+    donate.querySelectorAll('[data-donate-close]').forEach(function (b) { b.addEventListener('click', closeD); });
+    document.addEventListener('keydown', function (e) { if (e.key === 'Escape' && !donate.hidden) closeD(); });
+  }
+
   /* --- chép đường dẫn --- */
   document.querySelectorAll('[data-copy]').forEach(function (b) {
     b.addEventListener('click', function () {

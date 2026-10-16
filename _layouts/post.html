@@ -48,9 +48,50 @@ layout: default
         <svg viewBox="0 0 24 24" width="18" height="18" aria-hidden="true"><path d="M10 14a4 4 0 0 0 5.7 0l3-3a4 4 0 0 0-5.7-5.7l-1 1M14 10a4 4 0 0 0-5.7 0l-3 3a4 4 0 0 0 5.7 5.7l1-1" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/></svg>
         <span data-copy-label>Chép đường dẫn</span>
       </button>
+      <button class="btn btn-kind" type="button" data-donate-open>
+        <svg viewBox="0 0 24 24" width="18" height="18" aria-hidden="true"><path d="M4 9h13v4a6 6 0 0 1-6 6H10a6 6 0 0 1-6-6V9Zm13 1h1.5a2.5 2.5 0 0 1 0 5H17" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round"/><path d="M8 3c0 1.5 1 1.5 1 3M12 3c0 1.5 1 1.5 1 3" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/></svg>
+        Donate
+      </button>
     </div>
   </div>
 </article>
+
+
+<div class="donate" data-donate hidden>
+  <div class="donate-backdrop" data-donate-close></div>
+  <div class="donate-panel" role="dialog" aria-modal="true" aria-labelledby="donate-title">
+    <button class="donate-x" type="button" data-donate-close aria-label="Đóng">×</button>
+    <p class="kicker">Lá lành đùm lá rách</p>
+    <h2 class="donate-title" id="donate-title"><em>A coffee can give your kindness to the world.</em></h2>
+    <div class="donate-intro">
+      <p>Blog này không cần tiền để sống, nó sống nhờ có người đọc. Nên nếu bạn định mời tôi một ly cà phê, tôi xin gửi ly cà phê ấy tới nơi cần nó hơn.</p>
+      <p>Một ly cà phê ba chục ngàn, gom lại với ly của người khác, có thể thành một bao gạo cho bà con vùng lũ, một cuốn vở cho đứa nhỏ ở làng SOS. Thương người như thể thương thân, đồng bào mình vẫn đùm bọc nhau như vậy.</p>
+    </div>
+    <div class="donate-list">
+      {%- for o in site.data.donate -%}
+      <section class="donate-org">
+        <h3>{{ o.org }}</h3>
+        <p class="donate-sub">{{ o.sub }}</p>
+        <div class="donate-accounts">
+          {%- for a in o.accounts -%}
+          <div class="donate-acc">
+            <div class="donate-qr" data-qr data-bin="{{ a.bin }}" data-acc="{{ a.number }}" aria-label="Mã QR chuyển khoản {{ a.bank }} {{ a.display }}"></div>
+            <div class="donate-info">
+              <span class="donate-bank">{{ a.bank }}</span>
+              <span class="donate-num">{{ a.display }}</span>
+              <span class="donate-name">{{ a.name }}</span>
+              <button class="chip" type="button" data-copy="{{ a.number }}"><span data-copy-label>Chép số tài khoản</span></button>
+            </div>
+          </div>
+          {%- endfor -%}
+        </div>
+        <p class="donate-src">Nguồn: <a href="{{ o.source }}" target="_blank" rel="noopener">{{ o.source_note }}</a></p>
+      </section>
+      {%- endfor -%}
+    </div>
+    <p class="donate-warn">Tiền chuyển thẳng vào tài khoản của tổ chức, blog không giữ đồng nào. Trước khi chuyển, bạn kiểm tra tên người nhận hiện trên app ngân hàng cho đúng nhé.</p>
+  </div>
+</div>
 
 <nav class="prevnext wrap" aria-label="Bài trước và bài sau">
   {%- if page.previous.url -%}
