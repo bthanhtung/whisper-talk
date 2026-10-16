@@ -75,6 +75,21 @@
     });
   }
 
+  /* --- chia sẻ: điện thoại dùng bảng chia sẻ của máy (mở thẳng app Facebook, Zalo...),
+         máy tính giữ link chia sẻ Facebook --- */
+  var isTouch = window.matchMedia && window.matchMedia('(pointer: coarse)').matches;
+  document.querySelectorAll('[data-share]').forEach(function (a) {
+    a.addEventListener('click', function (e) {
+      if (!isTouch || !navigator.share) return;
+      e.preventDefault();
+      navigator.share({ title: a.getAttribute('data-share-title'), url: a.getAttribute('data-share-url') })
+        .catch(function (err) {
+          if (err && err.name === 'AbortError') return;
+          window.open(a.href, '_blank', 'noopener');
+        });
+    });
+  });
+
   /* --- chép đường dẫn --- */
   document.querySelectorAll('[data-copy]').forEach(function (b) {
     b.addEventListener('click', function () {
