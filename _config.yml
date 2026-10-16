@@ -3,6 +3,7 @@ name: "Whisper Talk"
 title: "Whisper Talk"
 tagline: "Những trang viết chậm cho ngày lòng mình chông chênh"
 lang: vi_VN
+timezone: Asia/Ho_Chi_Minh
 description: "Tản văn về đời sống, quê nhà, phố thị và những điều nhỏ làm mình thấy nhẹ lòng."
 logo: '/assets/images/logo.png'
 favicon: '/assets/images/favicon.svg'
