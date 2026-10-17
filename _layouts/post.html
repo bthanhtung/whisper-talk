@@ -72,6 +72,7 @@ layout: default
       <section class="donate-org">
         <h3>{{ o.org }}</h3>
         <p class="donate-sub">{{ o.sub }}</p>
+        {%- if o.accounts -%}
         <div class="donate-accounts">
           {%- for a in o.accounts -%}
           <div class="donate-acc">
@@ -86,6 +87,10 @@ layout: default
           {%- endfor -%}
         </div>
         <p class="donate-src">Nguồn: <a href="{{ o.source }}" target="_blank" rel="noopener">{{ o.source_note }}</a></p>
+        {%- else -%}
+        <a class="btn" href="{{ o.link }}" target="_blank" rel="noopener">{{ o.link_label }} ↗</a>
+        <p class="donate-src">{{ o.source_note }}</p>
+        {%- endif -%}
       </section>
       {%- endfor -%}
     </div>

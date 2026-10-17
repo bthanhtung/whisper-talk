@@ -3,19 +3,12 @@
 # bin: mã ngân hàng theo chuẩn VietQR (Napas) để tạo mã QR.
 - org: "Ủy ban Trung ương MTTQ Việt Nam"
   sub: "Ban Cứu trợ Trung ương: cứu trợ đồng bào bị thiên tai, bão lũ"
-  source: "https://mattran.org.vn/hoat-dong/thong-tin-cap-nhat-so-tai-khoan-tiep-nhan-ung-ho-dong-bao-bi-thiet-hai-do-con-bao-so-3-gay-ra-cua-ban-cuu-tro-trung-uong-56938.html"
-  source_note: "Thông báo trên mattran.org.vn, 10/09/2024. Mỗi đợt thiên tai có thể có tài khoản riêng, nên xem thông báo mới nhất trên mattran.org.vn."
-  accounts:
-    - bank: "Vietcombank"
-      bin: "970436"
-      number: "0011001932418"
-      display: "0011.00.1932418"
-      name: "MẶT TRẬN TỔ QUỐC VIỆT NAM - BAN CỨU TRỢ TRUNG ƯƠNG"
-    - bank: "VietinBank"
-      bin: "970415"
-      number: "111602391111"
-      display: "111602391111"
-      name: "BAN VẬN ĐỘNG CỨU TRỢ TRUNG ƯƠNG"
+  # Không ghi cứng số tài khoản: MTTQ mở tài khoản riêng theo từng đợt cứu trợ.
+  # Hai tài khoản trong thông báo 10/09/2024 (VCB 0011001932418, VietinBank 111602391111)
+  # quét QR ra "tên người nhận không hợp lệ" (kiểm tra 17/10/2026), nên đã gỡ.
+  link: "https://mattran.org.vn/"
+  link_label: "Xem tài khoản đang tiếp nhận trên mattran.org.vn"
+  source_note: "Số tài khoản thay đổi theo từng đợt cứu trợ. Chỉ chuyển vào tài khoản được công bố trên trang chính thức của Mặt trận, cẩn thận các trang giả mạo."
 - org: "Làng trẻ em SOS Việt Nam"
   sub: "Nuôi dưỡng, chăm sóc trẻ mồ côi và trẻ không nơi nương tựa"
   source: "https://sosvietnam.org/thong-tin/thong-tin-chuyen-khoan"

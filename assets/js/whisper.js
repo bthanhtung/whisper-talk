@@ -75,18 +75,61 @@
     });
   }
 
-  /* --- chia sẻ: điện thoại dùng bảng chia sẻ của máy (mở thẳng app Facebook, Zalo...),
-         máy tính giữ link chia sẻ Facebook --- */
-  var isTouch = window.matchMedia && window.matchMedia('(pointer: coarse)').matches;
+  /* --- chia sẻ ---
+     Máy tính: mở link chia sẻ Facebook như thường.
+     Điện thoại: dùng bảng chia sẻ của máy (chọn Facebook, Zalo, Messenger... là mở thẳng app).
+     Trình duyệt nhúng trong app (Facebook, Zalo...) thường không có bảng chia sẻ:
+     khi đó chép sẵn đường dẫn và nhắc người đọc dán vào, thay vì mở trang Facebook mobile. */
+  function isMobile() {
+    var ua = navigator.userAgent || '';
+    return /Android|iPhone|iPad|iPod|Mobile|FBAN|FBAV|Zalo|Instagram|Line\//i.test(ua) ||
+      (/Macintosh/.test(ua) && navigator.maxTouchPoints > 1);
+  }
+  function toast(msg) {
+    var t = document.querySelector('.toast');
+    if (!t) {
+      t = document.createElement('div');
+      t.className = 'toast';
+      t.setAttribute('role', 'status');
+      document.body.appendChild(t);
+    }
+    t.textContent = msg;
+    t.classList.add('is-on');
+    clearTimeout(t._h);
+    t._h = setTimeout(function () { t.classList.remove('is-on'); }, 3800);
+  }
+  function copyText(text) {
+    if (navigator.clipboard && window.isSecureContext) return navigator.clipboard.writeText(text);
+    return new Promise(function (ok, fail) {
+      var ta = document.createElement('textarea');
+      ta.value = text; ta.setAttribute('readonly', '');
+      ta.style.position = 'fixed'; ta.style.opacity = '0';
+      document.body.appendChild(ta); ta.select();
+      try { document.execCommand('copy') ? ok() : fail(); } catch (e) { fail(e); }
+      document.body.removeChild(ta);
+    });
+  }
+  function shareFallback(url) {
+    copyText(url).then(function () {
+      toast('Đã chép đường dẫn bài viết. Mở Facebook, Zalo hoặc Messenger rồi dán vào để chia sẻ nhé.');
+    }, function () {
+      window.prompt('Chép đường dẫn này để chia sẻ:', url);
+    });
+  }
   document.querySelectorAll('[data-share]').forEach(function (a) {
     a.addEventListener('click', function (e) {
-      if (!isTouch || !navigator.share) return;
+      if (!isMobile()) return; // máy tính: đi theo link Facebook
       e.preventDefault();
-      navigator.share({ title: a.getAttribute('data-share-title'), url: a.getAttribute('data-share-url') })
-        .catch(function (err) {
-          if (err && err.name === 'AbortError') return;
-          window.open(a.href, '_blank', 'noopener');
+      var url = a.getAttribute('data-share-url');
+      var title = a.getAttribute('data-share-title');
+      if (navigator.share) {
+        navigator.share({ title: title, text: title, url: url }).catch(function (err) {
+          if (err && err.name === 'AbortError') return; // người đọc tự đóng bảng chia sẻ
+          shareFallback(url);
         });
+      } else {
+        shareFallback(url);
+      }
     });
   });
 
@@ -168,8 +211,7 @@
         setTimeout(function () { label.textContent = old; }, 1600);
       };
       var text = b.getAttribute('data-copy');
-      if (navigator.clipboard) navigator.clipboard.writeText(text).then(done, done);
-      else { window.prompt('Chép đường dẫn:', text); }
+      copyText(text).then(done, function () { window.prompt('Chép:', text); });
     });
   });
 
