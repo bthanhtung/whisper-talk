@@ -216,7 +216,7 @@
   });
 
   /* --- hiện dần khi cuộn tới --- */
-  var items = document.querySelectorAll('.card, .lead, .topic, .pick-list li');
+  var items = document.querySelectorAll('.card, .lead, .topic');
   if ('IntersectionObserver' in window) {
     var io = new IntersectionObserver(function (entries) {
       entries.forEach(function (e) {

@@ -453,6 +453,8 @@ button { font: inherit; color: inherit; cursor: pointer; }
 }
 .toast.is-on { opacity: 1; transform: translate(-50%, 0); }
 
+.nav .ext, .footer-nav .ext { display: inline-block; vertical-align: -1px; margin-left: 2px; opacity: .6; }
+
 /* ---------- footer ---------- */
 .site-footer { margin-top: clamp(80px, 10vw, 128px); border-top: 1px solid var(--line); background: var(--surface); }
 .footer-inner { display: flex; flex-wrap: wrap; justify-content: space-between; gap: 32px; padding-top: 48px; padding-bottom: 32px; }
