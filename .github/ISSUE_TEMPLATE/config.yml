@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Lỗ hổng bảo mật
+    url: https://github.com/bthanhtung/whisper-talk/security/advisories/new
+    about: Báo cáo vấn đề bảo mật riêng tư, không mở issue công khai.

@@ -1,0 +1,34 @@
+name: Báo lỗi
+description: Có gì đó trong Whisper Talk không chạy như mô tả
+labels: [bug]
+body:
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: Chuyện gì xảy ra
+      description: Bạn đã làm gì, mong đợi gì, và thực tế ra sao.
+    validations:
+      required: true
+  - type: textarea
+    id: reproduce
+    attributes:
+      label: Cách tái hiện
+      placeholder: |
+        1. Mở trang ...
+        2. Bấm ...
+        3. ...
+    validations:
+      required: true
+  - type: input
+    id: url
+    attributes:
+      label: Đường dẫn
+      description: Bài viết hoặc trang gặp lỗi.
+  - type: textarea
+    id: environment
+    attributes:
+      label: Môi trường
+      description: Thiết bị, hệ điều hành, trình duyệt và phiên bản.
+      placeholder: iPhone 15, iOS 19, Safari
+    validations:
+      required: true

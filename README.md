@@ -20,3 +20,15 @@ Mở http://localhost:4000
 - `assets/css/whisper.css`: toàn bộ style, biến màu ở `:root` (sáng) và `[data-theme="dark"]` (tối).
 - `assets/js/whisper.js`: tìm kiếm không dấu (phím `/`), đổi sáng/tối, cỡ chữ, thanh tiến độ đọc, mở bài ngẫu nhiên.
 - Font: Noto Serif Display (tiêu đề), Literata (thân bài), Be Vietnam Pro (giao diện). Đừng đổi sang Playfair Display in nghiêng, font này đặt dấu tiếng Việt bị lệch.
+
+## Đóng góp
+Rất hoan nghênh: sửa lỗi chính tả, link hỏng, lỗi giao diện, hiển thị trên điện thoại, chế độ tối, tốc độ tải trang.
+Đọc [CONTRIBUTING.md](CONTRIBUTING.md) để biết cách chạy thử và những điều cần giữ (giọng văn của bài, font có dấu
+tiếng Việt chuẩn). Thấy gì chưa ổn thì [mở issue](https://github.com/bthanhtung/whisper-talk/issues/new/choose) nhé.
+Vui lòng theo [Quy tắc ứng xử](CODE_OF_CONDUCT.md); vấn đề bảo mật báo riêng theo [SECURITY.md](SECURITY.md).
+
+## Giấy phép
+- Mã nguồn và giao diện (layout, CSS, JavaScript, cấu hình): [GNU GPL v3.0](LICENSE). Giao diện ban đầu dựa trên theme
+  Mediumish của WowThemes.net, phần đó giữ giấy phép MIT gốc trong [LICENSES/MIT-mediumish.txt](LICENSES/MIT-mediumish.txt).
+- Nội dung bài viết trong `_posts/` và ảnh trong `assets/images/` thuộc bản quyền tác giả. Muốn trích dẫn hay đăng lại,
+  vui lòng ghi nguồn và dẫn link về bài gốc.

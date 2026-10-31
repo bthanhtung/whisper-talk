@@ -1,0 +1,32 @@
+name: Đề xuất
+description: Gợi ý cải thiện Whisper Talk
+labels: [enhancement]
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: Vấn đề
+      description: Bạn muốn làm gì, và điều gì đang cản trở?
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Đề xuất
+      description: Whisper Talk nên hoạt động thế nào? Ảnh chụp màn hình hoặc phác thảo càng tốt.
+    validations:
+      required: true
+  - type: dropdown
+    id: area
+    attributes:
+      label: Khu vực
+      options:
+        - Bài viết (chính tả, link)
+        - Giao diện
+        - Điện thoại
+        - Chế độ tối
+        - Tìm kiếm
+        - Tốc độ tải trang
+        - Khác
+    validations:
+      required: true
